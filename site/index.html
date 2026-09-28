@@ -273,7 +273,7 @@
 <div class="page">
   <header>
     <h1>Kanarieindekset</h1>
-    <p class="intro" data-en="Kanarieindekset (the Canary Index) tracks how employment and job postings develop in industries and occupations with different degrees of AI exposure, and whether the development differs for young and older workers. Built on public data from Statistics Denmark and Jobindsats, inspired by Stanford’s &lt;a href=&quot;https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canaries Dashboard&lt;/a&gt;. Updated monthly with the latest figures.">Kanarieindekset følger, hvordan beskæftigelsen og jobopslag udvikler sig i brancher og stillinger med forskellig grad af AI-eksponering, og om udviklingen er forskellig for unge og ældre. Bygget på offentlige data fra Danmarks Statistik og Jobindsats, inspireret af Stanfords <a href="https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/" target="_blank" rel="noopener">Canaries Dashboard</a>. Opdateres månedligt med de nyeste tal.</p>
+    <p class="intro" data-en="Kanarieindekset (the Canary Index) tracks how employment and job postings develop in industries and occupations with different degrees of AI exposure, and whether the development differs for young and older workers. Built on public data from Statistics Denmark and Jobindsats, inspired by Stanford’s &lt;a href=&quot;https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canaries Dashboard&lt;/a&gt;. Updated when new figures are released.">Kanarieindekset følger, hvordan beskæftigelsen og jobopslag udvikler sig i brancher og stillinger med forskellig grad af AI-eksponering, og om udviklingen er forskellig for unge og ældre. Bygget på offentlige data fra Danmarks Statistik og Jobindsats, inspireret af Stanfords <a href="https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/" target="_blank" rel="noopener">Canaries Dashboard</a>. Opdateres, når der kommer nye tal.</p>
   </header>
 
 
@@ -303,7 +303,7 @@
   </section>
 
   <section class="chart" id="sammensaetning">
-    <div class="chart-head"><h2 id="h-comp" data-en="Where did each age group work in 2022?">Hvor arbejdede de forskellige aldersgrupper i 2022?</h2></div>
+    <div class="chart-head"><h2 id="h-comp" data-en="Age groups by industry AI exposure, 2022">Aldersgrupper fordelt efter branchernes AI-eksponering, 2022</h2></div>
     <p class="unit" data-en="Share of employees in the age group, %">Andel af lønmodtagerne i aldersgruppen, pct.</p>
     <div class="legend">
       <span><i style="background: var(--exposed); border-radius: 3px"></i><span data-en="Most exposed">Mest eksponerede</span></span>
@@ -747,14 +747,14 @@
     const shortName = { "IT og software": "IT", "Kundeservice": "Kundeservice", "Kontor og administration": "Kontor",
       "Kommunikation og journalistik": "Kommunikation", "Marketing og reklame": "Marketing", "Grafisk design og web": "Grafisk design" };
     const feltNavn = n => L(n, FELT_EN[n][0]), feltKort = n => L(shortName[n], FELT_EN[n][1]);
-    const alleBr = L("alle brancher", "all industries");
+    const alleBr = L("Alle jobopslag", "All job postings");
     const idxOpt = { x: SG.udgaver, t: tMid, xFmt: q => winLabel(SG.udgaver.indexOf(q)), baseline: 100, events: [{ t: chatgptT, label: "ChatGPT" }] };
     const chg = v => pct0(v - 100);
     document.getElementById("unit-post").textContent = `${L("Antal nye jobopslag", "Number of new job postings")}, ${basisRange} = 100`;
     lineChart(document.getElementById("c-post"), {
       ...idxOpt, include: 100,
-      aria: L("Nye jobopslag i de mest AI-eksponerede stillinger og i alle brancher, halvåret omkring ChatGPT = 100",
-        "New job postings in the most AI-exposed occupations and in all industries, half-year around ChatGPT = 100"),
+      aria: L("Nye jobopslag i de mest AI-eksponerede stillinger og alle jobopslag, halvåret omkring ChatGPT = 100",
+        "New job postings in the most AI-exposed occupations and all job postings, half-year around ChatGPT = 100"),
       series: [
         { label: L("Mest eksponerede", "Most exposed"), short: L("Mest", "Most"), color: css("--exposed"), values: SG.mest, width: 2.5, endFmt: chg, tipFmt: chg },
         { label: alleBr, short: alleBr, color: css("--shielded"), values: SG["alle brancher"], width: 2.5, endFmt: chg, tipFmt: chg }
@@ -763,8 +763,8 @@
     const sgVals = [...Object.keys(fieldColors), "alle brancher"].flatMap(n => SG[n]).filter(v => v != null);
     lineChart(document.getElementById("c-fields"), {
       ...idxOpt, domain: [Math.floor(Math.min(...sgVals) / 10) * 10, Math.ceil(Math.max(...sgVals) / 10) * 10], height: 440,
-      aria: L("Nye jobopslag i seks stillingsgrupper og i alle brancher, halvåret omkring ChatGPT = 100",
-        "New job postings in six occupation groups and in all industries, half-year around ChatGPT = 100"),
+      aria: L("Nye jobopslag i seks stillingsgrupper og alle jobopslag, halvåret omkring ChatGPT = 100",
+        "New job postings in six occupation groups and all job postings, half-year around ChatGPT = 100"),
       series: [
         ...Object.keys(fieldColors).map(n => ({ label: feltNavn(n), short: feltKort(n), tipLabel: feltNavn(n), color: css(fieldColors[n]), values: SG[n], width: 2, endFmt: chg, tipFmt: chg })),
         { label: alleBr, short: alleBr, color: css("--shielded"), values: SG["alle brancher"], width: 3, endFmt: chg, tipFmt: chg }
@@ -799,8 +799,8 @@
         `Data up to ${qLabel(D.kilder.LBESK310.seneste)} · updated ${dateDa(D.bygget)}.`),
       L(`Beskæftigelse: Danmarks Statistik, LBESK310 (hentet ${dateDa(D.kilder.LBESK310.hentet)}). AI-eksponering: Eloundou m.fl. 2024 med FRA029 og LONS20. Jobopslag: Jobindsats, Y25i14 (Jobnet og Jobindex).`,
         `Employment: Statistics Denmark, LBESK310 (retrieved ${dateDa(D.kilder.LBESK310.hentet)}). AI exposure: Eloundou et al. 2024 with FRA029 and LONS20. Job postings: Jobindsats, Y25i14 (Jobnet and Jobindex).`),
-      L("Eksponeringsregel v1.0 (27. september 2026), fastlagt efter de første beregninger: Eloundou m.fl. GPT-4 β pr. DISCO-4, vægtet til brancher med 1-cifret stillingsmix (FRA029 × LONS20, 2022); top-4 og bund-4 af 17 private brancher. ILO 2025 og DST 2024:02 giver samme grupper.",
-        "Exposure rule v1.0 (27 September 2026), fixed after the first calculations: Eloundou et al. GPT-4 β per DISCO-4, weighted to industries by the 1-digit occupation mix (FRA029 × LONS20, 2022); top 4 and bottom 4 of 17 private industries. ILO 2025 and DST 2024:02 give the same groups.")
+      L("Eksponeringsregel v1.0 (27. september 2026), fastlagt efter de første beregninger: Eloundou m.fl. GPT-4 β pr. DISCO-4, vægtet til brancher med 1-cifret stillingsmix (FRA029 × LONS20, 2022); top-4 og bund-4 af 17 private brancher.",
+        "Exposure rule v1.0 (27 September 2026), fixed after the first calculations: Eloundou et al. GPT-4 β per DISCO-4, weighted to industries by the 1-digit occupation mix (FRA029 × LONS20, 2022); top 4 and bottom 4 of 17 private industries.")
     ].forEach(t => f.appendChild(h("div", null, t)));
     // Link til koden, så alle kan genskabe tallene
     const gh = h("div", null, L("Kode og data, så alle kan genskabe tallene: ", "Code and data to reproduce every figure: "));
