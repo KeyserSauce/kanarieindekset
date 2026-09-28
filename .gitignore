@@ -15,6 +15,10 @@
 /site/*
 !/site/index.html
 !/site/data.json
+!/site/kanarie.svg
+!/site/favicon-32.png
+!/site/apple-touch-icon.png
+!/site/og.png
 
 !/data/
 /data/*
