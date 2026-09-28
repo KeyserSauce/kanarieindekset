@@ -1,0 +1,849 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kanarieindekset</title>
+<meta name="description" content="Mister unge terræn i de mest AI-eksponerede brancher i Danmark? Tal fra Danmarks Statistik og Jobindsats.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&family=DM+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --ground: #f3f4f2;
+    --surface: #ffffff;
+    --ink: #14161a;
+    --ink-2: #474c55;
+    --muted: #62676f;
+    --grid: #e4e6e8;
+    --axis: #c4c8cd;
+    --ring: rgba(20, 22, 26, 0.10);
+    --wash: rgba(20, 22, 26, 0.05);
+    --seg-on: #ffffff;
+    --bar: #14161a;
+    --bar-ink: #f4f5f6;
+    --bar-line: #14161a;
+    --exposed: #a87600;
+    --shielded: #2f6fca;
+    --middle: #8a9098;
+    --reference: #8a9098;
+    --c-it: #eb6834;
+    --c-kunde: #1baf7a;
+    --c-kontor: #4a3aa7;
+    --c-komm: #e87ba4;
+    --c-mark: #008300;
+    --c-graf: #e34948;
+    --age1: #c0392b;
+    --age2: #6c4fb8;
+    --age3: #1a9a78;
+    --age4: #8a9098;
+    --sans: "Schibsted Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --mono: "DM Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --ground: #101113;
+      --surface: #17191c;
+      --ink: #f4f5f6;
+      --ink-2: #b9bec6;
+      --muted: #8e939b;
+      --grid: #26292d;
+      --axis: #3a3e44;
+      --ring: rgba(255, 255, 255, 0.10);
+      --wash: rgba(255, 255, 255, 0.06);
+      --seg-on: rgba(255, 255, 255, 0.14);
+      --bar: #17191c;
+      --bar-ink: #f4f5f6;
+      --bar-line: #26292d;
+      --exposed: #f2c230;
+      --shielded: #5b95e6;
+      --middle: #7d838c;
+      --reference: #7d838c;
+      --c-it: #d95926;
+      --c-kunde: #199e70;
+      --c-kontor: #9085e9;
+      --c-komm: #d55181;
+      --c-mark: #2fa12f;
+      --c-graf: #e66767;
+      --age1: #ef6b5f;
+      --age2: #a792ec;
+      --age3: #2cc39a;
+      --age4: #8e949c;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --ground: #101113;
+    --surface: #17191c;
+    --ink: #f4f5f6;
+    --ink-2: #b9bec6;
+    --muted: #8e939b;
+    --grid: #26292d;
+    --axis: #3a3e44;
+    --ring: rgba(255, 255, 255, 0.10);
+    --wash: rgba(255, 255, 255, 0.06);
+    --seg-on: rgba(255, 255, 255, 0.14);
+    --bar: #17191c;
+    --bar-ink: #f4f5f6;
+    --bar-line: #26292d;
+    --exposed: #f2c230;
+    --shielded: #5b95e6;
+    --middle: #7d838c;
+    --reference: #7d838c;
+    --c-it: #d95926;
+    --c-kunde: #199e70;
+    --c-kontor: #9085e9;
+    --c-komm: #d55181;
+    --c-mark: #2fa12f;
+    --c-graf: #e66767;
+    --age1: #ef6b5f;
+    --age2: #a792ec;
+    --age3: #2cc39a;
+    --age4: #8e949c;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font: 16px/1.55 var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  .page { max-width: 1040px; margin: 0 auto; padding: 40px 20px 72px; display: grid; gap: 64px; }
+
+  /* Topbar */
+  .topbar { background: var(--bar); color: var(--bar-ink); border-bottom: 1px solid var(--bar-line); }
+  .topbar nav { max-width: 1040px; margin: 0 auto; padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 24px; font-size: 16px; font-weight: 500; }
+  .topbar .right { display: flex; gap: 24px; }
+  .topbar a { color: inherit; text-decoration: none; }
+  .topbar a:hover { text-decoration: underline; text-underline-offset: 4px; }
+  .topbar .pill { border: 1.5px solid currentColor; border-radius: 999px; padding: 5px 15px; }
+  .topbar .pill:hover { text-decoration: none; background: rgba(255, 255, 255, 0.1); }
+  h1, h2, h3 { margin: 0; text-wrap: balance; }
+  h1 { font-size: clamp(34px, 5.5vw, 52px); line-height: 1.05; font-weight: 800; letter-spacing: -0.02em; }
+  h2 { font-size: 22px; line-height: 1.25; font-weight: 700; letter-spacing: -0.01em; }
+  p { margin: 0; }
+  a { color: inherit; text-decoration-color: var(--axis); text-underline-offset: 3px; }
+  a:hover { text-decoration-color: currentColor; }
+  :focus-visible { outline: 2px solid var(--shielded); outline-offset: 2px; border-radius: 3px; }
+
+  header { display: grid; gap: 16px; }
+  .intro { max-width: 62ch; font-size: 18px; color: var(--ink-2); }
+
+  /* Grafer */
+  section.chart { display: grid; gap: 14px; min-width: 0; }
+  .chart-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px 20px; }
+  .seg { display: flex; flex-wrap: wrap; gap: 4px; background: var(--wash); padding: 3px; border-radius: 7px; }
+  .seg button {
+    font: 500 14px/1 var(--sans); color: var(--ink-2); background: transparent;
+    border: 0; border-radius: 5px; padding: 8px 12px; cursor: pointer;
+  }
+  .seg button:hover { color: var(--ink); }
+  .seg button[aria-pressed="true"] { background: var(--seg-on); color: var(--ink); box-shadow: 0 0 0 1px var(--ring); }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 14px; color: var(--ink-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 7px; }
+  .legend i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .subhead { font-size: 16px; font-weight: 600; margin-top: 8px; }
+  .legend-lines i { width: 16px; height: 2px; border-radius: 1px; }
+  .legend i.hollow { background: transparent; border: 2px solid var(--ink-2); }
+  .plot { position: relative; min-width: 0; background: var(--surface); border-radius: 6px; padding: 12px 14px 6px 8px; }
+  .plot svg { display: block; width: 100%; overflow: visible; touch-action: pan-y; }
+  svg text { font-family: var(--sans); font-size: 12px; fill: var(--muted); }
+  svg .tick { font-variant-numeric: tabular-nums; }
+  svg .end { fill: var(--ink-2); font-size: 13px; font-weight: 500; }
+  svg .end tspan.v { font-weight: 600; fill: var(--ink); }
+  svg .event { fill: var(--muted); font-family: var(--mono); font-size: 11px; }
+  .unit { font-size: 14px; font-style: italic; color: var(--muted); margin-top: -6px; }
+  .notes { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 3px 10px; font-size: 13px; line-height: 1.45; color: var(--muted); max-width: 100ch; }
+  .notes dt { color: var(--ink-2); }
+  .notes dd { margin: 0; }
+
+  .tip {
+    position: absolute; pointer-events: none; z-index: 5; min-width: 180px; max-width: 300px;
+    background: var(--surface); color: var(--ink); border-radius: 6px;
+    box-shadow: 0 0 0 1px var(--ring), 0 8px 24px rgba(0, 0, 0, 0.14);
+    padding: 9px 11px; font-size: 13px; line-height: 1.45;
+  }
+  .tip .t { font: 500 12px/1.4 var(--mono); color: var(--muted); margin-bottom: 4px; }
+  .tip .r { display: grid; grid-template-columns: 12px auto 1fr; gap: 8px; align-items: center; }
+  .tip .r i { width: 12px; height: 2px; border-radius: 1px; }
+  .tip .r b { font-weight: 600; white-space: nowrap; }
+  .tip .r span { color: var(--ink-2); }
+
+  /* Branche-søjler: ét tal pr. branche (unge minus ældre) */
+  .rows { display: grid; gap: 2px; }
+  .row { display: grid; grid-template-columns: minmax(8rem, 13rem) minmax(0, 1fr); gap: 16px; align-items: center; padding: 2px 6px; border-radius: 5px; cursor: default; }
+  .row:hover, .row:focus-visible, .row.on { background: var(--wash); }
+  .row .name { font-size: 14px; line-height: 1.25; }
+  .track { position: relative; height: 22px; }
+  .track .zero { position: absolute; top: -3px; bottom: -3px; width: 1px; background: var(--axis); }
+  .track .bar { position: absolute; top: 4px; height: 14px; }
+  .track .bar.neg { border-radius: 4px 0 0 4px; }
+  .track .bar.pos { border-radius: 0 4px 4px 0; }
+  .track .val { position: absolute; top: 3px; font-size: 13px; font-weight: 600; color: var(--ink); white-space: nowrap; }
+  .axisrow { display: grid; grid-template-columns: minmax(8rem, 13rem) minmax(0, 1fr); gap: 16px; padding: 10px 6px 2px; }
+  .axisrow .ticks { position: relative; height: 16px; font: 12px/1 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .axisrow .ticks span { position: absolute; transform: translateX(-50%); white-space: nowrap; }
+  .legend i.sq { border-radius: 3px; }
+
+  .card-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; min-height: 36px; }
+  .card-head .seg button { padding: 6px 9px; font-size: 13px; }
+
+  /* Afsnit */
+  .part { display: grid; gap: 56px; }
+  .part-head { display: grid; gap: 10px; border-top: 2px solid var(--ink); padding-top: 18px; }
+  .part-head h2 { font-size: 30px; font-weight: 800; letter-spacing: -0.02em; }
+  .part-head p { color: var(--ink-2); max-width: 66ch; font-size: 16px; }
+  /* Prikdiagram (ændring det seneste år) */
+  .dots { display: grid; gap: 6px; }
+  .dotrow { display: grid; grid-template-columns: minmax(7rem, 11rem) minmax(0, 1fr); gap: 16px; align-items: center; }
+  .dotrow .name { font-size: 14px; font-weight: 600; }
+  .dotrow .track { position: relative; height: 96px; }
+  .dotrow .track .zero { top: -3px; bottom: -3px; }
+  .dotrow .line { position: absolute; top: 48px; left: 0; right: 0; height: 1px; background: var(--grid); }
+  .dotrow .dot { position: absolute; top: 41px; width: 14px; height: 14px; margin-left: -7px; border-radius: 50%; box-shadow: 0 0 0 2px var(--surface); z-index: 2; }
+  .dotrow .lab { position: absolute; font-size: 12px; white-space: nowrap; transform: translateX(-50%); color: var(--ink-2); }
+  .dotrow .lab b { color: var(--ink); font-weight: 600; }
+  .sentences { display: grid; gap: 6px; font-size: 14px; color: var(--ink-2); max-width: 80ch; }
+  /* Stablede søjler (sammensætning) */
+  .stack { display: grid; gap: 8px; }
+  .stackrow { display: grid; grid-template-columns: minmax(6rem, 9rem) minmax(0, 1fr); gap: 16px; align-items: center; }
+  .stackrow .bar { display: flex; gap: 2px; height: 26px; }
+  .stackrow .bar div { display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; overflow: hidden; white-space: nowrap; }
+  .stackrow .bar div:first-child { border-radius: 4px 0 0 4px; }
+  .stackrow .bar div:last-child { border-radius: 0 4px 4px 0; }
+  @media (max-width: 720px) { .dotrow, .stackrow { grid-template-columns: minmax(0, 1fr); gap: 2px; } }
+
+  /* To paneler side om side */
+  .duo { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  @media (max-width: 720px) { .duo { grid-template-columns: minmax(0, 1fr); } }
+
+  /* 2×2 aldersgrupper */
+  .quad { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  @media (max-width: 720px) { .quad { grid-template-columns: minmax(0, 1fr); } }
+
+  /* Små multipler */
+  .minis { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .mini { display: grid; gap: 6px; min-width: 0; }
+  .mini h3 { font-size: 15px; font-weight: 600; }
+
+  /* Tabelvisning */
+  details.table summary { cursor: pointer; font-size: 14px; color: var(--ink-2); width: fit-content; }
+  details.table summary:hover { color: var(--ink); }
+  .table-wrap { overflow-x: auto; margin-top: 10px; max-height: 340px; overflow-y: auto; background: var(--surface); border-radius: 6px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+  th, td { padding: 6px 12px; text-align: right; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+  th:first-child, td:first-child { text-align: left; }
+  thead th { position: sticky; top: 0; background: var(--surface); font-weight: 600; color: var(--ink-2); }
+
+  /* Tekst */
+  .prose { display: grid; gap: 14px; max-width: 70ch; }
+  .prose ul { margin: 0; padding-left: 20px; display: grid; gap: 10px; color: var(--ink-2); }
+  .prose li b, .prose p b { color: var(--ink); font-weight: 600; }
+  .prose p { color: var(--ink-2); }
+  footer { font: 12.5px/1.6 var(--mono); color: var(--muted); display: grid; gap: 6px; max-width: 110ch; }
+
+  @media (max-width: 960px) {
+    .minis { grid-template-columns: minmax(0, 1fr); }
+  }
+  @media (max-width: 720px) {
+    .page { padding: 28px 16px 56px; }
+    .topbar nav { padding: 12px 16px; font-size: 15px; gap: 10px 18px; }
+    .topbar .right { gap: 18px; }
+    .page { gap: 52px; }
+    .row, .axisrow { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+    .axisrow > div:first-child { display: none; }
+    .row .name { font-size: 13px; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <nav aria-label="Hovedmenu" data-en-aria="Main menu">
+    <a class="pill" id="nav-home" href="./" data-en="Economic indicators">Økonomiske indikatorer</a>
+    <span class="right">
+      <a href="mailto:kontakt@kanarieindekset.dk" data-en="Contact">Kontakt</a>
+      <a id="nav-lang" href="?lang=en" hreflang="en" lang="en">English</a>
+    </span>
+  </nav>
+</div>
+<div class="page">
+  <header>
+    <h1>Kanarieindekset</h1>
+    <p class="intro" data-en="Kanarieindekset (the Canary Index) tracks how employment and job postings develop in industries and occupations with different degrees of AI exposure, and whether the development differs for young and older workers. Built on public data from Statistics Denmark and Jobindsats, inspired by Stanford’s &lt;a href=&quot;https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canaries Dashboard&lt;/a&gt;. Updated monthly with the latest figures.">Kanarieindekset følger, hvordan beskæftigelsen og jobopslag udvikler sig i brancher og stillinger med forskellig grad af AI-eksponering, og om udviklingen er forskellig for unge og ældre. Bygget på offentlige data fra Danmarks Statistik og Jobindsats, inspireret af Stanfords <a href="https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/" target="_blank" rel="noopener">Canaries Dashboard</a>. Opdateres månedligt med de nyeste tal.</p>
+  </header>
+
+
+  <div class="part" id="del-beskaeftigelse">
+  <div class="part-head">
+    <h2 data-en="Employment since ChatGPT">Beskæftigelse siden ChatGPT</h2>
+  </div>
+
+  <section class="chart" id="aendring">
+    <div class="chart-head"><h2 id="h-yoy" data-en="Change since ChatGPT">Ændring siden ChatGPT</h2></div>
+    <p class="unit" data-en="Change in the number of employees from 2022 to the latest year, %">Ændring i antal lønmodtagere fra 2022 til det seneste år, pct.</p>
+    <div class="plot" style="padding: 10px 16px 12px"><div class="dots" id="c-yoy"></div></div>
+    <dl class="notes" id="src-yoy"></dl>
+  </section>
+
+  <section class="chart" id="beskaeftigelse">
+    <div class="chart-head">
+      <h2 id="h-emp">Lønmodtagere i de mest og mindst AI-eksponerede brancher</h2>
+    </div>
+    <p class="unit" data-en="Number of employees, 2022 = 100">Antal lønmodtagere, 2022 = 100</p>
+    <div class="duo">
+      <div class="mini"><div class="card-head"><h3 id="emp-age-title">15–24 år</h3><div class="seg" id="age-seg" role="group" aria-label="Aldersgruppe" data-en-aria="Age group"></div></div><div class="plot" id="c-emp"></div></div>
+      <div class="mini"><div class="card-head"><h3 data-en="All ages">Alle aldre</h3></div><div class="plot" id="c-emp-all"></div></div>
+    </div>
+    <dl class="notes" id="src-emp"></dl>
+    <details class="table"><summary data-en="Show figures">Vis tal</summary><div class="table-wrap"><table id="t-emp"></table></div></details>
+  </section>
+
+  <section class="chart" id="sammensaetning">
+    <div class="chart-head"><h2 id="h-comp" data-en="Where did each age group work in 2022?">Hvor arbejdede de forskellige aldersgrupper i 2022?</h2></div>
+    <p class="unit" data-en="Share of employees in the age group, %">Andel af lønmodtagerne i aldersgruppen, pct.</p>
+    <div class="legend">
+      <span><i style="background: var(--exposed); border-radius: 3px"></i><span data-en="Most exposed">Mest eksponerede</span></span>
+      <span><i style="background: var(--middle); border-radius: 3px"></i><span data-en="Middle">Middel</span></span>
+      <span><i style="background: var(--shielded); border-radius: 3px"></i><span data-en="Least exposed">Mindst eksponerede</span></span>
+      <span><i style="background: var(--axis); border-radius: 3px"></i><span data-en="Mainly public">Overvejende offentlige</span></span>
+    </div>
+    <div class="plot" style="padding: 14px 16px"><div class="stack" id="c-comp"></div></div>
+    <dl class="notes" id="src-comp"></dl>
+  </section>
+
+  <section class="chart" id="naerbilleder">
+    <div class="chart-head"><h2 id="h-close">Fire brancher efter alder</h2></div>
+    <p class="unit" data-en="Number of employees, 2022 = 100">Antal lønmodtagere, 2022 = 100</p>
+    <div class="quad" id="c-close"></div>
+    <dl class="notes" id="src-close"></dl>
+  </section>
+  </div>
+
+  <div class="part" id="del-jobopslag">
+  <div class="part-head">
+    <h2 data-en="Job postings">Jobopslag</h2>
+  </div>
+
+  <section class="chart" id="jobopslag">
+    <div class="chart-head">
+      <h2 id="h-post">Nye jobopslag</h2>
+    </div>
+    <p class="unit" id="unit-post">Antal nye jobopslag</p>
+    <div class="plot" id="c-post"></div>
+    <h3 class="subhead" data-en="Occupation groups">Stillingsgrupper</h3>
+    <div class="plot" id="c-fields"></div>
+    <dl class="notes" id="src-post"></dl>
+    <details class="table"><summary data-en="Show figures">Vis tal</summary><div class="table-wrap"><table id="t-post"></table></div></details>
+  </section>
+  </div>
+
+  <section class="prose" id="om">
+    <h2 data-en="About the figures">Om tallene</h2>
+    <p data-en="&lt;b&gt;AI exposure&lt;/b&gt; is the share of a job’s tasks where a language model such as ChatGPT can halve the time needed (&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adj0998&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Eloundou et al. 2024&lt;/a&gt;, the same measure as Stanford’s). The score is carried over to industries based on the jobs in each industry. Of 17 mainly private industries, the four most exposed are finance, IT and telecom, media, and consulting and research (a borderline case). The four least exposed are agriculture, water and waste, construction, and hotels and restaurants."><b>AI-eksponering</b> er den andel af et jobs arbejdsopgaver, hvor en sprogmodel som ChatGPT kan halvere tidsforbruget (<a href="https://www.science.org/doi/10.1126/science.adj0998" target="_blank" rel="noopener">Eloundou m.fl. 2024</a>, samme mål som Stanford). Scoren er overført til brancher ud fra, hvilke job hver branche har. Af 17 overvejende private brancher er de fire mest eksponerede finans, IT og tele, medier samt rådgivning og forskning (et grænsetilfælde). De fire mindst eksponerede er landbrug, vand og affald, byggeri samt hoteller og restauranter.</p>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+(function () {
+  const NS = "http://www.w3.org/2000/svg";
+  // Sprog: dansk som standard, engelsk med ?lang=en eller knappen i topbaren. L(dansk, engelsk) vælger teksten.
+  let LANG = "da";
+  try { if (new URLSearchParams(location.search).get("lang") === "en") LANG = "en"; } catch (e) {}
+  const L = (da, en) => (LANG === "en" ? en : da);
+  let nf1, nf0, PCT;
+  const setFormats = () => {
+    const loc = L("da-DK", "en-GB");
+    nf1 = new Intl.NumberFormat(loc, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+    nf0 = new Intl.NumberFormat(loc, { maximumFractionDigits: 0 });
+    PCT = L(" %", "%");
+  };
+  setFormats();
+  const MINUS = "−";
+  const signed0 = v => (v == null ? "–" : (Math.round(v) > 0 ? "+" : Math.round(v) < 0 ? MINUS : "") + nf0.format(Math.abs(Math.round(v))));
+  const signed1 = v => (v == null ? "–" : (v > 0 ? "+" : v < 0 ? MINUS : "") + nf1.format(Math.abs(v)));
+  const pct0 = v => signed0(v) + PCT;
+  const pct1 = v => signed1(v) + PCT;
+  const abs0 = v => nf0.format(Math.abs(Math.round(v)));
+  const num = v => (v == null ? "–" : nf0.format(v));
+  const idx = v => (v == null ? "–" : nf1.format(v));
+  const monthsDa = ["januar", "februar", "marts", "april", "maj", "juni", "juli", "august", "september", "oktober", "november", "december"];
+  const monthsEn = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  const dateDa = iso => { const [y, m, d] = iso.split("-").map(Number); return L(`${d}. ${monthsDa[m - 1]} ${y}`, `${d} ${monthsEn[m - 1]} ${y}`); };
+  const qLabel = p => p.replace(/(\d{4})K(\d)/, L("$2. kvt. $1", "Q$2 $1"));
+  const css = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+  const lowerFirst = s => (/^[A-ZÆØÅ][A-ZÆØÅ]/.test(s) ? s : s.charAt(0).toLowerCase() + s.slice(1));
+  const el = (tag, attrs = {}, parent) => {
+    const n = document.createElementNS(NS, tag);
+    for (const k in attrs) n.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(n);
+    return n;
+  };
+  const h = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+
+  function niceTicks(min, max, count) {
+    const span = max - min, step0 = span / Math.max(1, count);
+    const mag = Math.pow(10, Math.floor(Math.log10(step0)));
+    const step = [1, 2, 2.5, 5, 10].map(s => s * mag).find(s => span / s <= count) || 10 * mag;
+    const out = [];
+    for (let v = Math.ceil(min / step) * step; v <= max + 1e-9; v += step) out.push(+v.toFixed(6));
+    return out;
+  }
+
+  function placeTip(host, tip, px) {
+    const tw = tip.offsetWidth, hw = host.clientWidth;
+    let left = px + 14;
+    if (left + tw > hw - 4) left = px - tw - 14;
+    tip.style.left = Math.max(4, Math.min(left, hw - tw - 4)) + "px";
+  }
+
+  // Linjegraf: slutetiketter med farvenøgle, begivenhedsmarkører, crosshair-tooltip (mus, tryk, tastatur).
+  function lineChart(host, opt) {
+    host.textContent = "";
+    const W = Math.max(280, host.clientWidth - 22);
+    const narrow = W < 560;
+    const H = opt.height || (narrow ? 270 : 340);
+    // Plads til slutetiketter: beregnet ud fra den længste etiket (ca. 7 px pr. tegn ved 13 px)
+    const endText = s => { let i = s.values.length - 1; while (i >= 0 && s.values[i] == null) i--; const nm = narrow && s.short ? s.short : s.label; return (nm ? nm + " " : "") + (i < 0 ? "" : s.endFmt ? s.endFmt(s.values[i]) : idx(s.values[i])); };
+    const labelW = opt.labelW != null ? opt.labelW : Math.min(W * 0.42, 30 + 7 * Math.max(...opt.series.filter(s => !s.noEnd).map(s => endText(s).length)));
+    const m = { t: 30, r: labelW, b: 40, l: 38 };
+    const iw = W - m.l - m.r, ih = H - m.t - m.b;
+    const n = opt.x.length;
+    let lo, hi;
+    if (opt.domain) { [lo, hi] = opt.domain; }
+    else {
+      const vals = opt.series.flatMap(s => s.values).filter(v => v != null);
+      lo = Math.min(...vals, opt.include ?? Infinity); hi = Math.max(...vals, opt.include ?? -Infinity);
+      const pad = (hi - lo) * 0.08 || 1; lo -= pad; hi += pad;
+    }
+    const ticks = niceTicks(lo, hi, narrow || opt.height ? 4 : 5);
+    lo = Math.min(lo, ticks[0]); hi = Math.max(hi, ticks[ticks.length - 1]);
+    // Valgfri tidsakse: opt.t = måneder (år*12 + måned-1, gerne med decimaler). Ellers ligelig afstand.
+    const T = opt.t, t0 = T ? T[0] : 0, t1 = T ? T[T.length - 1] : 1;
+    const XT = t => m.l + ((t - t0) / (t1 - t0)) * iw;
+    const X = i => (T ? XT(T[i]) : m.l + (n <= 1 ? 0 : (i / (n - 1)) * iw));
+    const Y = v => m.t + (1 - (v - lo) / (hi - lo)) * ih;
+
+    const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": opt.aria || "" }, host);
+    const g = el("g", {}, svg);
+    ticks.forEach(t => {
+      el("line", { x1: m.l, x2: m.l + iw, y1: Y(t), y2: Y(t), stroke: t === opt.baseline ? css("--axis") : css("--grid"), "stroke-width": 1 }, g);
+      el("text", { x: m.l - 8, y: Y(t) + 4, "text-anchor": "end", class: "tick" }, g).textContent = nf0.format(t);
+    });
+    // Lodret linje ved hvert årsskifte med et skråt årstal under
+    const years = [];
+    if (T) {
+      for (let y = Math.ceil(t0 / 12); y * 12 <= t1; y++) years.push({ y: String(y), x: XT(y * 12) });
+    } else {
+      opt.x.forEach((p, i) => { if (i > 0 && p.slice(0, 4) !== opt.x[i - 1].slice(0, 4)) years.push({ y: p.slice(0, 4), x: X(i - 0.5) }); });
+    }
+    let lastX = -Infinity;
+    years.forEach(yr => {
+      el("line", { x1: yr.x, x2: yr.x, y1: m.t, y2: m.t + ih, stroke: css("--grid"), "stroke-width": 1 }, g);
+      if (yr.x - lastX < 16) return;
+      const ty = m.t + ih + 14;
+      el("text", { x: yr.x + 4, y: ty, "text-anchor": "end", class: "tick", transform: `rotate(-45 ${yr.x + 4} ${ty})` }, g).textContent = yr.y;
+      lastX = yr.x;
+    });
+    if (opt.yLabel) el("text", { x: m.l - 30, y: 12, class: "tick" }, g).textContent = opt.yLabel;
+    let evRight = -Infinity;
+    (opt.events || []).forEach(ev => {
+      let ex;
+      if (ev.t != null && T) ex = XT(ev.t);
+      else { const i = opt.x.indexOf(ev.at); if (i < 0) return; ex = X(i); }
+      el("line", { x1: ex, x2: ex, y1: m.t, y2: m.t + ih, stroke: css("--muted"), "stroke-width": 1, "stroke-dasharray": "2 3" }, g);
+      // Etiketter, der ville ramme den forrige, rykkes ned i grafen
+      const t = el("text", { x: ex + 5, y: ex + 5 < evRight + 6 ? m.t + 12 : m.t - 6, class: "event" }, g);
+      t.textContent = ev.label;
+      evRight = Math.max(evRight, ex + 5 + t.getComputedTextLength());
+    });
+    opt.series.forEach(s => {
+      let d = "";
+      s.values.forEach((v, i) => { if (v == null) return; d += (d && s.values[i - 1] != null ? "L" : "M") + X(i).toFixed(1) + "," + Y(v).toFixed(1); });
+      el("path", { d, fill: "none", stroke: s.color, "stroke-width": s.width || 2, "stroke-linejoin": "round", "stroke-linecap": "round" }, g);
+    });
+    // Slutetiketter: én linje (navn + værdi) med en kort streg i seriens farve; skubbes fra hinanden ved kollision.
+    const ends = opt.series.map(s => {
+      let i = s.values.length - 1; while (i >= 0 && s.values[i] == null) i--;
+      return { s, i, y: Y(s.values[i]) };
+    }).filter(e => e.i >= 0).sort((a, b) => a.y - b.y);
+    const gap = 18;
+    ends.forEach((e, k) => { e.ly = k && e.y - ends[k - 1].ly < gap ? ends[k - 1].ly + gap : e.y; });
+    const over = ends.length ? ends[ends.length - 1].ly - (m.t + ih) : 0;
+    if (over > 0) ends.forEach(e => { e.ly -= over; });
+    ends.forEach(e => {
+      el("circle", { cx: X(e.i), cy: e.y, r: 4, fill: e.s.color, stroke: css("--surface"), "stroke-width": 2 }, g);
+      if (e.s.noEnd) return;
+      const x0 = X(e.i) + 8;
+      el("path", { d: `M${x0},${e.y} L${x0 + 6},${e.ly} L${x0 + 14},${e.ly}`, fill: "none", stroke: e.s.color, "stroke-width": 2, "stroke-linecap": "round", opacity: 0.9 }, g);
+      const t = el("text", { x: x0 + 19, y: e.ly + 4, class: "end" }, g);
+      const name = narrow && e.s.short ? e.s.short : e.s.label;
+      if (name) t.appendChild(document.createTextNode(name + " "));
+      const v = el("tspan", { class: "v" }, t);
+      v.textContent = e.s.endFmt ? e.s.endFmt(e.s.values[e.i]) : idx(e.s.values[e.i]);
+    });
+    // Crosshair og tooltip
+    const cross = el("line", { y1: m.t, y2: m.t + ih, stroke: css("--axis"), "stroke-width": 1, visibility: "hidden" }, g);
+    const dots = opt.series.map(s => el("circle", { r: 4, fill: s.color, stroke: css("--surface"), "stroke-width": 2, visibility: "hidden" }, g));
+    const tip = h("div", "tip"); tip.hidden = true; host.appendChild(tip);
+    const hit = el("rect", { x: m.l, y: m.t, width: iw, height: ih, fill: "transparent", tabindex: 0, "aria-label": L("Brug piletasterne for at se tallene", "Use the arrow keys to see the figures") }, svg);
+    let cur = n - 1;
+    function show(i) {
+      cur = Math.max(0, Math.min(n - 1, i));
+      const x = X(cur);
+      cross.setAttribute("x1", x); cross.setAttribute("x2", x); cross.setAttribute("visibility", "visible");
+      opt.series.forEach((s, k) => {
+        const v = s.values[cur];
+        if (v == null) { dots[k].setAttribute("visibility", "hidden"); return; }
+        dots[k].setAttribute("cx", x); dots[k].setAttribute("cy", Y(v)); dots[k].setAttribute("visibility", "visible");
+      });
+      tip.textContent = "";
+      tip.appendChild(h("div", "t", opt.xFmt ? opt.xFmt(opt.x[cur]) : opt.x[cur]));
+      opt.series.forEach(s => {
+        const v = s.values[cur]; if (v == null) return;
+        const r = h("div", "r"); const key = h("i"); key.style.background = s.color;
+        r.append(key, h("b", null, s.tipFmt ? s.tipFmt(v, cur) : idx(v)), h("span", null, s.tipLabel || s.label));
+        tip.appendChild(r);
+      });
+      tip.hidden = false;
+      const scale = svg.getBoundingClientRect().width / W;
+      placeTip(host, tip, x * scale + 8);
+      tip.style.top = (m.t * scale + 6) + "px";
+    }
+    function hide() { cross.setAttribute("visibility", "hidden"); dots.forEach(d => d.setAttribute("visibility", "hidden")); tip.hidden = true; }
+    const at = ev => {
+      const r = svg.getBoundingClientRect(), px = (ev.clientX - r.left) * (W / r.width);
+      if (!T) return Math.round((px - m.l) / iw * (n - 1));
+      let best = 0; for (let i = 1; i < n; i++) if (Math.abs(X(i) - px) < Math.abs(X(best) - px)) best = i; return best;
+    };
+    hit.addEventListener("pointermove", ev => show(at(ev)));
+    hit.addEventListener("pointerdown", ev => show(at(ev)));
+    hit.addEventListener("pointerleave", ev => { if (ev.pointerType !== "touch") hide(); });
+    hit.addEventListener("focus", () => show(cur));
+    hit.addEventListener("blur", hide);
+    hit.addEventListener("keydown", ev => {
+      if (ev.key === "ArrowLeft") { show(cur - 1); ev.preventDefault(); }
+      if (ev.key === "ArrowRight") { show(cur + 1); ev.preventDefault(); }
+    });
+  }
+
+  function segmented(host, options, current, onPick) {
+    host.textContent = "";
+    options.forEach(o => {
+      const b = h("button", null, o.label);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(o.key === current));
+      b.addEventListener("click", () => {
+        host.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", "false"));
+        b.setAttribute("aria-pressed", "true");
+        onPick(o.key);
+      });
+      host.appendChild(b);
+    });
+  }
+
+  function notes(id, anm, kilde) {
+    const dl = document.getElementById(id);
+    dl.textContent = "";
+    [[L("Anm.:", "Note:"), anm], [L("Kilde:", "Source:"), kilde]].forEach(([k, v]) => { dl.append(h("dt", null, k), h("dd", null, v)); });
+  }
+
+  function fillTable(table, head, rows) {
+    table.textContent = "";
+    const th = table.createTHead().insertRow();
+    head.forEach(c => { const x = document.createElement("th"); x.textContent = c; th.appendChild(x); });
+    const tb = table.createTBody();
+    rows.forEach(r => { const tr = tb.insertRow(); r.forEach(c => { tr.insertCell().textContent = c; }); });
+  }
+
+  
+
+  const state = { age: "15-24" };
+
+  // Engelske navne på brancher (DB25) og stillingsgrupper; data.json har de danske
+  const BRANCHE_EN = { L: "Finance and insurance", K: "IT and telecom", J: "Publishing and media", N: "Consulting and research",
+    Q: "Education", D: "Energy supply", P: "Public administration", TUV: "Organisations and other services", R: "Health and social work",
+    S: "Culture and leisure", M: "Real estate", G: "Trade", B: "Mining and quarrying", C: "Manufacturing", H: "Transport",
+    O: "Administrative services", E: "Water and waste", I: "Hotels and restaurants", F: "Construction", A: "Agriculture and fishing" };
+  const FELT_EN = { "IT og software": ["IT and software", "IT"], "Kundeservice": ["Customer service", "Customer service"],
+    "Kontor og administration": ["Office and administration", "Office"], "Kommunikation og journalistik": ["Communication and journalism", "Communication"],
+    "Marketing og reklame": ["Marketing and advertising", "Marketing"], "Grafisk design og web": ["Graphic design and web", "Graphic design"] };
+
+  const last = arr => { for (let i = arr.length - 1; i >= 0; i--) if (arr[i] != null) return arr[i]; return null; };
+
+  function render(D) {
+    const E = D.beskaeftigelse, B = D.brancher;
+    const kort = Object.fromEntries(B.map(b => [b.kode, L(b.kort, BRANCHE_EN[b.kode] || b.kort)]));
+    const byKode = Object.fromEntries(B.map(b => [b.kode, b]));
+    const slutQ = E.perioder[E.perioder.length - 1];
+    const slutFra = E.perioder[E.perioder.length - 4];
+    // Graf 1
+    const groups = [
+      { key: "mest", color: "--exposed", label: L("Mest eksponerede", "Most exposed"), short: L("Mest", "Most") },
+      { key: "middel", color: "--middle", label: L("Middel", "Middle"), short: L("Middel", "Middle") },
+      { key: "mindst", color: "--shielded", label: L("Mindst eksponerede", "Least exposed"), short: L("Mindst", "Least") }
+    ];
+    const members = key => E.grupper[key].brancher.map(k => lowerFirst(kort[k])).join(", ");
+    const ageLabels = Object.fromEntries(["15-24", "25-34", "35-44", "45-64"].map(a => [a, L(`${a.replace("-", "–")} år`, `Ages ${a.replace("-", "–")}`)]));
+    const allAgesName = L("Alle aldre", "All ages");
+    const allAges = [...Object.keys(ageLabels), "15-64"];
+    const vals = allAges.flatMap(a => groups.flatMap(gr => E.serier[a][gr.key])).filter(v => v != null);
+    const empDom = [Math.floor(Math.min(...vals) / 5) * 5, Math.ceil(Math.max(...vals) / 5) * 5];
+    const empChart = (host, a) => lineChart(host, {
+      x: E.perioder, xFmt: qLabel, baseline: 100, domain: empDom, height: 300,
+      events: [{ at: E.chatgpt, label: "ChatGPT" }],
+      aria: L(`Lønmodtagere ${a === "15-64" ? "i alle aldre" : ageLabels[a]} i de mest, middel og mindst AI-eksponerede brancher, 2022 = 100`,
+        `Employees ${a === "15-64" ? "of all ages" : ageLabels[a].toLowerCase()} in the most, middle and least AI-exposed industries, 2022 = 100`),
+      series: groups.map(gr => ({
+        label: gr.short, short: gr.short, tipLabel: gr.label, color: css(gr.color), values: E.serier[a][gr.key],
+        endFmt: v => pct0(v - 100),
+        tipFmt: (v, i) => `${num(E.antal[a][gr.key][i])} ${L("personer", "people")} (${pct0(v - 100)})`,
+        width: gr.key === "mest" ? 2.5 : 2
+      }))
+    });
+    function drawEmp() {
+      empChart(document.getElementById("c-emp-all"), "15-64");
+      empChart(document.getElementById("c-emp"), state.age);
+      document.getElementById("emp-age-title").textContent = ageLabels[state.age];
+      fillTable(document.getElementById("t-emp"),
+        [L("Kvartal", "Quarter"), ...allAges.flatMap(a => groups.map(gr => `${a === "15-64" ? allAgesName : ageLabels[a]}, ${gr.short.toLowerCase()} (2022 = 100)`))],
+        E.perioder.map((p, i) => [qLabel(p), ...allAges.flatMap(a => groups.map(gr => idx(E.serier[a][gr.key][i])))]).reverse());
+    }
+    segmented(document.getElementById("age-seg"), Object.keys(ageLabels).map(k => ({ key: k, label: k.replace("-", "–") })), state.age,
+      k => { state.age = k; empChart(document.getElementById("c-emp"), k); document.getElementById("emp-age-title").textContent = ageLabels[k]; });
+    drawEmp();
+
+    // ---- Stanford-hovedgraf: ændring det seneste år (seneste fire kvartaler mod de fire før), som prikker
+    // Ændring siden ChatGPT: seneste fire kvartaler mod gennemsnittet af 2022 (samme tal som i graferne nedenfor)
+    const yoy = arr => { const v = last(arr); return v == null ? null : v - 100; };
+    const ageKeys = ["15-24", "25-34", "35-44", "45-64"];
+    const ageColor = { "15-24": "--age1", "25-34": "--age2", "35-44": "--age3", "45-64": "--age4" };
+    const ageName = a => L(a.replace("-", "–") + " år", "Ages " + a.replace("-", "–"));
+    const rowsYoy = [
+      { name: L("Alle brancher", "All industries"), pts: ageKeys.map(a => ({ lab: ageName(a), v: yoy(E.serier[a].alle), c: ageColor[a] })) },
+      { name: allAgesName, pts: groups.map(g => ({ lab: g.label, v: yoy(E.serier["15-64"][g.key]), c: g.color })) },
+      { name: ageName("15-24"), pts: groups.map(g => ({ lab: g.label, v: yoy(E.serier["15-24"][g.key]), c: g.color })) }
+    ];
+    (function drawYoy() {
+      const host = document.getElementById("c-yoy");
+      host.textContent = "";
+      const vals = rowsYoy.flatMap(r => r.pts.map(p => p.v)).filter(v => v != null);
+      const lim = Math.ceil(Math.max(2, ...vals.map(Math.abs)) / 2) * 2;
+      const P = v => ((v + lim) / (2 * lim)) * 100;
+      rowsYoy.forEach(r => {
+        const row = h("div", "dotrow");
+        row.appendChild(h("div", "name", r.name));
+        const tr = h("div", "track");
+        tr.appendChild(h("div", "line"));
+        const z = h("div", "zero"); z.style.left = P(0) + "%"; tr.appendChild(z);
+        // Prikker; ens værdier skubbes en smule til siden, så begge kan ses
+        const pts = r.pts.slice().sort((a, b) => a.v - b.v);
+        pts.forEach((pt, k) => {
+          const same = pts.filter(q => Math.abs(q.v - pt.v) < 0.05);
+          const off = same.length > 1 ? (same.indexOf(pt) - (same.length - 1) / 2) * 12 : 0;
+          const d = h("div", "dot"); d.style.left = `calc(${P(pt.v)}% + ${off}px)`; d.style.background = `var(${pt.c})`;
+          d.title = `${pt.lab}: ${pct1(pt.v)}`;
+          tr.appendChild(d);
+          const l = h("div", "lab"); l.style.left = `calc(${P(pt.v)}% + ${off}px)`;
+          l.append(pt.lab + " ", h("b", null, pct1(pt.v)));
+          tr.appendChild(l); pt.el = l;
+        });
+        row.appendChild(tr);
+        host.appendChild(row);
+        // Etiketter i fire baner (over tæt, under tæt, over langt, under langt); hver får den første ledige bane
+        const lanes = [22, 58, 4, 76], used = lanes.map(() => []);
+        pts.forEach(pt => {
+          const w = pt.el.offsetWidth, cx = pt.el.offsetLeft, lft = cx - w / 2 - 4, rgt = cx + w / 2 + 4;
+          let k = used.findIndex(u => u.every(([a, b]) => rgt < a || lft > b));
+          if (k < 0) k = 0;
+          used[k].push([lft, rgt]);
+          pt.el.style.top = lanes[k] + "px";
+        });
+      });
+      const ax = h("div", "dotrow"); ax.appendChild(h("div"));
+      const tk = h("div", "ticks"); tk.className = "axisrow-ticks"; tk.style.position = "relative"; tk.style.height = "16px"; tk.style.font = "12px/1 var(--sans)"; tk.style.color = "var(--muted)";
+      [-lim, -lim / 2, 0, lim / 2, lim].forEach(v => { const sp = h("span", null, (v > 0 ? "+" : v < 0 ? MINUS : "") + nf0.format(Math.abs(v)) + PCT); sp.style.position = "absolute"; sp.style.whiteSpace = "nowrap"; sp.style.left = P(v) + "%"; sp.style.transform = v === -lim ? "none" : v === lim ? "translateX(-100%)" : "translateX(-50%)"; tk.appendChild(sp); });
+      ax.appendChild(tk); host.appendChild(ax);
+    })();
+    const dstKilde = L("Danmarks Statistik (LBESK310) og egne beregninger.", "Statistics Denmark (LBESK310) and own calculations.");
+    const sidste4 = `${qLabel(E.perioder[E.perioder.length - 4])}–${qLabel(E.perioder[E.perioder.length - 1])}`;
+    notes("src-yoy", L(`Gennemsnittet af 2022 sammenlignet med gennemsnittet af ${sidste4}. Samme tal og gruppering af brancher som i graferne nedenfor. ChatGPT blev lanceret 30. november 2022.`,
+      `Average of 2022 compared with the average of ${sidste4}. Same figures and grouping of industries as in the charts below. ChatGPT was launched on 30 November 2022.`), dstKilde);
+
+    // ---- Sammensætning i 2022
+    (function drawComp() {
+      const host = document.getElementById("c-comp"); host.textContent = "";
+      const segs = [["mest", "--exposed"], ["middel", "--middle"], ["mindst", "--shielded"], ["offentlig", "--axis"]];
+      const lum = hex => { const m = /#?([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i.exec(hex); if (!m) return 0.5; const [r, g, b] = m.slice(1).map(x => parseInt(x, 16) / 255); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+      [...ageKeys, "15-64"].forEach(a => {
+        const c = E.sammensaetning[a];
+        const row = h("div", "stackrow");
+        row.appendChild(h("div", "name", a === "15-64" ? allAgesName : ageName(a)));
+        const bar = h("div", "bar");
+        segs.forEach(([k, col]) => {
+          const v = c[k]; const seg = h("div", null, v >= 7 ? nf0.format(v) + PCT : "");
+          const hex = css(col); seg.style.width = v + "%"; seg.style.background = hex; seg.style.color = lum(hex) > 0.55 ? "#14161a" : "#ffffff";
+          const kNavn = { mest: L("mest eksponerede", "most exposed"), middel: L("middel", "middle"), mindst: L("mindst eksponerede", "least exposed"), offentlig: L("overvejende offentlige", "mainly public") }[k];
+          seg.title = `${a === "15-64" ? allAgesName : ageName(a)}: ${nf1.format(v)}${PCT} ${L("i", "in")} ${kNavn} ${L("brancher", "industries")}`;
+          bar.appendChild(seg);
+        });
+        row.appendChild(bar); host.appendChild(row);
+      });
+    })();
+    const ungeMest = nf0.format(E.sammensaetning["15-24"].mest) + PCT, alleMest = nf0.format(E.sammensaetning["15-64"].mest) + PCT;
+    notes("src-comp", L(`Gennemsnit af 2022. Kun ${ungeMest} af de 15–24-årige arbejdede i de mest AI-eksponerede brancher, mod ${alleMest} af alle lønmodtagere.`,
+      `Average of 2022. Only ${ungeMest} of 15–24-year-olds worked in the most AI-exposed industries, compared with ${alleMest} of all employees.`), dstKilde);
+
+    // ---- Nærbilleder: to eksponerede brancher og to til sammenligning
+    (function drawClose() {
+      const host = document.getElementById("c-close"); host.textContent = "";
+      const NB = E.naerbilleder;
+      const vals = Object.values(NB).flatMap(b => Object.values(b.serier).flat()).filter(v => v != null);
+      const dom = [Math.floor(Math.min(...vals) / 5) * 5, Math.ceil(Math.max(...vals) / 5) * 5];
+      Object.keys(NB).forEach(k => {
+        const b = NB[k];
+        const box = h("div", "mini");
+        const navn = L(b.navn, BRANCHE_EN[k] || b.navn);
+        const hd = h("h3", null, navn);
+        box.appendChild(hd);
+        const p = h("div", "plot"); box.appendChild(p); host.appendChild(box);
+        lineChart(p, {
+          x: E.perioder, xFmt: qLabel, baseline: 100, domain: dom, height: 250, events: [{ at: E.chatgpt, label: "ChatGPT" }],
+          aria: `${navn}: ${L("lønmodtagere efter alder", "employees by age")}, 2022 = 100`,
+          series: ageKeys.map(a => ({ label: ageName(a), short: a.replace("-", "–"), color: css(ageColor[a]), values: b.serier[a], width: a === "15-24" ? 2.5 : 2, endFmt: v => pct0(v - 100), tipFmt: v => pct0(v - 100) }))
+        });
+      });
+    })();
+    notes("src-close", L("IT og tele samt udgivelse og medier er blandt de mest AI-eksponerede brancher. Sundhed og byggeri er med til sammenligning. Gennemsnit over fire kvartaler.",
+      "IT and telecom and publishing and media are among the most AI-exposed industries. Health and construction are included for comparison. Four-quarter averages."), dstKilde);
+    const k24 = last(E.naerbilleder.K.serier["15-24"]) - 100, j24 = last(E.naerbilleder.J.serier["15-24"]) - 100;
+    document.getElementById("h-close").textContent = (k24 < -5 && j24 < -5)
+      ? L("I medier og IT er de yngste gået tilbage, men ikke i sundhed og byggeri", "In media and IT the youngest have lost ground, but not in health care and construction")
+      : L("Fire brancher efter alder", "Four industries by age");
+    notes("src-emp", L(
+      `Mest eksponerede: ${members("mest")}. Mindst eksponerede: ${members("mindst")}. Middel: de øvrige ${E.grupper.middel.brancher.length} private brancher. Kurverne er gennemsnit over fire kvartaler, så sæsonudsving ikke tæller med. Seneste kvartal er foreløbigt.`,
+      `Most exposed: ${members("mest")}. Least exposed: ${members("mindst")}. Middle: the other ${E.grupper.middel.brancher.length} private industries. The curves are four-quarter averages, so seasonal swings do not count. The latest quarter is preliminary.`),
+      dstKilde);
+
+    // Graf 4: jobopslag på Jobnet og Jobindex (Jobindsats Y25i14). Hvert punkt er placeret midt i det halvår,
+    // opslagene stammer fra (4-9 måneder før udgivelsen), så ChatGPT-linjen står det rigtige sted.
+    const SG = D.stillingsgrupper;
+    const toT = ym => { const [y, mo] = ym.split("-").map(Number); return y * 12 + mo - 1; };
+    const tMid = SG.vindue.map(v => (toT(v[0]) + toT(v[1]) + 1) / 2);
+    const monthsShort = L(["jan.", "feb.", "mar.", "apr.", "maj", "jun.", "jul.", "aug.", "sep.", "okt.", "nov.", "dec."],
+      ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]);
+    const ymLabel = ym => { const [y, mo] = ym.split("-").map(Number); return `${monthsShort[mo - 1]} ${y}`; };
+    const winRange = i => `${ymLabel(SG.vindue[i][0])}–${ymLabel(SG.vindue[i][1])}`;
+    const winLabel = i => `${L("Opslag fra", "Postings from")} ${winRange(i)}`;
+    const basisRange = `${ymLabel(SG.basis.vindue[0])}–${ymLabel(SG.basis.vindue[1])}`;
+    const chatgptT = 2022 * 12 + 10 + 29 / 30;   // 30. november 2022
+    const fieldColors = { "IT og software": "--c-it", "Kundeservice": "--c-kunde", "Kontor og administration": "--c-kontor",
+      "Kommunikation og journalistik": "--c-komm", "Marketing og reklame": "--c-mark", "Grafisk design og web": "--c-graf" };
+    const shortName = { "IT og software": "IT", "Kundeservice": "Kundeservice", "Kontor og administration": "Kontor",
+      "Kommunikation og journalistik": "Kommunikation", "Marketing og reklame": "Marketing", "Grafisk design og web": "Grafisk design" };
+    const feltNavn = n => L(n, FELT_EN[n][0]), feltKort = n => L(shortName[n], FELT_EN[n][1]);
+    const alleBr = L("alle brancher", "all industries");
+    const idxOpt = { x: SG.udgaver, t: tMid, xFmt: q => winLabel(SG.udgaver.indexOf(q)), baseline: 100, events: [{ t: chatgptT, label: "ChatGPT" }] };
+    const chg = v => pct0(v - 100);
+    document.getElementById("unit-post").textContent = `${L("Antal nye jobopslag", "Number of new job postings")}, ${basisRange} = 100`;
+    lineChart(document.getElementById("c-post"), {
+      ...idxOpt, include: 100,
+      aria: L("Nye jobopslag i de mest AI-eksponerede stillinger og i alle brancher, halvåret omkring ChatGPT = 100",
+        "New job postings in the most AI-exposed occupations and in all industries, half-year around ChatGPT = 100"),
+      series: [
+        { label: L("Mest eksponerede", "Most exposed"), short: L("Mest", "Most"), color: css("--exposed"), values: SG.mest, width: 2.5, endFmt: chg, tipFmt: chg },
+        { label: alleBr, short: alleBr, color: css("--shielded"), values: SG["alle brancher"], width: 2.5, endFmt: chg, tipFmt: chg }
+      ]
+    });
+    const sgVals = [...Object.keys(fieldColors), "alle brancher"].flatMap(n => SG[n]).filter(v => v != null);
+    lineChart(document.getElementById("c-fields"), {
+      ...idxOpt, domain: [Math.floor(Math.min(...sgVals) / 10) * 10, Math.ceil(Math.max(...sgVals) / 10) * 10], height: 440,
+      aria: L("Nye jobopslag i seks stillingsgrupper og i alle brancher, halvåret omkring ChatGPT = 100",
+        "New job postings in six occupation groups and in all industries, half-year around ChatGPT = 100"),
+      series: [
+        ...Object.keys(fieldColors).map(n => ({ label: feltNavn(n), short: feltKort(n), tipLabel: feltNavn(n), color: css(fieldColors[n]), values: SG[n], width: 2, endFmt: chg, tipFmt: chg })),
+        { label: alleBr, short: alleBr, color: css("--shielded"), values: SG["alle brancher"], width: 3, endFmt: chg, tipFmt: chg }
+      ]
+    });
+    const cols = ["mest", ...Object.keys(fieldColors), "alle brancher"];
+    const colName = c => (c === "mest" ? L("Mest eksponerede", "Most exposed") : c === "alle brancher" ? alleBr : feltNavn(c));
+    fillTable(document.getElementById("t-post"), [L("Opslag fra", "Postings from"), ...cols.map(c => colName(c) + L(" (basis = 100)", " (base = 100)"))],
+      SG.udgaver.map((u, i) => [winRange(i), ...cols.map(c => idx(SG[c][i]))]).reverse());
+    notes("src-post", L(
+      `Nye jobopslag på Jobnet og Jobindex i STAR's rekrutteringsundersøgelse. Hvert punkt dækker et halvt års opslag og er placeret midt i perioden. Indekseret, så halvåret ${basisRange} = 100. Halvåret ligger omkring lanceringen af ChatGPT (30. november 2022). Mest eksponerede er de 40 % af stillingstyperne med højest AI-eksponering. Serien starter i 2021, fordi stillingstitlerne blev lagt om.`,
+      `New job postings on Jobnet and Jobindex in STAR’s recruitment survey. Each point covers half a year of postings and is placed in the middle of the period. Indexed so that ${basisRange} = 100. This half-year spans the launch of ChatGPT (30 November 2022). Most exposed are the 40% of occupation types with the highest AI exposure. The series starts in 2021 because the job titles were reorganised.`),
+      L("Jobindsats (STAR), Y25i14, og egne beregninger.", "Jobindsats (STAR), Y25i14, and own calculations."));
+
+    // Rubrikker, der siger budskabet. De beregnes ud fra tallene, så de passer, når data opdateres.
+    const setH = (id, text) => { document.getElementById(id).textContent = text; };
+    const yM = last(E.serier["15-24"].mest) - 100;
+    setH("h-emp", yM < -3 ? L("Færre unge i de mest AI-eksponerede brancher", "Fewer young workers in the most AI-exposed industries")
+      : L("Ingen tydelig tilbagegang for unge i de mest AI-eksponerede brancher", "No clear decline for young workers in the most AI-exposed industries"));
+    setH("h-post", last(SG.mest) < last(SG["alle brancher"]) - 5
+      ? L("Færre jobopslag i de mest AI-eksponerede stillinger", "Fewer job postings in the most AI-exposed occupations")
+      : L("Nye jobopslag", "New job postings"));
+
+
+
+    const f = document.getElementById("footer");
+    f.textContent = "";
+    [
+      L("Kanarieindekset laves af Søren Bach Jensen, kandidatstuderende i økonomi (polit) ved Københavns Universitet.",
+        "Kanarieindekset is made by Søren Bach Jensen, MSc student in Economics at the University of Copenhagen."),
+      L(`Data til og med ${qLabel(D.kilder.LBESK310.seneste)} · opdateret ${dateDa(D.bygget)}.`,
+        `Data up to ${qLabel(D.kilder.LBESK310.seneste)} · updated ${dateDa(D.bygget)}.`),
+      L(`Beskæftigelse: Danmarks Statistik, LBESK310 (hentet ${dateDa(D.kilder.LBESK310.hentet)}). AI-eksponering: Eloundou m.fl. 2024 med FRA029 og LONS20. Jobopslag: Jobindsats, Y25i14 (Jobnet og Jobindex).`,
+        `Employment: Statistics Denmark, LBESK310 (retrieved ${dateDa(D.kilder.LBESK310.hentet)}). AI exposure: Eloundou et al. 2024 with FRA029 and LONS20. Job postings: Jobindsats, Y25i14 (Jobnet and Jobindex).`),
+      L("Eksponeringsregel v1.0 (27. september 2026), fastlagt efter de første beregninger: Eloundou m.fl. GPT-4 β pr. DISCO-4, vægtet til brancher med 1-cifret stillingsmix (FRA029 × LONS20, 2022); top-4 og bund-4 af 17 private brancher. ILO 2025 og DST 2024:02 giver samme grupper.",
+        "Exposure rule v1.0 (27 September 2026), fixed after the first calculations: Eloundou et al. GPT-4 β per DISCO-4, weighted to industries by the 1-digit occupation mix (FRA029 × LONS20, 2022); top 4 and bottom 4 of 17 private industries. ILO 2025 and DST 2024:02 give the same groups.")
+    ].forEach(t => f.appendChild(h("div", null, t)));
+  }
+
+  // Faste tekster i HTML'en har den engelske udgave i data-en (og data-en-aria for aria-label)
+  const DA_TITLE = document.title, DA_DESC = document.querySelector('meta[name="description"]')?.content;
+  function applyLang() {
+    document.documentElement.lang = LANG;
+    document.querySelectorAll("[data-en]").forEach(n => {
+      if (n.dataset.da == null) n.dataset.da = n.innerHTML;
+      n.innerHTML = L(n.dataset.da, n.dataset.en);
+    });
+    document.querySelectorAll("[data-en-aria]").forEach(n => {
+      if (n.dataset.daAria == null) n.dataset.daAria = n.getAttribute("aria-label");
+      n.setAttribute("aria-label", L(n.dataset.daAria, n.dataset.enAria));
+    });
+    document.title = L(DA_TITLE, "Kanarieindekset – the Canary Index");
+    const md = document.querySelector('meta[name="description"]');
+    if (md) md.content = L(DA_DESC, "Are young workers losing ground in the most AI-exposed industries in Denmark? Figures from Statistics Denmark and Jobindsats.");
+    const sw = document.getElementById("nav-lang");
+    sw.textContent = L("English", "Dansk");
+    sw.lang = sw.hreflang = L("en", "da");
+    sw.href = L("?lang=en", "./");
+    document.getElementById("nav-home").href = L("./", "?lang=en");
+  }
+  document.getElementById("nav-lang").addEventListener("click", ev => {
+    ev.preventDefault();
+    LANG = L("en", "da");
+    setFormats(); applyLang();
+    try { history.replaceState(null, "", LANG === "en" ? "?lang=en" : location.pathname); } catch (e) {}
+    if (DATA) render(DATA);
+  });
+  applyLang();
+
+  let DATA = null, lastW = 0;
+  fetch("data.json", { cache: "no-cache" }).then(r => r.json()).then(d => { DATA = d; lastW = window.innerWidth; render(d); });
+  let rt;
+  const redraw = () => { clearTimeout(rt); rt = setTimeout(() => DATA && render(DATA), 150); };
+  window.addEventListener("resize", () => { if (window.innerWidth !== lastW) { lastW = window.innerWidth; redraw(); } });
+  try {
+    new MutationObserver(redraw).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", redraw);
+  } catch (e) {}
+})();
+</script>
+</body>
+</html>

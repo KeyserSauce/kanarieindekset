@@ -1,0 +1,31 @@
+# Repoet indeholder kun det, der skal til for at genskabe tallene på siden.
+# Alt andet i mappen (research, noter, forsøg, gamle versioner) er privat. Ny fil? Tilføj den her med "!".
+/*
+!/.gitignore
+!/.github/
+!/README.md
+!/requirements.txt
+
+!/scripts/
+/scripts/*
+!/scripts/build.py
+!/scripts/dst.py
+
+!/site/
+/site/*
+!/site/index.html
+!/site/data.json
+
+!/data/
+/data/*
+!/data/processed/
+/data/processed/*
+!/data/processed/eksponering_brancher.csv
+!/data/processed/eksponering_stillinger.csv
+!/data/raw/
+/data/raw/*
+!/data/raw/jobindsats_y25i14_jobopslag.csv
+!/data/raw/LBESK310_8da7a16622.csv
+
+.DS_Store
+__pycache__/

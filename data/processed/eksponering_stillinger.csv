@@ -1,0 +1,1177 @@
+escostar_kode,stillingsbetegnelse,isco4,elo_beta,elo_kvintil
+3343.1,Administrativ assistent,3343,0.8035,5
+2511.2,"Analytiker, data og analyse",2511,0.626,5
+1213.2.1,Chefkonsulent,1213,0.4616,4
+1213.2,Chefstrateg,1213,0.4616,4
+1219.2,CSR-ansvarlig,1219,0.4919,4
+2422.7,Efterretningsofficer,2422,0.5664,5
+2422.1,Fuldmægtig,2422,0.5664,5
+2422.16,Implementeringskonsulent,2422,0.5664,5
+2422.2,Kommunal planlægger,2422,0.5664,5
+4224.99,"Koordinator, hotel",4224,0.4833,4
+3122.9,Kvalitetsmedarbejder,3122,,
+2422.11,Politisk konsulent,2422,0.5664,5
+2422.10,Politisk medarbejder,2422,0.5664,5
+2422.95,Projektmedarbejder,2422,0.5664,5
+2422.1.99,Specialkonsulent,2422,0.5664,5
+2359.94,Studentermedhjælp,2359,0.3707,3
+1324.3.4,Supply chain manager,1324,0.4865,4
+2422.16,Udbudskonsulent,2422,0.5664,5
+2161.1,Arkitekt,2161,0.4884,4
+3411.1.99,Byggesagsbehandler,3411,0.4126,4
+2164.3,Byplanlægger,2164,0.4773,4
+2165.3,GIS-tekniker,2165,0.515,4
+2162.1.1,Havearkitekt,2162,0.4211,4
+2163.1,Industriel designer,2163,0.4281,4
+2165.99,Landinspektør,2165,0.515,4
+2162.1,Landskabsarkitekt,2162,0.4211,4
+2164.2,Trafikplanlægger,2164,0.4773,4
+2621.1,Arkivar,2621,0.5,4
+2622.2,Bibliotekar,2622,0.5351,5
+2622.991,Forskningsbibliotekar,2622,0.5351,5
+2310.1.20.989,"Adjunkt, humaniora",2310,0.4857,4
+2310.1.99,"Adjunkt, kunstakademi",2310,0.4857,4
+2632.1,Antropolog,2632,0.4927,4
+2632.2,Arkæolog,2632,0.4927,4
+2310.1.20.991,"Assistant professor, humaniora",2310,0.4857,4
+2310.1.4.991,"Assistant professor, kunstakademi",2310,0.4857,4
+2310.1.20.992,"Associate professor, humaniora",2310,0.4857,4
+2310.1.4.992,"Associate professor, kunstakademi",2310,0.4857,4
+2310.1.20.993,"Ekstern lektor, humaniora",2310,0.4857,4
+2310.1.4.993,"Ekstern lektor, kunstakademi",2310,0.4857,4
+2633.2,Filosof,2633,0.492,4
+2310.1.20.979,"Forsker, humaniora",2310,0.4857,4
+2310.1.4.994,"Forsker, kunstakademi",2310,0.4857,4
+2310.1.20.994,"Forskningsassistent, humaniora",2310,0.4857,4
+2310.1.4.995,"Forskningsassistent, kunstakademi",2310,0.4857,4
+2633.1,Historiker,2633,0.492,4
+2310.1.17,Kunstlærer,2310,0.4857,4
+2310.1.20.,"Lektor, humaniora",2310,0.4857,4
+2310.1.4,"Lektor, kunstakademi",2310,0.4857,4
+2310.1.30,Lærer på skuespillerskole,2310,0.4857,4
+2310.1.20.995,"Ph.d., humaniora",2310,0.4857,4
+2310.1.4.996,"Ph.d., kunstakademi",2310,0.4857,4
+2310.51,"Post doc., humaniora",2310,0.4857,4
+2310.1.4.1,"Postdoc, kunstakademi",2310,0.4857,4
+2310.1.20.996,"Professor, humaniora",2310,0.4857,4
+2310.1.4.997,"Professor, kunstakademi",2310,0.4857,4
+2310.1.20.997,"Seniorforsker, humaniora",2310,0.4857,4
+2310.1.4.998,"Seniorforsker, kunstakademi",2310,0.4857,4
+2310.1.20.998,"Undervisningsassistent, humaniora",2310,0.4857,4
+2310.1.4.999,"Undervisningsassistent, kunstakademi",2310,0.4857,4
+2310.1.20.999,"Videnskabelig assistent, humaniora",2310,0.4857,4
+2310.1.4.9991,"Videnskabelig assistent, kunstakademi",2310,0.4857,4
+2310.1.94,Adjunkt,2310,0.4857,4
+2310.1.13,"Adjunkt, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.991,"Assistant professor, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.992,"Associate professor, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.993,"Ekstern lektor, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.994,"Forsker, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.995,"Forskningsassistent, naturvidenskab og teknik",2310,0.4857,4
+2310.1,Lektor,2310,0.4857,4
+2310.1.24,"Lektor, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.996,"Ph.d., naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.51,"Post doc., naturvidenskab og teknik",2310,0.4857,4
+2310.1.97,Professor,2310,0.4857,4
+2310.1.24.997,"Professor, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.998,"Seniorforsker, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.999,"Undervisningsassistent, naturvidenskab og teknik",2310,0.4857,4
+2310.1.24.9991,"Videnskabelig assistent, naturvidenskab og teknik",2310,0.4857,4
+2310.1.34.99,"Adjunkt, samfundsvidenskab",2310,0.4857,4
+2310.1.34.991,"Assistant professor, samfundsvidenskab",2310,0.4857,4
+2310.1.34.992,"Associate professor, samfundsvidenskab",2310,0.4857,4
+2310.1.34.994,"Ekstern lektor, samfundsvidenskab",2310,0.4857,4
+2310.1.34.9994,"Forsker, samfundsvidenskab",2310,0.4857,4
+2310.1.34.996,"Forskningsassistent, samfundsvidenskab",2310,0.4857,4
+2310.1.34,"Lektor, samfundsvidenskab",2310,0.4857,4
+2310.1.34.997,"Ph.d., samfundsvidenskab",2310,0.4857,4
+2633.3,Politolog,2633,0.492,4
+2310.1.34.51,"Post doc., samfundsvidenskab",2310,0.4857,4
+2310.1.34.998,"Professor, samfundsvidenskab",2310,0.4857,4
+2310.1.34.999,"Seniorforsker, samfundsvidenskab",2310,0.4857,4
+2632.6,Sociolog,2632,0.4927,4
+2310.1.44,Studieadjunkt,2310,0.4857,4
+2310.1.34.9991,"Undervisningsassistent, samfundsvidenskab",2310,0.4857,4
+2310.1.34.9992,"Videnskabelig assistent, samfundsvidenskab",2310,0.4857,4
+2310.1.19.99,"Adjunkt, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.989,"Assistant professor, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.991,"Associate professor, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.988,"Ekstern lektor, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.994,"Forsker, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.995,"Forskningsassistent, sundhedsvidenskab",2310,0.4857,4
+2310.1.19,"Lektor, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.996,"Ph.d., sundhedsvidenskab",2310,0.4857,4
+2310.1.19.51,"Post doc., sundhedsvidenskab",2310,0.4857,4
+2310.1.19.997,"Professor, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.998,"Seniorforsker, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.999,"Undervisningsassistent, sundhedsvidenskab",2310,0.4857,4
+2310.1.19.9991,"Videnskabelig assistent, sundhedsvidenskab",2310,0.4857,4
+2310.1.36.99,"Adjunkt, teologi",2310,0.4857,4
+2310.1.36.991,"Assistant professor, teologi",2310,0.4857,4
+2310.1.19.992,"Associate professor, teologi",2310,0.4857,4
+2310.1.36.993,"Ekstern lektor, teologi",2310,0.4857,4
+2310.1.36.978,"Forsker, teologi",2310,0.4857,4
+2310.1.36.994,"Forskningsassistent, teologi",2310,0.4857,4
+2310.1.36.995,"Lektor, teologi",2310,0.4857,4
+2310.1.36.996,"Ph.d., teologi",2310,0.4857,4
+2310.52,"Post doc., teologi",2310,0.4857,4
+2310.1.36.997,"Professor, teologi",2310,0.4857,4
+2310.1.36.998,"Seniorforsker, teologi",2310,0.4857,4
+2310.1.36.999,"Undervisningsassistent, teologi",2310,0.4857,4
+2310.1.36.9991,"Videnskabelig assistent, teologi",2310,0.4857,4
+2141.3.2.1,Automationsingeniør,2141,0.5544,5
+2141.3.2.3,Automationsteknolog,2141,0.5544,5
+3112.1,Bygningsingeniør,3112,0.4257,4
+2142.99,Civilingeniør,2142,0.4821,4
+2142.1,"Civilingeniør, bygge og anlæg",2142,0.4821,4
+2511.29,"Civilingeniør, IT",2511,0.626,5
+2149.2.4,Designingeniør,2149,0.5309,5
+2141.11,Driftsplanlægger,2141,0.5544,5
+2151.1,Elektroingeniør,2151,0.5625,5
+2152.1,Elektronikingeniør,2152,0.6737,5
+2149.7,Energiingeniør,2149,0.5309,5
+2145.1,Kemiingeniør,2145,0.4615,4
+2149.2.7,Kvalitetsingeniør,2149,0.5309,5
+2141.3.2.2,Levnedsmiddelingeniør,2141,0.5544,5
+2141.6,Logistiker,2141,0.5544,5
+2144.1,Maskiningeniør,2144,0.4874,4
+2152.1.5,Medicoingeniør,2152,0.6737,5
+2141.3.1.99,Mejeriingeniør,2141,0.5544,5
+2143.1,Miljøingeniør,2143,0.5556,5
+3214.3,Ortopædiingeniør,3214,0.1639,2
+2141.9,Procesingeniør,2141,0.5544,5
+2141.3.2,Produktionsingeniør,2141,0.5544,5
+2144.1.10,Skibsingeniør,2144,0.4874,4
+2153.1,Telekommunikationsingeniør,2153,0.6201,5
+2149.14,Testingeniør,2149,0.5309,5
+2132.2,Agronom,2132,0.409,4
+2133.13,Bæredygtighedskonsulent,2133,0.4806,4
+3112.7,Energikonsulent,3112,0.4257,4
+2132.6,Landbrugskonsulent,2132,0.409,4
+2133.2,Miljøanalytiker,2133,0.4806,4
+2133.9,Miljøkonsulent,2133,0.4806,4
+2133.6,Miljøkoordinator,2133,0.4806,4
+3111.2,Miljøtekniker,3111,0.4518,4
+2132.99,Økologikonsulent,2132,0.409,4
+2611.1,Advokat,2611,0.425,4
+2611.99,Advokatfuldmægtig,2611,0.425,4
+2422.16,Compliance specialist,2422,0.5664,5
+2612.1,Dommer,2612,0.4583,4
+2612.1.991,Dommerfuldmægtig,2612,0.4583,4
+2619.11,Havariinspektør,2619,0.5,4
+2619.5,Jurist,2619,0.5,4
+2611.1.2,Politifuldmægtig,2611,0.425,4
+3411.1,Sagsadministrator,3411,0.4126,4
+2622.1.991,Dokumentationsmedarbejder,2622,0.5351,5
+2432.3,Fundraiser,2432,0.5909,5
+2432.8,Kommunikationskonsulent,2432,0.5909,5
+1349.19,Kommunikationskoordinator,1349,0.4616,4
+2643.4,Lingvist,2643,0.7016,5
+2432.9,Pressesekretær,2432,0.5909,5
+2432.5,SOME-medarbejder,2432,0.5909,5
+2621.4,Konservator,2621,0.5,4
+2621.2,Kunstformidler,2621,0.5,4
+2621.5,Kurator,2621,0.5,4
+2621.8,Museumsinspektør,2621,0.5,4
+2250.3,Dyrlæge,2250,0.2703,3
+2211.99,Læge,2211,0.4516,4
+2211.99.2,Medicinstuderende,2211,0.4516,4
+2212.1,Speciallæge,2212,0.3794,3
+2211.98,Sygehuslæge,2211,0.4516,4
+2261.1,Tandlæge,2261,0.1589,2
+2211.99.1,Uddannelseslæge,2211,0.4516,4
+3212.1,Biomediciner,3212,0.2543,3
+2262.99,Farmaceut,2262,0.4286,4
+2131.7,Farmakolog,2131,0.4648,4
+2212.52,Lægemiddelkonsulent,2212,0.3794,3
+2111.1,Astronom,2111,0.5938,5
+2131.4.2,Biokemiker,2131,0.4648,4
+2131.4,Biolog,2131,0.4648,4
+2131.4.6,Botaniker,2131,0.4648,4
+2120.7,Data scientist,2120,0.6958,5
+2120.2,Demograf,2120,0.6958,5
+2111.3,Fysiker,2111,0.5938,5
+2114.2,Geofysiker,2114,0.4833,4
+2632.5,Geograf,2632,0.4927,4
+2114.1,Geolog,2114,0.4833,4
+3117.2,Geotekniker,3117,0.3898,3
+2131.4.1,Havbiolog,2131,0.4648,4
+2111.40,Hospitalsfysiker,2111,0.5938,5
+2113.1,Kemiker,2113,0.4314,4
+2112.1.2,Klimaforsker,2112,0.5652,5
+2120.5,Matematiker,2120,0.6958,5
+2112.1,Meteorolog,2112,0.5652,5
+2112.2,Metrolog,2112,0.5652,5
+2131.4.95,Molekylærbiolog,2131,0.4648,4
+2120.6,Statistiker,2120,0.6958,5
+2421.3,Business intelligence manager,2421,0.4663,4
+2635.3.12,HR-konsulent,2635,0.2716,3
+2635.3.31,HR-koordinator,2635,0.2716,3
+2424.99,Kursusleder,2424,0.5526,5
+2423.3,Personalekonsulent,2423,0.4887,4
+2423.7,"Researcher, rekruttering",2423,0.4887,4
+2421.2,Rådgivende konsulent,2421,0.4663,4
+2422,Udviklingskonsulent,2422,0.5664,5
+2634.2.1,Klinisk psykolog,2634,0.4415,4
+2632.4,Kriminolog,2632,0.4927,4
+2634.2,Psykolog,2634,0.4415,4
+2636.2,Præst,2636,0.3864,3
+2330.1,Gymnasielærer,2330,0.3333,3
+2330.1.14,"Gymnasielærer, humaniora og kreative fag",2330,0.3333,3
+2330.1.11,"Gymnasielærer, naturvidenskab og idræt",2330,0.3333,3
+2330.1.3,"Gymnasielærer, samfundsvidenskab",2330,0.3333,3
+2320.1.7,Handelsskolelærer,2320,0.381,3
+2310.1.7.99,"Adjunkt, professionshøjskole",2310,0.4857,4
+2310.1.7.991,"Assistant professor, professionshøjskole",2310,0.4857,4
+2310.1.7.992,"Associate professor, professionshøjskole",2310,0.4857,4
+2310.1.7.993,"Ekstern lektor, professionshøjskole",2310,0.4857,4
+2320.1,Erhvervsskolelærer,2320,0.381,3
+2310.1.7.994,"Forsker, professionshøjskole",2310,0.4857,4
+2310.1.7.995,"Forskningsassistent, professionshøjskole",2310,0.4857,4
+2310.1.7.996,"Lektor, professionshøjskole og erhvervsakademi",2310,0.4857,4
+2310.1.7.997,"Ph.d., professionshøjskole og erhvervsakademi",2310,0.4857,4
+2310.1.7.998,"Professor, professionshøjskole",2310,0.4857,4
+2310.1.7.999,"Seniorforsker, professionshøjskole",2310,0.4857,4
+2310.53,"Underviser, professionshøjskole",2310,0.4857,4
+2310.1.7.9991,"Undervisningsassistent, professionshøjskole",2310,0.4857,4
+2310.1.7.9992,"Videnskabelig assistent, professionshøjskole",2310,0.4857,4
+2411.2,Businesscontroller,2411,0.5683,5
+2631.98,Erhvervsanalytiker,2631,0.5526,5
+2413.1,Finansanalytiker,2413,0.5177,5
+2413.1.1,Finansiel risikomanager,2413,0.5177,5
+2413.1.2,Forsikringsanalytiker,2413,0.5177,5
+2413.1.3,Investeringsanalytiker,2413,0.5177,5
+2412.5,Investeringsrådgiver,2412,0.4987,4
+2411.1.7,Revisor,2411,0.5683,5
+2411.1.12,Skatterevisor,2411,0.5683,5
+2422.25,Sundhedsøkonom,2422,0.5664,5
+2631.1,Økonom,2631,0.5526,5
+2411.1.8,Økonomicontroller,2411,0.5683,5
+9313.1,Anlægsarbejder,9313,0.0106,1
+9312.1.4,Asfaltør,9312,0.0081,1
+7112.99.1,Brolægger,7112,0.0192,1
+7112.99,Brolæggerarbejde,7112,0.0192,1
+7126.2,Kloakmester,7126,0.0555,1
+7126.11,Kloakrørlægger,7126,0.0555,1
+7127,Køletekniker,7127,0.2578,3
+9312.98,"Specialarbejder, jord og beton",9312,0.0081,1
+9312.99,"Specialarbejder, kloak",9312,0.0081,1
+7113.1,Stenhugger,7113,0.0208,1
+3112.9,Kort- og landmålingstekniker,3112,0.4257,4
+8113.2,Bore- og udvindingsarbejder,8113,0.0422,1
+8113.10,Diamantskærer,8113,0.0422,1
+7114.8,Anlægsstruktør,7114,0.0139,1
+7119.99,Byggemontagetekniker,7119,0.1038,1
+2142.1.2,Byggetekniker,2142,0.4821,4
+3123.99,Bygningskonstruktør,3123,,
+7114.9,Bygningsstruktør,7114,0.0139,1
+7121.2,Fugemontør,7121,0.04,1
+7119.2,Nedriver,7119,0.1038,1
+8219.99,"Rejsemontør, bygge og anlæg",8219,0.2353,2
+7126.11.95,Rørlægger,7126,0.0555,1
+9313.97,"Specialarbejder, byggeri",9313,0.0106,1
+7119.1,Stilladsmontør,7119,0.1038,1
+9312.1,Struktør,9312,0.0081,1
+7214.51,Bådebygger,7214,0.0409,1
+7411.1,Elektriker,7411,0.1282,2
+7411.1.1,Elinstallatør,7411,0.1282,2
+7411.1.5,Fibertekniker,7411,0.1282,2
+7411.1.1.1,Serviceelektriker,7411,0.1282,2
+7122.3,Gulvlægger,7122,0.0554,1
+7121.1,Tagdækker,7121,0.04,1
+7124.1,Isolatør,7124,0.0477,1
+7131.1,Bygningsmaler,7131,0.0421,1
+9313.98,"Specialarbejder, maler",9313,0.0106,1
+8341.2,Maskinfører,8341,0.0938,1
+8341,Maskinførerlærling,8341,0.0938,1
+8342.3,"Operatør, bygge og anlæg",8342,0.0109,1
+7122.4,Flisemontør,7122,0.0554,1
+7112.1,Murer,7112,0.0192,1
+9313.99,"Specialarbejder, murer",9313,0.0106,1
+7123.2,Stukkatør,7123,0.0395,1
+7115.9,Bygningssnedker,7115,0.1444,2
+7315.2,Glarmester,7315,0.0356,1
+7115.3,Køkkenmontør,7115,0.1444,2
+8172.99,"Operatør, træ",8172,0.0588,1
+7115.99,"Specialarbejder, tømrer",7115,0.1444,2
+7115.1,Tømrer,7115,0.1444,2
+1323.1,Byggeleder,1323,0.4444,4
+7126.52,Blikkenslager,7126,0.0555,1
+7126.3,Gastekniker,7126,0.0555,1
+3115.5,Oliefyrstekniker,3115,0.3564,3
+7213.2.95,Rustfast industrimontør,7213,0.0755,1
+7126.99,"Specialarbejder, VVS",7126,0.0555,1
+7127.1,Varme- og ventilationstekniker,7127,0.2578,3
+7126.19,Ventilationstekniker,7126,0.0555,1
+7126.8,VVS-installatør,7126,0.0555,1
+7126.51,VVS-montør,7126,0.0555,1
+2144.1.8,VVS-tekniker,2144,0.4874,4
+2163.1.3,Designer,2163,0.4281,4
+2163,Grafisk designer,2163,0.4281,4
+3432.1.1,Indretningsarkitekt,3432,0.3987,4
+2659.95,Kunsthåndværker,2659,0.5263,5
+7522.51,Møbelarkitekt,7522,0.1391,2
+3118.3.2,Teknisk designer,3118,0.5099,4
+2166.4,Artdirector,2166,0.5125,4
+2166.4.991,Artdirector assistent,2166,0.5125,4
+2166.15,Digital designer,2166,0.5125,4
+2166.10,Mediegrafiker,2166,0.5125,4
+2166.8,Multimediedesigner,2166,0.5125,4
+8132.2.99,"Servicemedarbejder, foto",8132,0.38,3
+7316.4,Skiltemaler,7316,0.0682,1
+2651.6,Tegner,2651,0.3418,3
+7321.1.5,Grafisk tekniker,7321,0.5413,5
+7322.5,Trykkeriarbejder,7322,0.2875,3
+2163.1.3.95,Designassistent,2163,0.4281,4
+2651.9,Gravør,2651,0.3418,3
+7313.1.2,Guld- og sølvsmed,7313,0.2054,2
+9312.1.4.93,Asfaltørelev,9312,0.0081,1
+7131.1.99,Bygningsmalerlærling,7131,0.0421,1
+7115.3.99,Bygningssnedkerlærling,7115,0.1444,2
+9312.1.99,Bygningsstruktørlærling,9312,0.0081,1
+7115.3.51,Bådebyggerlærling,7115,0.1444,2
+7411.1.99,Elektrikerlærling,7411,0.1282,2
+8212.2.51,Forsyningsoperatørelev,8212,0.112,1
+7315.2.99,Glarmesterlærling,7315,0.0356,1
+7122.3.99,Gulvlæggerlærling,7122,0.0554,1
+7112.1.99,Murerlærling,7112,0.0192,1
+7113.1.99,Stenhuggerlærling,7113,0.0208,1
+7123.2.99,Stukkatørlærling,7123,0.0395,1
+7121.1.99,Tagdækkerlærling,7121,0.04,1
+7121.1.52,Teknisk isolatørelev,7121,0.04,1
+7115.1.99,Tømrerlærling,7115,0.1444,2
+7126.8.99,VVS-lærling,7126,0.0555,1
+2166.10.94,Grafikerelev,2166,0.5125,4
+7313.1.2.99,Guld- og sølvsmedelev,7313,0.2054,2
+7316.4.99,Skiltemalerlærling,7316,0.0682,1
+3118.3.2.93,Teknisk designerelev,3118,0.5099,4
+2265.1.99,Ernæringsassistentelev,2265,0.5488,5
+5120.1.99,Kokkeelev,5120,0.1933,2
+4226.2.93,Receptionistelev,4226,0.5333,5
+5131.2.97,Tjenerelev,5131,0.1567,2
+2519.99,Datateknikerelev,2519,0.7648,5
+3512.1.96,IT-supporterelev,3512,0.6111,5
+7422.6.93,Teleteknikerelev,7422,0.2393,2
+7132.3.99,Autolakererlærling,7132,0.0435,1
+3115.1.4.99,Automatikteknikerelev,3115,0.3564,3
+7231.10.99,Automekanikerlærling,7231,0.0851,1
+7234.1.99,Cykelmekanikerlærling,7234,0.2569,3
+3113.1.95,Elektronikfagteknikerelev,3113,0.3965,4
+8212.2.99,Elektronikoperatørelev,8212,0.112,1
+7222.4.99,Finmekanikerelev,7222,0.2525,3
+7232.5.99,Flymekanikerlærling,7232,0.2723,3
+3155.5.95,Flyteknikerlærling,3155,0.4057,4
+8189.99.1,Industrioperatørelev,8189,0.1206,1
+3119.8.99,Industriteknikerlærling,3119,0.3636,3
+7231.10.52,Knallertmekanikerlærling,7231,0.0851,1
+3151.1.99,Køleteknikerlærling,3151,0.2513,2
+7233.8.1.99,Landbrugsmaskine-mekanikerlærling,7233,0.1339,2
+7231.10.53,Lastvognsmekanikerlærling,7231,0.0851,1
+8211.4.99,Motorcykelmekanikerlærling,8211,0.0601,1
+7126.4.95,Oliefyrsteknikerelev,7126,0.0555,1
+3214.3.1.95,Ortopædielev,3214,0.1639,2
+8189.99.3,Plastmagerelev,8189,0.1206,1
+8183.3.94,Procesoperatørelev,8183,0.0,1
+7215.2.1.99,Skibsmontørlærling,7215,0.0,1
+7221.1.99,Smedelærling,7221,0.0417,1
+7311.1.93,Urmagerelev,7311,0.2883,3
+7412.12.93,Vindmølleoperatørelev,7412,0.1992,2
+7222.5.99,Værktøjsmagerlærling,7222,0.2525,3
+2412.2.99,Finanselev,2412,0.4987,4
+4312.4.96,Forsikringselev,4312,0.6808,5
+2619.6.95,Kontorelev,2619,0.5,4
+4110.1.91,"Kontorelev, administration",4110,0.595,5
+4110.1.92,"Kontorelev, revision",4110,0.595,5
+4110.1.93,"Kontorelev, shipping",4110,0.595,5
+4110.1.94,"Kontorelev, økonomi",4110,0.595,5
+3313.1.93,Regnskabselev,3313,0.8023,5
+2411.1.7.93,Revisorelev,2411,0.5683,5
+4323.20.98.93,Shippingelev,4323,0.6739,5
+9333.2.93,Speditørelev,9333,0.1785,2
+3351.1.93,Toldelev,3351,0.4021,4
+9212.4.99,Dyrepasserelev,9212,0.0625,1
+9214.1.93,Gartnerelev,9214,0.0836,1
+9213.1.95,Landbrugselev,9213,0.1027,1
+2132.51,Skov- og naturteknikerelev,2132,0.409,4
+3240.2.4.2,Veterinærsygehjælper-elev,3240,0.1931,2
+3521.1.95,AV teknikerelev,3521,0.3935,4
+3332.1.95,Eventkoordinatorelev,3332,0.4865,4
+3435.23.5.99,Film- og tvproduktionselev,3435,0.3155,3
+2654.4.99,Filmklipperelev,2654,0.4991,4
+3431.1.92,Fotografelev,3431,0.3854,3
+3521.2.94,Radio- og TV-fagteknikerelev,3521,0.3935,4
+4221.4.93,Rejsebureauelev,4221,0.5189,5
+3435.23.94,Teaterteknikerelev,3435,0.3155,3
+7512.1.99,Bagerlærling,7512,0.2647,3
+7511.6.99,Industrislagterlærling,7511,0.0496,1
+7512.3.99,Konditorlærling,7512,0.2647,3
+7513.1.94,Mejerielev,7513,0.1291,2
+7511.1.95,Slagterlærling,7511,0.0496,1
+2342.1.51,PAU-elev,2342,0.2301,2
+5153.1.99,Ejendomsserviceteknikerelev,5153,0.0,1
+5329.1.93,Serviceassistentelev,5329,0.216,2
+7133.3.99,Skorstensfejerlærling,7133,,
+5223.6.99,Butikselev,5223,0.3425,3
+5223.6.98,Detailhandelselev,5223,0.3425,3
+2411.96,Handelselev,2411,0.5683,5
+3323.2.5,Indkøbselev,3323,0.4894,4
+2266.1.99,Audiologiassistentelev,2266,0.4529,4
+5223.7.24.99,Farmakonomelev,5223,0.3425,3
+3423.2.99,Fitnessinstruktørelev,3423,0.2528,3
+5141.1.93,Frisørelev,5141,0.1993,2
+5142.1.95,Kosmetologelev,5142,0.2001,2
+2269.95.95,Laborantelev,2269,0.3635,3
+3344.2.95,Lægesekretærelev,3344,0.7708,5
+3259.95.95,Neurofysiologiassistentelev,3259,0.3122,3
+3254.1.95,Optikerelev,3254,,
+5321.1.94,Social- og sundhedsassistentelev,5321,0.1133,1
+5322.1.93,Social- og sundhedshjælperelev,5322,0.2188,2
+3251.2.51,Tandklinikassistentelev,3251,0.2271,2
+3251.2.93,Tandplejerelev,3251,0.2271,2
+3214.2.93,Tandteknikerelev,3214,0.1639,2
+2163.1.3.1.99,Beklædningshåndværkerelev,2163,0.4281,4
+8331.1.95,Buschaufførelev,8331,0.3168,3
+8332.99,Chaufførelev,8332,0.3047,3
+9333.8.99,Lager- og logistikelev,9333,0.1785,2
+4323.1.1,Lufthavnsoperatørelev,4323,0.6739,5
+3151.2.95,Maskinmesteraspirant,3151,0.2513,2
+7233.9.99,Skibsmekanikerlærling,7233,0.1339,2
+7523.3.94,Maskinsnedkerelev,7523,0.0652,1
+7522.2.96,Møbelsnedkerelev,7522,0.1391,2
+5412.1.94,Politielev,5412,0.31,3
+5411.1.4.98.95,Redderelev,5411,0.2777,3
+2265.52,Klinisk Diætist,2265,0.5488,5
+5120.1.4.992,Økonoma,5120,0.1933,2
+5131.2.99,Cafemedarbejder,5131,0.1567,2
+5111.2.2.92,Cater,5111,0.2398,2
+5223.7.13,Delikatesseassistent,5223,0.3425,3
+2265.51,Ernæringsassistent,2265,0.5488,5
+5120.1,Kok,5120,0.1933,2
+9411.3,Køkkenassistent,9411,0.0,1
+3434.1,Køkkenchef,3434,0.3865,3
+9412.1,Køkkenmedhjælper,9412,0.0123,1
+9412.2,Opvasker,9412,0.0123,1
+9411.1,Pizzabager,9411,0.0,1
+5120.1.95,Smørrebrødsjomfru,5120,0.1933,2
+5132.1.1,Barista,5132,0.1944,2
+5132.1,Bartender,5132,0.1944,2
+5131.2.95,Serveringsmedarbejder,5131,0.1567,2
+5131.2.2,Sommelier,5131,0.1567,2
+5131.2,Tjener,5131,0.1567,2
+5131.1,Vært i restaurant,5131,0.1567,2
+9112.99,Hotelmedarbejder,9112,0.0278,1
+9111,Husassistent,9111,0.0,1
+5151.2,Oldfrue,5151,0.2653,3
+4224.1,"Receptionist, hotel",4224,0.4833,4
+4221.2,Vært/Værtinde,4221,0.5189,5
+7114.1,Betonmager,7114,0.0139,1
+8212.2,Elektronikarbejder,8212,0.112,1
+8212.2.3,Ledningsmontør,8212,0.112,1
+3119.2.1,Robottekniker,3119,0.3636,3
+2152.1.10,Sensortekniker,2152,0.6737,5
+9329.98,"Specialarbejder, papir og karton",9329,0.1871,2
+8131.99,"Operatør, kemisk",8131,0.122,1
+8189.98,"Operatør, pharma",8189,0.1206,1
+2131.4.99,"Specialarbejder, medicinal",2131,0.4648,4
+3115.1.15,Produktionstekniker,3115,0.3564,3
+3122.3,Produktionsteknolog,3122,,
+8113.6,Offshorearbejder,8113,0.0422,1
+7132.1,Industrilakerer,7132,0.0435,1
+8122.99,"Operatør, jern & metal",8122,0.0843,1
+8189.95,"Operatør, emballage",8189,0.1206,1
+8142.99,"Operatør, plastmager",8142,0.0941,1
+8159.99,"Operatør, tekstil",8159,,
+8142.19,Plastmager,8142,0.0941,1
+9329.95,"Specialarbejder, glasfiber",9329,0.1871,2
+9329.99,"Specialarbejder, sprøjtestøbning og ekstrudering",9329,0.1871,2
+8189.7,Forsyningsoperatør,8189,0.1206,1
+7233.7,Industrimekaniker,7233,0.1339,2
+8189.99.2,"Industrioperatør, ikke uddannet",8189,0.1206,1
+8189.99,"Industrioperatør, uddannet",8189,0.1206,1
+2144.1.5,Maskinkonstruktør,2144,0.4874,4
+8189.91,Maskinoperatør,8189,0.1206,1
+2149.9,Materialetekniker,2149,0.5309,5
+8189.97,"Operatør, logistik",8189,0.1206,1
+8189.90,"Operatør, serviceindustri",8189,0.1206,1
+8183.3,Procesoperatør,8183,0.0,1
+4321.1.3,Produktionsmedarbejder,4321,0.325,3
+3119,Produktionsplanlægger,3119,0.3636,3
+3122.4.95,Produktspecialist,3122,,
+3119.14,Produktudvikler,3119,0.3636,3
+2521.1,Databaseadministrator,2521,0.9234,5
+3511.99,Datatekniker,3511,0.7358,5
+2152.1.1,Hardware-udvikler,2152,0.6737,5
+2522.2,IT-koordinator,2522,0.7297,5
+3512.1,IT-supporter,3512,0.6111,5
+3512.4,IT-tekniker,3512,0.6111,5
+2522.1,Systemadministrator,2522,0.7297,5
+3514.1,Webmaster,3514,0.7855,5
+2519.1,Datakonsulent,2519,0.7648,5
+2511.3,Datalog,2511,0.626,5
+2519.7,IT specialist,2519,0.7648,5
+2511.13,IT-arkitekt,2511,0.626,5
+2511.1,IT-ingeniør,2511,0.626,5
+2512.3,Programmør og systemudvikler,2512,0.8728,5
+2512.3.99,"Softwareudvikler, backend",2512,0.8728,5
+2512.99,"Softwareudvikler, frontend",2512,0.8728,5
+2513.3,UX designer,2513,0.8413,5
+2513.5,Webudvikler,2513,0.8413,5
+7422.6,Teletekniker,7422,0.2393,2
+2519.6.4,IT-kvalitetsmedarbejder,2519,0.7648,5
+2529.6,IT-sikkerhedskonsulent,2529,0.7085,5
+1330.1,Chief data officer,1330,0.5303,5
+2512.51,Computerspiludvikler,2512,0.8728,5
+2619.4,Databeskyttelsesrådgiver,2619,0.5,4
+2511.19,Digitaliseringskonsulent,2511,0.626,5
+2511.9,IT-konsulent,2511,0.626,5
+1223.3,IT-Product manager,1223,0.4867,4
+1330.6.10,IT-Product owner,1330,0.5303,5
+2511.17,IT-revisor,2511,0.626,5
+2513,Webdesigner,2513,0.8413,5
+7231.7,Dækmontør,7231,0.0851,1
+8312.5.991,Klargører,8312,0.2584,3
+7132.3,Autolakerer,7132,0.0435,1
+7211.1,Støberitekniker,7211,0.0407,1
+7213.4,Klejnsmed,7213,0.0755,1
+7213.2,Plade- og konstruktionssmed,7213,0.0755,1
+7214.2,Skibsbygger,7214,0.0409,1
+7221.1,Smed,7221,0.0417,1
+7223.4,CNC-operatør,7223,0.1212,1
+7223.7,Drejer,7223,0.1212,1
+7223.4.6,Fræser,7223,0.1212,1
+9329.96,"Specialarbejder, jern og metal",9329,0.1871,2
+7231.10,Automekaniker,7231,0.0851,1
+7231.99,Automontør,7231,0.0851,1
+7543.7.5,Autoteknolog,7543,0.4167,4
+7234.1,Cykelmekaniker,7234,0.2569,3
+7233.1,Entreprenørmaskinemekaniker,7233,0.1339,2
+7232.5,Flymekaniker,7232,0.2723,3
+7234.51,Knallertmekaniker,7234,0.2569,3
+7233.2,Kranmekaniker,7233,0.1339,2
+7233.8.1,Landbrugsmaskinemekaniker,7233,0.1339,2
+7231.52,Lastvognsmekaniker,7231,0.0851,1
+7231.8,Mekaniker,7231,0.0851,1
+7231.19,Motorcykelmekaniker,7231,0.0851,1
+7234.99,Værkstedsassistent,7234,0.2569,3
+7412.99,Automatiktekniker,7412,0.1992,2
+3113.3,Batteriekspert,3113,0.3965,4
+7233.15,Driftsassistent,7233,0.1339,2
+7421.7,Elektrofagtekniker,7421,0.296,3
+3113.1,Elektronikfagtekniker,3113,0.3965,4
+7412.3,Elektrotekniker,7412,0.1992,2
+7222.4,Finmekaniker,7222,0.2525,3
+3119.8,Industritekniker,3119,0.3636,3
+7222.3,Låsesmed,7222,0.2525,3
+7421.9,Servicetekniker,7421,0.296,3
+3117.3,"Servicetekniker, jern og metal",3117,0.3898,3
+7311.1,Urmager,7311,0.2883,3
+8219.98,"Rejsemontør, industri",8219,0.2353,2
+7215.2.1,Skibsmontør,7215,0.0,1
+7412.12,Vindmølleoperatør,7412,0.1992,2
+7231.2,Karosseritekniker,7231,0.0851,1
+7224.1,Jern- og metalsliber,7224,0.0345,1
+3115.1.22,Svejseinspektør,3115,0.3564,3
+7212.3,Svejser,7212,0.0782,1
+7222.5,Værktøjsmager,7222,0.2525,3
+4419.2,Korrespondent,4419,0.8393,5
+2643.6,Oversætter,2643,0.7016,5
+4211.1,Bankassistent,4211,0.4282,4
+3312.1,Bankrådgiver,3312,0.608,5
+3311.2.5,Børsmægler,3311,0.5714,5
+3312.99,Finansmedarbejder,3312,0.608,5
+2412.2,Finansrådgiver,2412,0.4987,4
+1312.4,Forretningsudvikler,1312,0.3673,3
+3312.8,Kunderådgiver,3312,0.608,5
+3312.6,Realkreditmedarbejder,3312,0.608,5
+3315.8,Valuar,3315,0.5171,4
+3313.2,Bogholder,3313,0.8023,5
+3313.1,Bogholderi- og regnskabsassistent,3313,0.8023,5
+4313.1,Lønbogholder,4313,0.8378,5
+2413.2,Økonomiassistent,2413,0.5177,5
+3315.3,Assurandør,3315,0.5171,4
+4312.4,Forsikringsfunktionær,4312,0.6808,5
+3315.5,Taksator,3315,0.5171,4
+3331.2.1,Import- og eksportmedarbejder,3331,0.5137,4
+4323.20.98,Shippingassistent,4323,0.6739,5
+4323.20.99,Shippingmedarbejder,4323,0.6739,5
+9333.2,Speditør,9333,0.1785,2
+3351.1,Tolder,3351,0.4021,4
+4323.15.991,Havneassistent,4323,0.6739,5
+4323.15,Havnefoged,4323,0.6739,5
+4214.1,Inkassomedarbejder,4214,0.6078,5
+3341.9,Administrativ koordinator,3341,,
+3342.2,Advokatsekretær,3342,0.6957,5
+3343.3,Direktionssekretær,3343,0.8035,5
+3332.1,Eventassistent,3332,0.4865,4
+4416.1,HR-assistent,4416,0.6207,5
+4110,Kontorassistent,4110,0.595,5
+3341.8,Kontorfuldmægtig,3341,,
+4110.1,Kontormedarbejder,4110,0.595,5
+4413.1,Korrekturlæser,4413,0.975,5
+4110.1.99,Kursuskoordinator,4110,0.595,5
+3341.8.95,Overassistent,3341,,
+3341.9,Personlig assistent,3341,,
+4120.1,Sekretær,4120,0.6442,5
+3339.5,Servicekoordinator,3339,0.5437,5
+4120.99,Skolesekretær,4120,0.6442,5
+2351.1,Studiesekretær,2351,0.4875,4
+4415.1,Arkivmedarbejder,4415,0.5956,5
+5153.9,Ministerialbetjent,5153,0.0,1
+4419.95,"Piccolo / piccoline, kontor",4419,0.8393,5
+4226.1,Natportier,4226,0.5333,5
+4226.2,"Receptionist, kontor",4226,0.5333,5
+1439.98,"Receptionschef, kontor",1439,0.4616,4
+4131.1,Tasteoperatør,4131,0.7432,5
+4223.1,Telefonist,4223,0.7619,5
+4312.1,Revisorassistent,4312,0.6808,5
+4312.7,Skattefunktionær,4312,0.6808,5
+2643.5,Tegnsprogstolk,2643,0.7016,5
+2643.2,Tolk,2643,0.7016,5
+6113.6,Anlægsgartner,6113,0.1385,2
+6113.6.991,Anlægsgartnerarbejder,6113,0.1385,2
+9216.2,Dambrugsarbejder,9216,0.0532,1
+6221.7,Fiskeassistent,6221,0.2237,2
+9212.9,Minkfarmmedhjælper,9212,0.0625,1
+6129.1,Pelsdyravler,6129,0.2237,2
+6111.1,"Driftsleder, landbrug",6111,0.1404,2
+6121.99,Fodermester,6121,0.2237,2
+6130.99,"Forvalter, landbrug",6130,0.1491,2
+3240.2.1,Inseminør,3240,0.1931,2
+9213.1,Landbrugsmedhjælper,9213,0.1027,1
+6130.1,Landmand,6130,0.1491,2
+2132,"Driftsleder, skovbrug",2132,0.409,4
+9215.1,Skovarbejder,9215,0.0435,1
+9212.4,Dyrepasser,9212,0.0625,1
+5164.2.1.2,Hestetræner,5164,0.2389,2
+5164.1.1,Hundefrisør,5164,0.2389,2
+5164.2,Hundefører,5164,0.2389,2
+5164.2.1.1,Hundetræner,5164,0.2389,2
+5164.3,Medarbejder på et dyreinternat,5164,0.2389,2
+6121.2,Staldmester,6121,0.2237,2
+3240.2,Dyreklinikassistent,3240,0.1931,2
+3240.2.4.1,Veterinærsygehjælper,3240,0.1931,2
+3240.2.4,Veterinærsygeplejerske,3240,0.1931,2
+3240.2.4.3,Veterinærsygeplejerske-elev,3240,0.1931,2
+9214.1,Gartner,9214,0.0836,1
+6113.4,Gartneriarbejder,6113,0.1385,2
+9214.1.991,Væksthusgartner,9214,0.0836,1
+6113.11,Greenkeeper,6113,0.1385,2
+9312.97,"Specialarbejder, grønne områder",9312,0.0081,1
+6222.1,Fisker,6222,,
+3359.3,Fiskeribetjent,3359,0.2917,3
+1312.1,Fiskeriteknolog,1312,0.3673,3
+6224.1,Skytte,6224,0.1623,2
+3111.14,Jordbrugsteknolog,3111,0.4518,4
+3143.9,Skov- og naturtekniker,3143,0.3269,3
+2132.5,Skovbrugsrådgiver,2132,0.409,4
+1219.1,Administrationschef,1219,0.4919,4
+1344.2,Afdelingschef,1344,0.3929,3
+1219.4,Afdelingsleder,1219,0.4919,4
+1219.4.1,"Afdelingsleder, offentlig",1219,0.4919,4
+1349.16,Bibliotekschef,1349,0.4616,4
+1344.1.3,Børne- og ungekoordinator,1344,0.3929,3
+1111.6,Departementschef,1111,0.4,4
+1112.3,Diplomat,1112,0.4703,4
+1120.3,Direktør,1120,0.4943,4
+1112.7,Generalsekretær,1112,0.4703,4
+1212.1,HR-chef,1212,0.4977,4
+1330.2,IT-chef,1330,0.5303,5
+1349.21.1,Juridisk chef,1349,0.4616,4
+1222.1,Kommunikationschef,1222,0.5165,4
+1219.99,Kontorchef,1219,0.4919,4
+1219.99.1,Kontorleder,1219,0.4919,4
+1112.6,Leder af offentlig forvaltning,1112,0.4703,4
+1212.1.1,Ligestillings- og inklusionschef,1212,0.4977,4
+1120.2.1,Regionsdirektør,1120,0.4943,4
+1324.3.4.3,Ressourceleder,1324,0.4865,4
+1213.95,Sekretariatschef,1213,0.4616,4
+1219.8,Teamleder,1219,0.4919,4
+1120.7,Vicedirektør,1120,0.4943,4
+3123.1.30,"Arbejdsleder, bygge og anlæg",3123,,
+3123.1.29,"Arbejdsleder, produktion",3123,,
+6113.2,Chef for gartneriproduktion,6113,0.1385,2
+1321.1.3,Driftschef,1321,0.4057,4
+1120.4,Driftsleder,1120,0.4943,4
+1219.5,Facility manager,1219,0.4919,4
+3139.99,"Formand, drift og produktion",3139,0.8036,5
+1219.7,Kvalitetschef,1219,0.4919,4
+1321.1,Produktionschef,1321,0.4057,4
+3122.4,Produktionsleder,3122,,
+1323.2,Projekteringsleder,1323,0.4444,4
+6210.1,Skovfoged,6210,0.1507,2
+1311.1,Skovrider,1311,0.3673,3
+1321.1.6,Teknisk serviceleder,1321,0.4057,4
+1223.2.1,Udviklingschef,1223,0.4867,4
+3123.1,Værkfører,3123,,
+1439.3,Værkstedsleder,1439,0.4616,4
+3332.2.1,Arrangementchef,3332,0.4865,4
+1439.1,Campingpladsbestyrer,1439,0.4616,4
+1411.1,Hotelchef,1411,0.4565,4
+5120.1.4.99,Kantineleder,5120,0.1933,2
+1411.9,"Receptionschef, hotel",1411,0.4565,4
+1412.2,Restaurantchef,1412,0.4167,4
+1412.95,"Souschef, køkken",1412,0.4167,4
+1344.2.5,"Afdelingschef, offentlig",1344,0.3929,3
+1344.2.4,"Afdelingschef, privat",1344,0.3929,3
+1341.99,"Daglig leder, institution",1341,0.4688,4
+1341.93,"Daglig leder, institution for børn og unge",1341,0.4688,4
+1343.98,"Daglig leder, institution for ældre",1343,0.4547,4
+5311.1.3.991,Dagplejeleder,5311,0.2493,2
+1341.2,Dagtilbudsleder,1341,0.4688,4
+1344.1.2,Fritidsklubleder,1344,0.3929,3
+1341.97,"Institutionsleder, børn og unge",1341,0.4688,4
+1341.96,"Institutionsleder, ældre",1341,0.4688,4
+1343.1,Plejehjemsleder,1343,0.4547,4
+2635.3.23,Socialfaglig leder,2635,0.2716,3
+1341.95,"Souschef, institution",1341,0.4688,4
+1341.94,"Souschef, institution for børn og unge",1341,0.4688,4
+1341.98,"Souschef, institution for ældre",1341,0.4688,4
+1341.3,Vuggestueleder,1341,0.4688,4
+1431.1.1,Centerleder,1431,0.5176,5
+1349.4,Kunstnerisk leder,1349,0.4616,4
+1349.18,Museumsleder,1349,0.4616,4
+1431.1.2,Produktionsleder inden for film og teater,1431,0.5176,5
+2641.1,Forlagsredaktør,2641,0.7414,5
+2642.1.8,Redaktionschef,2642,0.6485,5
+2642.1.13,Redaktør,2642,0.6485,5
+1420.4,Butikschef,1420,0.4808,4
+1324.3.2,Import- og eksportchef,1324,0.4865,4
+1324.3.4.2,Indkøbschef,1324,0.4865,4
+1349.21,Kundeservicechef,1349,0.4616,4
+2431.11,Markedsanalytiker,2431,0.7009,5
+2431.3,Markedsføringsspecialist,2431,0.7009,5
+1221.3.3,Marketingchef,1221,0.475,4
+1221.3.2.1.1,Produktchef,1221,0.475,4
+1222.1.1,Reklamechef,1222,0.5165,4
+1221.3.2.1,Salgschef,1221,0.475,4
+1221.4,Salgsdirektør,1221,0.475,4
+1213.2.3,Turismechef,1213,0.4616,4
+2262.1,Apoteker,2262,0.4286,4
+1120.99.1,"Daglig leder, sundhed",1120,0.4943,4
+1349.17,Laboratorieleder,1349,0.4616,4
+2221.4,Ledende sygeplejerske,2221,0.3428,3
+2211.95,Overlæge,2211,0.4516,4
+1112.6.992,Sygehusdirektør,1112,0.4703,4
+1324.3.5,Lagerchef,1324,0.4865,4
+1324.3.1,Logistikchef,1324,0.4865,4
+1120.3.1,Lufthavnschef,1120,0.4943,4
+3331.2,Speditionsleder,3331,0.5137,4
+1324.3.1.1,Transportchef,1324,0.4865,4
+1345.1.6.991,Efterskoleforstander,1345,0.4286,4
+1223.2,Forskningschef,1223,0.4867,4
+1345.1.99,Institut- / centerleder,1345,0.4286,4
+1345.1.8,Rektor,1345,0.4286,4
+1345.1.6,Skoleleder,1345,0.4286,4
+1345.1.991,Uddannelsesleder,1345,0.4286,4
+1345.1.2,Viceskoleleder,1345,0.4286,4
+1349.8,Brandchef,1349,0.4616,4
+1349.1,Flysikkerhedschef,1349,0.4616,4
+1219.1.2,Sikkerhedschef,1219,0.4919,4
+2263.94,Vagtcentralleder,2263,0.4328,4
+1346.1,Bankdirektør,1346,0.4829,4
+1211.1.4,Finanschef,1211,0.4851,4
+1211.1.1,Regnskabschef,1211,0.4851,4
+1211.1,Økonomichef,1211,0.4851,4
+1219.4.2,"Afdelingsleder, privat",1219,0.4919,4
+1349.3,Chefarkivar på kulturområdet,1349,0.4616,4
+1349.22,"Idrætsleder, kommunal",1349,0.4616,4
+1330.1.1,Information- og videnchef IT,1330,0.5303,5
+1330.7,IT-projektleder,1330,0.5303,5
+1221.3.2.1.2,Kontraktchef,1221,0.475,4
+3151.2,Maskinmester,3151,0.2513,2
+1349.13,Miljø- og sikkerhedschef,1349,0.4616,4
+1219.4.95,Områdechef,1219,0.4919,4
+1219.8,Product manager,1219,0.4919,4
+1213.3,Programchef,1213,0.4616,4
+1219.6.99,Projektkoordinator,1219,0.4919,4
+1219.6,Projektleder,1219,0.4919,4
+1420.6,Regionschef,1420,0.4808,4
+1349.51,Servicechef,1349,0.4616,4
+1219.99.2,Souschef,1219,0.4919,4
+1120.4.991,Teknisk chef,1120,0.4943,4
+4411.1,Biblioteksassistent,4411,0.5509,5
+2621.2.95,Kustode,2621,0.5,4
+5153.51,Museumsmedhjælper,5153,0.0,1
+2653.2,Danser,2653,0.1461,2
+2641.2,Dramaturg,2641,0.7414,5
+2166.4.8,Filminstruktør,2166,0.5125,4
+5141.1.4,Frisør inden for teater- og TV-branchen,5141,0.1993,2
+3435.1,Instruktørassistent,3435,0.3155,3
+2653.1,Koreograf,2653,0.1461,2
+2163.1.2,Kostumedesigner,2163,0.4281,4
+7531.1,Kostumier,7531,0.0909,1
+2431.7,Kreativ chef,2431,0.7009,5
+3435.20,Regissør,3435,0.3155,3
+2166.4.6,Sceneinstruktør,2166,0.5125,4
+2655.1,Scenekunstner,2655,0.1875,2
+3432.5,Scenograf,3432,0.3987,4
+3435.23.3,Teatermedarbejder,3435,0.3155,3
+2654.2.991,TV-producer,2654,0.4991,4
+3521.1,Av tekniker,3521,0.3935,4
+2166.4.2,Caster,2166,0.5125,4
+3435.23.5,"Driftstekniker, film-, TV- og teater",3435,0.3155,3
+2166.3,"Film-, TV- og animationsarbejder",2166,0.5125,4
+2654.4,Filmklipper,2654,0.4991,4
+7312.2,Lydtekniker,7312,0.2149,2
+3435.11,Lysdesigner på forestillinger,3435,0.3155,3
+3435.12,Lystekniker,3435,0.3155,3
+3435.13,"Researcher, film og tv",3435,0.3155,3
+3435.23.4,Scenefunktionær,3435,0.3155,3
+3521.1.7,Studietekniker,3521,0.3935,4
+3435.23,Teatertekniker,3435,0.3155,3
+3521.2,Tekniker radio- og TV-udsendelser,3521,0.3935,4
+2643.6.2,Tekster,2643,0.7016,5
+3521.1.11,Tonemester,3521,0.3935,4
+2166.4.3,Filmfotograf,2166,0.5125,4
+3431.1,Fotograf,3431,0.3854,3
+8132.2,Fotografmedhjælper,8132,0.38,3
+3521.1.3,Kameramand,3521,0.3935,4
+9129.3.99,Badeassistent,9129,0.0781,1
+9129.3,Bademester,9129,0.0781,1
+2355.2,Danselærer,2355,0.406,4
+3423.2,Fitness-instruktør,3423,0.2528,3
+2422.13,Idrætsinstruktør og -konsulent,2422,0.5664,5
+3423.2.2,Personlig træner,3423,0.2528,3
+3423.3,Ridelærer,3423,0.2528,3
+9212.3,Rideskoleassistent,9212,0.0625,1
+3422.5.4,Skilærer,3422,0.3242,3
+3422.4,"Sportstræner, prof.",3422,0.3242,3
+3421.1,"Sportsudøver, prof.",3421,0.0,1
+3422.5.991,Yogalærer,3422,0.3242,3
+7312.6.1,Guitarbygger,7312,0.2149,2
+7312.6,Instrumentbygger,7312,0.2149,2
+7312.3.2,Orgelbygger,7312,0.2149,2
+2641.99,Forlagskonsulent,2641,0.7414,5
+3431.2,Fotojournalist,3431,0.3854,3
+2642.1,Journalist,2642,0.6485,5
+2642.99,Kommunikationsmedarbejder,2642,0.6485,5
+2641.4.2,Manuskriptforfatter,2641,0.7414,5
+2654.2,Producer,2654,0.4991,4
+3343.2,Redaktionssekretær,3343,0.8035,5
+2642.1.10,Researcher,2642,0.6485,5
+2641.4.4,Teknisk kommunikator,2641,0.7414,5
+2513.4,Webredaktør,2513,0.8413,5
+2651.5,Kunstner,2651,0.3418,3
+4212.5,Croupier,4212,0.3378,3
+3332.2,Eventmanager,3332,0.4865,4
+9629.2,Forlystelsesmedarbejder,9629,0.1416,2
+3435.99,Kulturmedarbejder,3435,0.3155,3
+5241.2,Model,5241,0.2333,2
+4221.3,Medarbejder på turistkontor,4221,0.5189,5
+4221.4,Rejsebureaumedarbejder,4221,0.5189,5
+4221.7,Rejsekonsulent,4221,0.5189,5
+1439.99,Turistchef,1439,0.4616,4
+5113.1,Turistguide,5113,0.3355,3
+2652.3.1,Dirigent,2652,0.5593,5
+2652.3.1.1,Korleder,2652,0.5593,5
+2652.3,Musiker,2652,0.5593,5
+2354.1,Musiklærer,2354,0.36,3
+2652.3.2,Sanger,2652,0.5593,5
+2354.1.1,Sanglærer,2354,0.36,3
+7512.1,Bager,7512,0.2647,3
+7512.99,Bageriarbejder,7512,0.2647,3
+1420.4.5,Bagermester,1420,0.4808,4
+8160.2,Fabriksbager,8160,0.0932,1
+7512.3,Konditor,7512,0.2647,3
+8160.45,Møller,8160,0.0932,1
+7513.2,Mejeriarbejder,7513,0.1291,2
+7513.1,Mejerist,7513,0.1291,2
+7511.99,Butiks- og detailslagter,7511,0.0496,1
+7511.3,Fiskeindustriarbejder,7511,0.0496,1
+7511.6,Industrislagter,7511,0.0496,1
+8160.99,"Operatør, fødevarer",8160,0.0932,1
+7511.4,Slagteriarbejder,7511,0.0496,1
+7511.1,Slagtermester,7511,0.0496,1
+2145.1.99,"Tilsynstekniker, fødevarer",2145,0.4615,4
+8160.7,Bryggeriarbejder,8160,0.0932,1
+2145.1.2,Brygmester,2145,0.4615,4
+8189.96,"Operatør, drikkevarer",8189,0.1206,1
+2263.2,Fødevareinspektør,2263,0.4328,4
+2145.1.4,Fødevareteknolog,2145,0.4615,4
+2263.5,"Kvalitetsmedarbejder, nærings- og nydelsesmiddel",2263,0.4328,4
+3257.3,Levnedsmiddelinspektør,3257,0.3577,3
+7515.3,Levnedsmiddeltekniker,7515,0.1958,2
+3119.99,Procesteknolog,3119,0.3636,3
+5163.4,Bedemand,5163,0.1269,2
+5163.3,Bedemandsassistent,5163,0.1269,2
+5163.1,Graver,5163,0.1269,2
+5311.1.3,Børnepasser,5311,0.2493,2
+5311.1.99,Dagplejer,5311,0.2493,2
+3412.4.66,Familieplejer,3412,0.3929,3
+2359.99.1,Klubmedarbejder,2359,0.3707,3
+2342.99,Klubpædagog,2342,0.2301,2
+2342.1,Pædagog,2342,0.2301,2
+2342.1.96,Pædagogisk assistent,2342,0.2301,2
+2359,Pædagogisk faglig koordinator,2359,0.3707,3
+2342.1.95,Pædagogmedhjælper,2342,0.2301,2
+5312.1,Skolepædagog,5312,0.3167,3
+2635.2,Socialpædagog,2635,0.2716,3
+2352.1.7,Støttepædagog,2352,0.313,3
+5153.1.3,Kirketjener,5153,0.0,1
+3413.2.991,Kordegn,3413,,
+3413.95,Sognehjælper,3413,,
+2635.3.30,Familiebehandler,2635,0.2716,3
+3412.4.5,Familiekonsulent,3412,0.3929,3
+2635.3.13,Familierådgiver,2635,0.2716,3
+5329.991,Forsorgsmedarbejder,5329,0.216,2
+2635.3.29,Mentor,2635,0.2716,3
+2635.1.2,Misbrugsbehandler,2635,0.2716,3
+2635.4,PPR-konsulent,2635,0.2716,3
+2635.99,Sagsbehandler,2635,0.2716,3
+2635.3.28,Social vicevært,2635,0.2716,3
+2635.3,Socialarbejder,2635,0.2716,3
+2635.95,Socialformidler,2635,0.2716,3
+2635.1,Socialrådgiver,2635,0.2716,3
+2635.3.8,SSP-medarbejder,2635,0.2716,3
+2359.93,Pædagogisk konsulent,2359,0.3707,3
+3334.5,Ejendomsadministrator,3334,0.4794,4
+5153.53,Ejendomsfunktionær,5153,0.0,1
+9622.1,Ejendomsservicetekniker,9622,0.1268,1
+5153.99,Halinspektør,5153,0.0,1
+9623.1,Måleraflæser,9623,0.3795,3
+5153.1.95,Pedel,5153,0.0,1
+5153.1.96,Pedelmedhjælper,5153,0.0,1
+5153.54,Teknisk servicemedarbejder,5153,0.0,1
+5153.1,Vicevært,5153,0.0,1
+9112.2,Rengøringsassistent,9112,0.0278,1
+9111.9,Rengøringsassistent i kontor,9111,0.0,1
+9112.9,Rengøringsassistent i transportmidler,9112,0.0278,1
+9112.54,"Rengøringsassistent, hospital",9112,0.0278,1
+9112.51,"Rengøringsassistent, hotel",9112,0.0278,1
+9112.53,"Rengøringsassistent, industri",9112,0.0278,1
+9112.52,"Rengøringsassistent, privat",9112,0.0278,1
+5151.95,Rengøringsinspektør,5151,0.2653,3
+9123.1,Vinduespudser,9123,0.0,1
+9611.1,Renovationsarbejder,9611,0.2635,3
+7133.3,Skorstensfejer,7133,,
+9629.5,Renseriassistent,9629,0.1416,2
+8157.1,Vaskeriassistent,8157,0.05,1
+4221.2,Billetsælger,4221,0.5189,5
+5223.7.6,Boghandler,5223,0.3425,3
+5223.6,Butiksassistent,5223,0.3425,3
+9334.1,Butiksmedhjælper,9334,0.1818,2
+5223.7.8,Ekspedient,5223,0.3425,3
+5223.7.17,Farvehandler,5223,0.3425,3
+9411.2,Fastfood ekspedient,9411,0.0,1
+5223.7.16,Fiskehandler,5223,0.3425,3
+5230.1,Kasseassistent,5230,0.2356,2
+5223.7.18,Blomsterbinder,5223,0.3425,3
+5223.7.99,Blomsterdekoratør,5223,0.3425,3
+3432.6,Visual merchandiser,3432,0.3987,4
+3334.3,Ejendomsmægler,3334,0.4794,4
+2431.1,Copywriter,2431,0.7009,5
+1221.3.2.1.4,E-commerce manager,1221,0.475,4
+2431.10,Marketingmedarbejder,2431,0.7009,5
+3432.2,Merchandiser,3432,0.3987,4
+3339.1,Reklamekonsulent,3339,0.5437,5
+3322.99,Account manager,3322,0.5723,5
+4311.2,Assistent til salgssupport,4311,0.7881,5
+3339.2,Auktionsleder,3339,0.5437,5
+5244.1,Callcentermedarbejder,5244,0.8056,5
+2619.1,Contract manager,2619,0.5,4
+3324.4,Grossist,3324,0.5567,5
+5223,Handelsassistent,5223,0.3425,3
+3323.2,Indkøber,3323,0.4894,4
+3343.1.5,Indkøbsassistent,3343,0.8035,5
+5223,Intern sælger,5223,0.3425,3
+4227.1,Interviewer,4227,0.6724,5
+2432.6,Kampagnemedarbejder,2432,0.5909,5
+4225.1,Kundeservicemedarbejder,4225,0.7488,5
+5249.95,"Logistikmedarbejder, salg og indkøb",5249,0.5323,5
+5223.5,Ordrebehandler,5223,0.3425,3
+2412.4.1,"Relationship manager, finans",2412,0.4987,4
+1420.3,Salgs- og kundeansvarlig,1420,0.4808,4
+5223.4,Salgsassistent,5223,0.3425,3
+3322.2,Salgskonsulent,3322,0.5723,5
+3322.3,Salgskoordinator,3322,0.5723,5
+3322.4,Salgssupporter,3322,0.5723,5
+5249.4,Servicerådgiver,5249,0.5323,5
+2431.9,Serviceøkonom,2431,0.7009,5
+3324.1.1,Skibsmægler,3324,0.5567,5
+2433.6,Teknisk sælger,2433,0.5177,5
+3324.1,Varemægler,3324,0.5567,5
+7515.9,Vinkyper,7515,0.1958,2
+2431.5,Virksomhedsudvikler,2431,0.7009,5
+3344.4,Administrativ lægesekretær,3344,0.7708,5
+3344.2,Lægesekretær,3344,0.7708,5
+2221,Visitator,2221,0.3428,3
+2230.1,Alternativ behandler,2230,0.3315,3
+2263.3,Arbejdsmiljøkonsulent,2263,0.4328,4
+2264.51,Bevægelsespædagog,2264,0.2257,2
+2269.4,Ergoterapeut,2269,0.3635,3
+2269.6,Fodterapeut,2269,0.3635,3
+2264.3,Fysioterapeut,2264,0.2257,2
+2263.6,HSE-Koordinator,2263,0.4328,4
+2269.2,Kiropraktor,2269,0.3635,3
+5142.7,Massør,5142,0.2001,2
+3255.95,Psykomotorisk terapeut,3255,0.1865,2
+3213.1,Apotekerassistent,3213,0.4265,4
+3212.5,Bioanalytiker,3212,0.2543,3
+5223.7.24,Farmakonom,5223,0.3425,3
+2269.95,Laborant,2269,0.3635,3
+3212.2,Laboratorieassistent,3212,0.2543,3
+3141.2,Laboratorietekniker,3141,0.4361,4
+3114.1.5,Medicotekniker,3114,0.4057,4
+5141.1,Frisør,5141,0.1993,2
+5142.1,Kosmetolog,5142,0.2001,2
+5142.6,Negletekniker,5142,0.2001,2
+7531.6,Parykmager,7531,0.0909,1
+5142.9,Stylist,5142,0.2001,2
+5329.99,Handicaphjælper,5329,0.216,2
+5162.1,Ledsager,5162,0.207,2
+5321.2,Omsorgsmedhjælper,5321,0.1133,1
+5329.4,Personlig hjælper,5329,0.216,2
+3412.4.95,Plejehjemsmedhjælper,3412,0.3929,3
+5329.9,Poder,5329,0.216,2
+5321.1,Social- og sundhedsassistent,5321,0.1133,1
+5322.1,Social- og sundhedshjælper,5322,0.2188,2
+2265.1,Ernærings- og sundhedskonsulent,2265,0.5488,5
+2222.1,Jordemoder,2222,0.3902,3
+2221.3,Specialsygeplejerske,2221,0.3428,3
+2221.2,Sygeplejerske,2221,0.3428,3
+2221.5,Sygeplejerske med akademisk overbygning,2221,0.3428,3
+2221,Sygeplejerske studerende,2221,0.3428,3
+2221.6,Udviklingssygeplejerske,2221,0.3428,3
+3214.2,Klinisk tandtekniker,3214,0.1639,2
+3251.1,Tandklinikassistent,3251,0.2271,2
+3251.2,Tandplejer,3251,0.2271,2
+3213.2,Apotekstekniker,3213,0.4265,4
+2266.1,Audiolog,2266,0.4529,4
+3211.99,Audiologiassistent,3211,0.3146,3
+3259.95,Neurofysiologiassistent,3259,0.3122,3
+3254.1,Optiker,3254,,
+2269.8,Radiograf,2269,0.3635,3
+3255.3,Massageterapeut,3255,0.1865,2
+2269.9.4,Musikterapeut,2269,0.3635,3
+2634.2.4,Psykoterapeut,2634,0.4415,4
+2230.1.99,Zoneterapeut,2230,0.3315,3
+5329.98,Hospitalsmedhjælper,5329,0.216,2
+5329.1,Hospitalsserviceassistent,5329,0.216,2
+5329.97,Portør,5329,0.216,2
+7536.2.6,Ortopædiskomager,7536,0.0588,1
+7536.2,Skomager,7536,0.0588,1
+8155.1.3,Garver,8155,,
+9329.97,"Specialarbejder, læder",9329,0.1871,2
+7534.3.1,Møbelpolstrer,7534,0.1912,2
+7534.3,Sadelmager,7534,0.1912,2
+7534.3.95,Sejlmager,7534,0.1912,2
+7531.5,Skrædder,7531,0.0909,1
+3323.2.4,Designteknolog,3323,0.4894,4
+2163.1.6,Modelkonstruktør,2163,0.4281,4
+2163.1.3.1,Modetøjdesigner,2163,0.4281,4
+9329.99.1,"Specialarbejder, tekstil",9329,0.1871,2
+2163.1.8,Tekstildesigner,2163,0.4281,4
+7322.10,Tekstiltrykker,7322,0.2875,3
+7122.1,Tæppemontør,7122,0.0554,1
+9510.1,Omdeler,9510,0.0417,1
+8311.1,Lokomotivfører,8311,0.2367,2
+5112.1,Togfører,5112,0.2764,3
+8312.5,Togklargører,8312,0.2584,3
+8343.2,Kranfører,8343,0.2024,2
+8344.1,Truckfører,8344,0.1809,2
+9333.6,Havnearbejder,9333,0.1785,2
+9333.8,Lager- og logistikmedarbejder,9333,0.1785,2
+9333.8.1,Lagerekspedient,9333,0.1785,2
+4321.1,Lagerforvalter,4321,0.325,3
+9321.2,Pakkerimedarbejder,9321,0.1,1
+5223.2,Reservedelsekspedient,5223,0.3425,3
+3153.4,Dronepilot,3153,0.3072,3
+4323.2,Flyklarerer,4323,0.6739,5
+3155.5,Flytekniker,3155,0.4057,4
+3154.3,Flyveklarerer,3154,0.3358,3
+3154.1,Flyveleder,3154,0.3358,3
+3153.2.4,Helikopterfører,3153,0.3072,3
+4323.1,Lufthavnsoperatør,4323,0.6739,5
+3153.2,Pilot,3153,0.3072,3
+3151.3,Maskinassistent,3151,0.2513,2
+8350.99,Skibsassistent,8350,0.0213,1
+3151.4,Skibsmaskinist,3151,0.2513,2
+7233.9,Skibsmekaniker,7233,0.1339,2
+5111.3,Passagerassistent,5111,0.2398,2
+5111.1,Purser,5111,0.2398,2
+5111.2,Steward / stewardesse,5111,0.2398,2
+5111.2.3,Togsteward / -stewardesse,5111,0.2398,2
+4221.1,Trafikassistent,4221,0.5189,5
+5112.2,Trafikinformationsmedarbejder,5112,0.2764,3
+9331.1,Cykelbud,9331,0.2246,2
+1324.3.108,Distributionschef,1324,0.4865,4
+4412.2,Postfunktionær,4412,0.2344,2
+3152.3,Lods,3152,0.2971,3
+4323.16,Overstyrmand,4323,0.6739,5
+3152.4,Skibsfører,3152,0.2971,3
+3152.9,Styrmand,3152,0.2971,3
+8322.2,Bil- og varevognschauffør til vareudbringning,8322,0.2772,3
+8331.1,Buschauffør,8331,0.3168,3
+8332.6,"Chauffør, dyretransport",8332,0.3047,3
+8332.7,"Chauffør, fragt, distribution, blandet kørsel",8332,0.3047,3
+8322.6,"Chauffør, persontransport",8322,0.2772,3
+8332.4,"Chauffør, specialtransport",8332,0.3047,3
+8332.98,"Chauffør, tankvogn",8332,0.3047,3
+9333.4,Flyttearbejder,9333,0.1785,2
+9333.95,Kørselsleder,9333,0.1785,2
+8322.7,Taxichauffør,8322,0.2772,3
+7315.1,Glasmager,7315,0.0356,1
+8181.7,"Operatør, glas",8181,0.099,1
+2651.4,Keramiker,2651,0.3418,3
+7316.1.3,Porcelænsmaler,7316,0.0682,1
+7314.2,Pottemager,7314,0.1648,2
+7523.3,Maskinsnedker,7523,0.0652,1
+7522.2,Møbelsnedker,7522,0.1391,2
+2635.3.7.99,Faglig konsulent,2635,0.2716,3
+2266.2,Logopæd,2266,0.4529,4
+2352.1,Speciallærer,2352,0.313,3
+2352.1.99,Tale-hørelærer,2352,0.313,3
+2341.1.991,Efterskolelærer,2341,0.3293,3
+2341.1,Folkeskolelærer,2341,0.3293,3
+2341.1.1,Friskolelærer,2341,0.3293,3
+2341.97,Lærervikar,2341,0.3293,3
+2341.96,"Undervisningsassistent, folkeskole",2341,0.3293,3
+2320.1.52,Ungdomsskolelærer,2320,0.381,3
+2320.1.93,Faglærer,2320,0.381,3
+2359.99,"Underviser, social- og sundhedsskoler",2359,0.3707,3
+3423.1.2,Friluftsvejleder,3423,0.2528,3
+2423.2,Job- og virksomhedskonsulent,2423,0.4887,4
+1212.1.1.991,Ligestillingskonsulent,1212,0.4977,4
+2635.99.2,"Sagsbehandler, a-kasse",2635,0.2716,3
+2635.99.1,"Sagsbehandler, kommunal",2635,0.2716,3
+2359.6,Uddannelses- og erhvervsvejleder,2359,0.3707,3
+2320.1.92,Aftenskolelærer,2320,0.381,3
+2635.3.7.98,Fagkonsulent,2635,0.2716,3
+2320.1.992,FGU-lærer,2320,0.381,3
+3153.2.3,Flyinstruktør,3153,0.3072,3
+2320.1.99,FVU-lærer,2320,0.381,3
+2330.99,Højskolelærer,2330,0.3333,3
+2356.1,IT-underviser,2356,0.5526,5
+5165.1,Kørelærer,5165,0.36,3
+2352.3,Læsevejleder,2352,0.313,3
+2320.1.993,Musikpædagog,2320,0.381,3
+2133.4,Naturvejleder,2133,0.4806,4
+2320.1.991,Ordblindelærer,2320,0.381,3
+2351.3.99,Skolekonsulent,2351,0.4875,4
+2353.1,Sproglærer,2353,0.4055,4
+2359.7,VUC-lærer,2359,0.3707,3
+7541.3,Erhvervsdykker,7541,0.0667,1
+0310.3,Konstabel,0310,0.2688,3
+0110.2,Officer,0110,,
+0210.2,Sergent,0210,,
+1439.3.99,Bilsynsassistent,1439,0.4616,4
+3411.8.1,Butiksdetektiv,3411,0.4126,4
+3411.8,Detektiv,3411,0.4126,4
+5414.1.5,Dørmand,5414,0.3172,3
+5413.2,Fængselsfunktionær,5413,0.272,3
+9629.4,Garderobeassistent,9629,0.1416,2
+5112.3.1,Kontrollør,5112,0.2764,3
+5153.96,Museumsbetjent,5153,0.0,1
+5419.2,Parkeringsvagt,5419,0.3092,3
+5414.1,"Sikkerhedsmedarbejder, vagt, sikkerhed og overvågning,",5414,0.3172,3
+5414.1.6,Vagt,5414,0.3172,3
+3258.1,Ambulancefører,3258,0.1811,2
+3112.1.6,Brandinspektør,3112,0.4257,4
+5411.1,Brandmand,5411,0.2777,3
+5419.6,Livredder,5419,0.3092,3
+5419.5,Nødhjælpsarbejder,5419,0.3092,3
+3258.2,Paramediciner,3258,0.1811,2
+5412.1,Politibetjent / -assistent,5412,0.31,3
+5411.1.4.98,Redder,5411,0.2777,3
+2263.1.97,Vagtcentralassistent,2263,0.4328,4
+2263.1.98,Vagtcentralmedarbejder,2263,0.4328,4

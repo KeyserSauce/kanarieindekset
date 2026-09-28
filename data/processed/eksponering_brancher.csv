@@ -1,0 +1,21 @@
+db25,navn,elo_beta,rang_af_17,gruppe
+L,Finansiering og forsikring,0.5476,1,mest
+K,IT og telekommunikation,0.5351,2,mest
+J,Udgivelse og medier,0.514,3,mest
+N,"Rådgivning, forskning, udvikling",0.5052,4,mest
+Q,Undervisning,0.4978,,offentlig
+D,Energiforsyning,0.4918,5,middel
+P,Offentlig forvaltning,0.4567,,offentlig
+TUV,"Organisationer, personlig service mv.",0.4516,6,middel
+R,Sundhed og socialvæsen,0.4512,,offentlig
+S,Kultur og fritid,0.4301,7,middel
+M,Ejendomme,0.4206,8,middel
+G,Handel,0.361,9,middel
+B,Råstofindvinding,0.3603,10,middel
+C,Industri,0.3213,11,middel
+H,Transport,0.3202,12,middel
+O,Administration og støtte (inkl. 82),0.2982,13,middel
+E,"Vand, kloak, affald",0.2908,14,mindst
+I,Hoteller og restauranter,0.2746,15,mindst
+F,Byggeri og anlæg,0.2356,16,mindst
+A,"Landbrug, skovbrug, fiskeri",0.1449,17,mindst
