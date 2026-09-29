@@ -825,11 +825,11 @@
       L("Eksponeringsregel v1.0 (27. september 2026), fastlagt efter de første beregninger: Eloundou m.fl. GPT-4 β pr. DISCO-4, vægtet til brancher med 1-cifret stillingsmix (FRA029 × LONS20, 2022); top-4 og bund-4 af 17 private brancher.",
         "Exposure rule v1.0 (27 September 2026), fixed after the first calculations: Eloundou et al. GPT-4 β per DISCO-4, weighted to industries by the 1-digit occupation mix (FRA029 × LONS20, 2022); top 4 and bottom 4 of 17 private industries.")
     ].forEach(t => f.appendChild(h("div", null, t)));
-    // Link til koden, så alle kan genskabe tallene
-    const gh = h("div", null, L("Kode og data, så alle kan genskabe tallene: ", "Code and data to reproduce every figure: "));
-    const a = h("a", null, "github.com/KeyserSauce/kanarieindekset");
+    // Link til koden som linje 2, lige under navnet
+    const gh = h("div");
+    const a = h("a", null, L("Kode og data", "Code and data"));
     a.href = "https://github.com/KeyserSauce/kanarieindekset"; a.target = "_blank"; a.rel = "noopener";
-    gh.appendChild(a); f.appendChild(gh);
+    gh.appendChild(a); f.insertBefore(gh, f.children[1]);
   }
 
   // Faste tekster i HTML'en har den engelske udgave i data-en (og data-en-aria for aria-label)
