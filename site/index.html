@@ -123,7 +123,7 @@
     font: 16px/1.55 var(--sans);
     -webkit-font-smoothing: antialiased;
   }
-  .page { max-width: 1040px; margin: 0 auto; padding: 40px 20px 72px; display: grid; gap: 64px; }
+  .page { max-width: 1040px; margin: 0 auto; padding: 40px 20px 72px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 64px; }
 
   /* Topbar */
   .topbar { background: var(--bar); color: var(--bar-ink); border-bottom: 1px solid var(--bar-line); }
@@ -148,7 +148,7 @@
   .intro { max-width: 62ch; font-size: 18px; color: var(--ink-2); }
 
   /* Grafer */
-  section.chart { display: grid; gap: 14px; min-width: 0; }
+  section.chart { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; min-width: 0; }
   .chart-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px 20px; }
   .seg { display: flex; flex-wrap: wrap; gap: 4px; background: var(--wash); padding: 3px; border-radius: 7px; }
   .seg button {
@@ -207,7 +207,7 @@
   .card-head .seg button { padding: 6px 9px; font-size: 13px; }
 
   /* Afsnit */
-  .part { display: grid; gap: 56px; }
+  .part { display: grid; grid-template-columns: minmax(0, 1fr); gap: 56px; }
   .part-head { display: grid; gap: 10px; border-top: 2px solid var(--ink); padding-top: 18px; }
   .part-head h2 { font-size: 30px; font-weight: 800; letter-spacing: -0.02em; }
   .part-head p { color: var(--ink-2); max-width: 66ch; font-size: 16px; }
@@ -245,6 +245,7 @@
   .mini h3 { font-size: 15px; font-weight: 600; }
 
   /* Tabelvisning */
+  details.table { min-width: 0; }
   details.table summary { cursor: pointer; font-size: 14px; color: var(--ink-2); width: fit-content; }
   details.table summary:hover { color: var(--ink); }
   .table-wrap { overflow-x: auto; margin-top: 10px; max-height: 340px; overflow-y: auto; background: var(--surface); border-radius: 6px; }
