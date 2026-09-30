@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python3 scripts/build.py
 ```
 
-Scriptet henter de nyeste tal for lønmodtagere fra Danmarks Statistik (LBESK310), kombinerer dem med filerne i `data/` og skriver `site/data.json`, som siden viser. Til sidst udskriver det de vigtigste tal. GitHub Actions kører det den 5. i hver måned og lægger siden op på ny ([.github/workflows/opdater.yml](.github/workflows/opdater.yml)).
+Scriptet henter de nyeste tal for lønmodtagere fra Danmarks Statistik (LBESK310) og jobopslag fra Jobindsats (Y25i14), kombinerer dem med filerne i `data/` og skriver `site/data.json`, som siden viser. Jobindsats' API kræver en gratis nøgle (sæt `JOBINDSATS_API_KEY`); uden nøgle bruges det gemte snapshot i `data/raw/`. Til sidst udskriver det de vigtigste tal. GitHub Actions kører det den 5. i hver måned og lægger siden op på ny ([.github/workflows/opdater.yml](.github/workflows/opdater.yml)).
 
 Se siden lokalt:
 
@@ -27,9 +27,10 @@ python3 -m http.server 8765 --directory site
 |---|---|
 | `scripts/build.py` | Laver alle tal på siden |
 | `scripts/dst.py` | Henter tabeller fra Danmarks Statistiks API |
+| `scripts/jobindsats.py` | Henter jobopslag fra Jobindsats' API |
 | `data/processed/eksponering_brancher.csv` | AI-eksponering og gruppe for 20 brancher (DB25) |
 | `data/processed/eksponering_stillinger.csv` | AI-eksponering for 1.176 stillingsbetegnelser på Jobnet |
-| `data/raw/jobindsats_y25i14_jobopslag.csv` | Jobopslag på Jobnet og Jobindex efter stillingsbetegnelse (Jobindsats Y25i14), hentet 27.09.2026 |
+| `data/raw/jobindsats_y25i14_jobopslag.csv` | Jobopslag på Jobnet og Jobindex efter stillingsbetegnelse (Jobindsats Y25i14), seneste hentning |
 | `data/raw/LBESK310_*.csv` | Det seneste svar fra Danmarks Statistik, så man kan se præcis hvilke tal siden bygger på |
 | `site/` | Hjemmesiden (`index.html`) og tallene (`data.json`) |
 
@@ -41,4 +42,4 @@ python3 -m http.server 8765 --directory site
 
 ## Begrænsninger
 
-Tallene er på brancheniveau, ikke for den enkelte person. Jobopslagene opdateres i hånden, indtil der er en API-nøgle til Jobindsats.
+Tallene er på brancheniveau, ikke for den enkelte person.
