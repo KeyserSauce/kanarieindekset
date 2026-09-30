@@ -9,8 +9,9 @@ Kilder
      kørsel via scripts/dst.py (TAL=1020 personer, KØN=TOT). Svaret gemmes i data/raw/LBESK310_<hash>.csv.
   2. data/processed/eksponering_brancher.csv: AI-eksponering pr. branche (Eloundou m.fl. 2024, GPT-4 β)
      og gruppen (mest, middel, mindst, offentlig). Se README for, hvordan den er lavet.
-  3. Jobindsats Y25i14 (jobopslag på Jobnet og Jobindex efter stillingsbetegnelse): snapshot i
-     data/raw/jobindsats_y25i14_jobopslag.csv.
+  3. Jobindsats Y25i14 (jobopslag på Jobnet og Jobindex efter stillingsbetegnelse). Hentes via API'et
+     (scripts/jobindsats.py), hvis der er en nøgle i JOBINDSATS_API_KEY eller .jobindsats_key; ellers bruges
+     snapshottet i data/raw/jobindsats_y25i14_jobopslag.csv.
   4. data/processed/eksponering_stillinger.csv: AI-eksponering pr. stillingsbetegnelse (Eloundou-kvintil
      for stillingens ISCO-4-kode).
 
@@ -33,6 +34,7 @@ RAW, PROC = ROOT / "data" / "raw", ROOT / "data" / "processed"
 OUT = ROOT / "site" / "data.json"
 sys.path.insert(0, str(HERE))
 from dst import fetch, tableinfo  # noqa: E402
+from jobindsats import opdater_snapshot  # noqa: E402
 
 I_DAG = date.today().isoformat()
 BASIS = [f"2022K{i}" for i in range(1, 5)]
@@ -137,6 +139,10 @@ GRUPPE_ISCO = {"IT og software": lambda c: c[:3] in ("251", "252", "351", "352")
                "Marketing og reklame": lambda c: c == "2431",
                "Grafisk design og web": lambda c: c in ("2166", "2513")}
 
+try:
+    JI_STATUS = opdater_snapshot()
+except Exception as e:                            # API nede eller ændret: brug det seneste snapshot
+    JI_STATUS = f"Jobindsats: API-fejl ({e.__class__.__name__}: {e}), bruger snapshot"
 y14 = pd.read_csv(RAW / "jobindsats_y25i14_jobopslag.csv")
 y14["v"] = pd.to_numeric(y14.vaerdi, errors="coerce").fillna(0)
 y14_tot = y14[y14.kategori == "Stillingsbetegnelse i alt"].set_index("periode").v
@@ -182,7 +188,7 @@ OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1, allow_nan=False) +
 
 # ------------------------------------------------------------------ 5. de vigtigste tal
 print(f"site/data.json skrevet ({OUT.stat().st_size / 1024:.0f} KB). LBESK310 til {tider[-1]} (hentet {I_DAG}), "
-      f"Y25i14 til {ji.index[-1]}.\n")
+      f"Y25i14 til {ji.index[-1]}.\n{JI_STATUS}\n")
 print("Ændring i lønmodtagere, gns. 2022 -> gns. " + f"{SLUT[0]}–{SLUT[-1]} (pct.)")
 for alder in ALDRE:
     tal = {g: r1(aendring(brs, alder)[0]) for g, brs in {**grupper, "alle": ["A-V"]}.items()}

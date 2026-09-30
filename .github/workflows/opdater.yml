@@ -28,6 +28,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Byg data.json
         if: github.event_name != 'push'
+        env:
+          JOBINDSATS_API_KEY: ${{ secrets.JOBINDSATS_API_KEY }}
         run: python scripts/build.py
       - name: Gem nye tal i repoet
         if: github.event_name != 'push'

@@ -10,6 +10,7 @@
 /scripts/*
 !/scripts/build.py
 !/scripts/dst.py
+!/scripts/jobindsats.py
 
 !/site/
 /site/*
@@ -31,5 +32,7 @@
 !/data/raw/jobindsats_y25i14_jobopslag.csv
 !/data/raw/LBESK310_8da7a16622.csv
 
+# API-nøglen må aldrig i git
+.jobindsats_key
 .DS_Store
 __pycache__/
