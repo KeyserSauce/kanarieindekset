@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python3 scripts/build.py
 ```
 
-Scriptet henter de nyeste tal for lønmodtagere fra Danmarks Statistik (LBESK310) og jobopslag fra Jobindsats (Y25i14), kombinerer dem med filerne i `data/` og skriver `site/data.json`, som siden viser. Jobindsats' API kræver en gratis nøgle (sæt `JOBINDSATS_API_KEY`); uden nøgle bruges det gemte snapshot i `data/raw/`. Til sidst udskriver det de vigtigste tal. GitHub Actions kører det den 5. i hver måned og lægger siden op på ny ([.github/workflows/opdater.yml](.github/workflows/opdater.yml)).
+Scriptet henter de nyeste tal for lønmodtagere fra Danmarks Statistik (LBESK310) og jobopslag fra Jobindsats (Y25i14), kombinerer dem med filerne i `data/` og skriver `site/data.json`, som siden viser. Jobindsats' API kræver en gratis nøgle (sæt `JOBINDSATS_API_KEY`); uden nøgle bruges det gemte snapshot i `data/raw/`. Til sidst udskriver det de vigtigste tal. GitHub Actions kører det den 10. i hver måned og lægger siden op på ny ([.github/workflows/opdater.yml](.github/workflows/opdater.yml)).
 
 Se siden lokalt:
 

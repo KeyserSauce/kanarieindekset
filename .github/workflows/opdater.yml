@@ -3,7 +3,7 @@ name: Opdater og udgiv
 
 on:
   schedule:
-    - cron: "0 6 5 * *"   # den 5. i hver måned kl. 6 (UTC)
+    - cron: "0 6 10 * *"  # den 10. i hver måned kl. 6 (UTC)
   push:
     branches: [main]
   workflow_dispatch:
