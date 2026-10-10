@@ -25552,9 +25552,9 @@ periode,kategori,vaerdi
 2025M03,(5311.1.3.991) Dagplejeleder,12
 2025M03,(6113.2) Chef for gartneriproduktion,5
 2025M03,(6210.1) Skovfoged,9
-2025M06,Stillingsbetegnelse i alt,170633
-2025M06,"Sundhed, omsorg og personlig pleje",33702
-2025M06,(2221.2) Sygeplejerske,8827
+2025M06,Stillingsbetegnelse i alt,170581
+2025M06,"Sundhed, omsorg og personlig pleje",33680
+2025M06,(2221.2) Sygeplejerske,8807
 2025M06,(2221.3) Specialsygeplejerske,332
 2025M06,(2221.5) Sygeplejerske med akademisk overbygning,5
 2025M06,(2222.1) Jordemoder,307
@@ -25597,13 +25597,13 @@ periode,kategori,vaerdi
 2025M06,(5142.9) Stylist,7
 2025M06,(5162.1) Ledsager,152
 2025M06,(5223.7.24) Farmakonom,218
-2025M06,(5321.1) Social- og sundhedsassistent,9419
+2025M06,(5321.1) Social- og sundhedsassistent,9418
 2025M06,(5322.1) Social- og sundhedshjælper,5228
 2025M06,(5329.1) Hospitals-serviceassistent,406
 2025M06,(5329.9) Poder,3
 2025M06,(5329.97) Portør,5
 2025M06,(5329.98) Hospitalsmedhjælper,55
-2025M06,(5329.99) Handicaphjælper,2228
+2025M06,(5329.99) Handicaphjælper,2227
 2025M06,(7531.6) Parykmager,5
 2025M06,Undervisning og vejledning,8146
 2025M06,(1212.1.1.991) Ligestillingskonsulent,5
@@ -25668,7 +25668,7 @@ periode,kategori,vaerdi
 2025M06,(5311.1.99) Dagplejer,491
 2025M06,(5312.1) Skolepædagog,310
 2025M06,(5329.991) Forsorgsmedarbejder,11
-2025M06,Bygge og anlæg,6223
+2025M06,Bygge og anlæg,6218
 2025M06,(1323.1) Byggeleder,257
 2025M06,(2142.1.2) Byggetekniker,45
 2025M06,(2144.1.8) VVS-tekniker,56
@@ -25681,7 +25681,7 @@ periode,kategori,vaerdi
 2025M06,(7113.1) Stenhugger,6
 2025M06,(7114.8) Anlægsstruktør,27
 2025M06,(7114.9) Bygningsstruktør,5
-2025M06,(7115.1) Tømrer,953
+2025M06,(7115.1) Tømrer,950
 2025M06,(7115.3) Køkkenmontør,24
 2025M06,(7115.9) Bygningssnedker,9
 2025M06,"(7115.99) Specialarbejder, tømrer",44
@@ -25723,10 +25723,10 @@ periode,kategori,vaerdi
 2025M06,"(9312.98) Specialarbejder, jord og beton",283
 2025M06,"(9312.99) Specialarbejder, kloak",103
 2025M06,(9313.1) Anlægsarbejder,74
-2025M06,"(9313.97) Specialarbejder, byggeri",242
+2025M06,"(9313.97) Specialarbejder, byggeri",241
 2025M06,"(9313.98) Specialarbejder, maler",34
-2025M06,"(9313.99) Specialarbejder, murer",16
-2025M06,"Jern, metal og auto",4804
+2025M06,"(9313.99) Specialarbejder, murer",15
+2025M06,"Jern, metal og auto",4801
 2025M06,(3113.1) Elektronikfagtekniker,165
 2025M06,(3115.1.22) Svejseinspektør,5
 2025M06,"(3117.3) Servicetekniker, jern og metal",77
@@ -25757,7 +25757,7 @@ periode,kategori,vaerdi
 2025M06,(7233.1) Entreprenørmaskinemekaniker,53
 2025M06,(7233.15) Driftsassistent,5
 2025M06,(7233.2) Kranmekaniker,10
-2025M06,(7233.8.1) Landbrugsmaskinemekaniker,105
+2025M06,(7233.8.1) Landbrugsmaskinemekaniker,103
 2025M06,(7234.1) Cykelmekaniker,43
 2025M06,(7234.99) Værkstedsassistent,115
 2025M06,(7311.1) Urmager,5
@@ -25768,9 +25768,9 @@ periode,kategori,vaerdi
 2025M06,(7421.9) Servicetekniker,342
 2025M06,(7543.7.5) Autoteknolog,5
 2025M06,"(8219.98) Rejsemontør, industri",5
-2025M06,(8312.5.991) Klargører,112
+2025M06,(8312.5.991) Klargører,111
 2025M06,"(9329.96) Specialarbejder, jern og metal",244
-2025M06,Industriel produktion,2891
+2025M06,Industriel produktion,2890
 2025M06,"(2131.4.99) Specialarbejder, medicinal",5
 2025M06,(2144.1.5) Maskinkonstruktør,36
 2025M06,(2149.9) Materialetekniker,5
@@ -25780,7 +25780,7 @@ periode,kategori,vaerdi
 2025M06,(3119.2.1) Robottekniker,14
 2025M06,(3122.3) Produktionsteknolog,57
 2025M06,(3122.4.95) Produktspecialist,45
-2025M06,(4321.1.3) Produktionsmedarbejder,1781
+2025M06,(4321.1.3) Produktionsmedarbejder,1780
 2025M06,(7114.1) Betonmager,8
 2025M06,(7132.1) Industrilakerer,66
 2025M06,(7233.7) Industrimekaniker,20
@@ -25854,12 +25854,12 @@ periode,kategori,vaerdi
 2025M06,"(4419.95) Piccolo / piccoline, kontor",120
 2025M06,(5153.9) Ministerialbetjent,8
 2025M06,(9333.2) Speditør,194
-2025M06,"Salg, indkøb og markedsføring",10249
+2025M06,"Salg, indkøb og markedsføring",10244
 2025M06,(1221.3.2.1.4) E-commerce manager,38
 2025M06,(1420.3) Salgs- og kundeansvarlig,498
 2025M06,"(2412.4.1) Relationship manager, finans",6
 2025M06,(2431.1) Tekstforfatter,17
-2025M06,(2431.10) Marketingmedarbejder,778
+2025M06,(2431.10) Marketingmedarbejder,776
 2025M06,(2431.5) Virksomhedsudvikler,39
 2025M06,(2431.9) Serviceøkonom,7
 2025M06,(2432.6) Kampagnemedarbejder,12
@@ -25886,14 +25886,14 @@ periode,kategori,vaerdi
 2025M06,(5223.7.17) Farvehandler,6
 2025M06,(5223.7.18) Blomsterbinder,33
 2025M06,(5223.7.6) Boghandler,6
-2025M06,(5223.7.8) Ekspedient,176
+2025M06,(5223.7.8) Ekspedient,175
 2025M06,(5223.7.99) Blomsterdekoratør,38
 2025M06,(5230.1) Kasseassistent,142
 2025M06,(5244.1) Call centermedarbejder,582
 2025M06,"(5249.95) Logistikmedarbejder, salg og indkøb",108
 2025M06,(7515.9) Vinkyper,5
 2025M06,(9334.1) Butiksmedhjælper,504
-2025M06,(9411.2) Fast food ekspedient,330
+2025M06,(9411.2) Fast food ekspedient,328
 2025M06,"Medie, kultur, turisme, idræt og underholdning",1940
 2025M06,(1439.99) Turistchef,5
 2025M06,(2163.1.2) Kostumedesigner,5
@@ -25974,7 +25974,7 @@ periode,kategori,vaerdi
 2025M06,(9129.3.99) Badeassistent,10
 2025M06,(9212.3) Rideskoleassistent,6
 2025M06,(9629.2) Forlystelsesmedarbejder,139
-2025M06,It og teleteknik,4617
+2025M06,It og teleteknik,4615
 2025M06,(1223.3) IT-Product manager,25
 2025M06,(1330.1) Chief data officer,5
 2025M06,(1330.6.10) IT-Product owner,25
@@ -25984,7 +25984,7 @@ periode,kategori,vaerdi
 2025M06,(2511.17) IT-revisor,15
 2025M06,(2511.19) Digitaliseringskonsulent,5
 2025M06,(2511.3) Datalog,15
-2025M06,(2511.9) IT-konsulent,986
+2025M06,(2511.9) IT-konsulent,984
 2025M06,(2512.3) Programmør og systemudvikler,869
 2025M06,"(2512.3.99) Softwareudvikler, backend",190
 2025M06,(2512.51) Computerspiludvikler,5
@@ -26002,7 +26002,7 @@ periode,kategori,vaerdi
 2025M06,(3512.4) IT-tekniker,213
 2025M06,(3514.1) Webmaster,141
 2025M06,(7422.6) Teletekniker,28
-2025M06,"Transport, post, lager- og maskinførerarbejde",5071
+2025M06,"Transport, post, lager- og maskinførerarbejde",5069
 2025M06,(1324.3.108) Distributionschef,7
 2025M06,(3151.3) Maskinassistent,9
 2025M06,(3151.4) Skibsmaskinist,6
@@ -26035,7 +26035,7 @@ periode,kategori,vaerdi
 2025M06,(8331.1) Buschauffør,192
 2025M06,"(8332.4) Chauffør, specialtransport",206
 2025M06,"(8332.6) Chauffør, dyretransport",11
-2025M06,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",845
+2025M06,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",844
 2025M06,"(8332.98) Chauffør, tankvogn",13
 2025M06,(8343.2) Kranfører,56
 2025M06,(8344.1) Truckfører,232
@@ -26044,21 +26044,21 @@ periode,kategori,vaerdi
 2025M06,(9331.1) Cykelbud,37
 2025M06,(9333.4) Flyttemand,41
 2025M06,(9333.6) Havnearbejder,6
-2025M06,(9333.8) Lager- og logistikmedarbejder,2236
+2025M06,(9333.8) Lager- og logistikmedarbejder,2235
 2025M06,(9333.8.1) Lagerekspedient,97
 2025M06,(9333.95) Kørselsleder,49
 2025M06,(9510.1) Omdeler,142
-2025M06,"Hotel, restauration, køkken, kantine",5835
+2025M06,"Hotel, restauration, køkken, kantine",5831
 2025M06,(2265.52) Klinisk Diætist,42
 2025M06,(3434.1) Køkkenchef,399
 2025M06,(4221.2) Vært/Værtinde,78
 2025M06,"(4224.1) Receptionist, hotel",112
-2025M06,(5111.2.2.92) Cater,92
-2025M06,(5120.1) Kok,1778
+2025M06,(5111.2.2.92) Cater,90
+2025M06,(5120.1) Kok,1777
 2025M06,(5120.1.4.992) Økonoma,28
 2025M06,(5120.1.95) Smørrebrødsjomfru,35
 2025M06,(5131.1) Vært i restaurant,160
-2025M06,(5131.2) Tjener,602
+2025M06,(5131.2) Tjener,601
 2025M06,(5131.2.2) Sommelier,7
 2025M06,(5131.2.95) Serveringsmedarbejder,83
 2025M06,(5131.2.99) Cafemedarbejder,245
@@ -26070,7 +26070,7 @@ periode,kategori,vaerdi
 2025M06,(9411.1) Pizzabager,41
 2025M06,(9412.1) Køkkenmedhjælper,1347
 2025M06,(9412.2) Opvasker,215
-2025M06,"Rengøring, ejendomsservice og renovation",4744
+2025M06,"Rengøring, ejendomsservice og renovation",4739
 2025M06,(3334.5) Ejendomsadministrator,119
 2025M06,(5151.95) Rengøringsinspektør,100
 2025M06,(5153.1) Vicevært,216
@@ -26082,7 +26082,7 @@ periode,kategori,vaerdi
 2025M06,(7133.3) Skorstensfejer,5
 2025M06,(8157.1) Vaskeriassistent,48
 2025M06,(9111.9) Rengøringsassistent i kontor,7
-2025M06,(9112.2) Rengøringsassistent,3094
+2025M06,(9112.2) Rengøringsassistent,3089
 2025M06,"(9112.51) Rengøringsassistent, hotel",6
 2025M06,"(9112.52) Rengøringsassistent, privat",7
 2025M06,"(9112.53) Rengøringsassistent, industri",161
@@ -26137,7 +26137,7 @@ periode,kategori,vaerdi
 2025M06,(5419.6) Livredder,196
 2025M06,(7541.3) Erhvervsdykker,5
 2025M06,(9629.4) Garderobeassistent,16
-2025M06,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1938
+2025M06,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1937
 2025M06,(1312.1) Fiskeriteknolog,5
 2025M06,(2132.5) Skovbrugsrådgiver,8
 2025M06,(3111.14) Jordbrugsteknolog,45
@@ -26167,7 +26167,7 @@ periode,kategori,vaerdi
 2025M06,(6224.1) Skytte,153
 2025M06,(9212.4) Dyrepasser,47
 2025M06,(9213.1) Landbrugsmedhjælper,80
-2025M06,(9214.1) Gartner,325
+2025M06,(9214.1) Gartner,324
 2025M06,(9214.1.991) Væksthusgartner,16
 2025M06,(9215.1) Skovarbejder,27
 2025M06,(9216.2) Dambrugsarbejder,7
@@ -26221,7 +26221,7 @@ periode,kategori,vaerdi
 2025M06,(7522.2) Møbelsnedker,33
 2025M06,(7523.3) Maskinsnedker,57
 2025M06,"(8181.7) Operatør, glas",5
-2025M06,Akademisk arbejde,23523
+2025M06,Akademisk arbejde,23521
 2025M06,(1213.2) Chefstrateg,15
 2025M06,(1219.2) CSR-ansvarlig,5
 2025M06,(1324.3.4) Supply chain manager,54
@@ -26250,7 +26250,7 @@ periode,kategori,vaerdi
 2025M06,(2133.13) Bæredygtighedskonsulent,5
 2025M06,(2133.2) Miljøanalytiker,5
 2025M06,(2133.6) Miljøkoordinator,51
-2025M06,(2133.9) Miljøkonsulent,182
+2025M06,(2133.9) Miljøkonsulent,181
 2025M06,(2141.11) Driftsplanlægger,5
 2025M06,(2141.3.1.99) Mejeriingeniør,5
 2025M06,(2141.3.2) Produktionsingeniør,54
@@ -26405,7 +26405,7 @@ periode,kategori,vaerdi
 2025M06,(2422.7) Efterretningsofficer,8
 2025M06,(2422.95) Projektmedarbejder,571
 2025M06,(2423.3) Personalekonsulent,167
-2025M06,"(2423.7) Researcher, rekruttering",62
+2025M06,"(2423.7) Researcher, rekruttering",61
 2025M06,(2424.99) Kursusleder,12
 2025M06,(2432.3) Fundraiser,103
 2025M06,(2432.5) SOME-medarbejder,105
@@ -26574,19 +26574,19 @@ periode,kategori,vaerdi
 2025M06,(5311.1.3.991) Dagplejeleder,12
 2025M06,(6113.2) Chef for gartneriproduktion,5
 2025M06,(6210.1) Skovfoged,9
-2025M09,Stillingsbetegnelse i alt,179917
-2025M09,"Sundhed, omsorg og personlig pleje",37288
-2025M09,(2221.2) Sygeplejerske,9349
+2025M09,Stillingsbetegnelse i alt,179770
+2025M09,"Sundhed, omsorg og personlig pleje",37239
+2025M09,(2221.2) Sygeplejerske,9319
 2025M09,(2221.3) Specialsygeplejerske,315
 2025M09,(2221.5) Sygeplejerske med akademisk overbygning,5
 2025M09,(2222.1) Jordemoder,327
 2025M09,(2230.1) Alternativ behandler,5
 2025M09,(2230.1.99) Zoneterapeut,5
 2025M09,(2263.3) Arbejdsmiljøkonsulent,142
-2025M09,(2264.3) Fysioterapeut,1211
+2025M09,(2264.3) Fysioterapeut,1210
 2025M09,(2264.51) Bevægelsespædagog,5
 2025M09,(2265.1) Ernærings- og sundhedskonsulent,131
-2025M09,(2265.51) Ernæringsassistent,830
+2025M09,(2265.51) Ernæringsassistent,826
 2025M09,(2266.1) Audiolog,35
 2025M09,(2269.2) Kiropraktor,10
 2025M09,(2269.4) Ergoterapeut,1307
@@ -26609,7 +26609,7 @@ periode,kategori,vaerdi
 2025M09,(3255.3) Massageterapeut,5
 2025M09,(3255.95) Psykomotorisk terapeut,25
 2025M09,(3259.95) Neurofysiologiassistent,13
-2025M09,(3344.2) Lægesekretær,967
+2025M09,(3344.2) Lægesekretær,966
 2025M09,(3344.4) Administrativ lægesekretær,159
 2025M09,(3412.4.95) Plejehjemsmedhjælper,481
 2025M09,(5141.1) Frisør,74
@@ -26619,15 +26619,15 @@ periode,kategori,vaerdi
 2025M09,(5142.9) Stylist,7
 2025M09,(5162.1) Ledsager,179
 2025M09,(5223.7.24) Farmakonom,213
-2025M09,(5321.1) Social- og sundhedsassistent,10259
-2025M09,(5322.1) Social- og sundhedshjælper,6402
+2025M09,(5321.1) Social- og sundhedsassistent,10254
+2025M09,(5322.1) Social- og sundhedshjælper,6398
 2025M09,(5329.1) Hospitals-serviceassistent,479
 2025M09,(5329.9) Poder,3
 2025M09,(5329.97) Portør,5
 2025M09,(5329.98) Hospitalsmedhjælper,72
-2025M09,(5329.99) Handicaphjælper,2281
+2025M09,(5329.99) Handicaphjælper,2277
 2025M09,(7531.6) Parykmager,5
-2025M09,Undervisning og vejledning,9198
+2025M09,Undervisning og vejledning,9197
 2025M09,(1212.1.1.991) Ligestillingskonsulent,7
 2025M09,(2133.4) Naturvejleder,25
 2025M09,(2266.2) Logopæd,147
@@ -26639,7 +26639,7 @@ periode,kategori,vaerdi
 2025M09,(2320.1.992) Produktionsskolelærer,14
 2025M09,(2320.1.993) Musikpædadog,37
 2025M09,(2330.99) Højskolelærer,9
-2025M09,(2341.1) Folkeskolelærer,5062
+2025M09,(2341.1) Folkeskolelærer,5061
 2025M09,(2341.1.1) Friskolelærer,207
 2025M09,(2341.1.991) Efterskolelærer,78
 2025M09,"(2341.96) Undervisningsassistent, folkeskole",46
@@ -26660,8 +26660,8 @@ periode,kategori,vaerdi
 2025M09,(3153.2.3) Flyinstruktør,5
 2025M09,(3423.1.2) Friluftsvejleder,5
 2025M09,(5165.1) Kørelærer,17
-2025M09,"Pædagogisk, socialt og kirkeligt arbejde",30826
-2025M09,(2342.1) Pædagog,14205
+2025M09,"Pædagogisk, socialt og kirkeligt arbejde",30825
+2025M09,(2342.1) Pædagog,14204
 2025M09,(2342.1.95) Pædagogmedhjælper,5051
 2025M09,(2342.1.96) Pædagogisk assistent,1078
 2025M09,(2342.99) Klubpædagog,20
@@ -26690,7 +26690,7 @@ periode,kategori,vaerdi
 2025M09,(5311.1.99) Dagplejer,529
 2025M09,(5312.1) Skolepædagog,383
 2025M09,(5329.991) Forsorgsmedarbejder,11
-2025M09,Bygge og anlæg,6761
+2025M09,Bygge og anlæg,6744
 2025M09,(1323.1) Byggeleder,258
 2025M09,(2142.1.2) Byggetekniker,47
 2025M09,(2144.1.8) VVS-tekniker,58
@@ -26703,7 +26703,7 @@ periode,kategori,vaerdi
 2025M09,(7113.1) Stenhugger,6
 2025M09,(7114.8) Anlægsstruktør,28
 2025M09,(7114.9) Bygningsstruktør,6
-2025M09,(7115.1) Tømrer,1070
+2025M09,(7115.1) Tømrer,1065
 2025M09,(7115.3) Køkkenmontør,20
 2025M09,(7115.9) Bygningssnedker,10
 2025M09,"(7115.99) Specialarbejder, tømrer",50
@@ -26726,17 +26726,17 @@ periode,kategori,vaerdi
 2025M09,(7126.8) VVS-installatør,395
 2025M09,"(7126.99) Specialarbejder, VVS",11
 2025M09,(7127.1) HVAC-tekniker,21
-2025M09,(7131.1) Bygningsmaler,284
+2025M09,(7131.1) Bygningsmaler,283
 2025M09,(7213.2.95) Rustfast industrimontør,11
 2025M09,(7214.51) Bådebygger,5
 2025M09,(7315.2) Glarmester,7
-2025M09,(7411.1) Elektriker,1656
+2025M09,(7411.1) Elektriker,1652
 2025M09,(7411.1.1) Elinstallatør,83
 2025M09,(7411.1.1.1) Serviceelektriker,21
 2025M09,(7411.1.5) Fibertekniker,5
 2025M09,(8113.10) Diamantskærer,5
 2025M09,(8113.2) Bore- og udvindingsarbejder,6
-2025M09,"(8172.99) Operatør, træ",32
+2025M09,"(8172.99) Operatør, træ",27
 2025M09,"(8219.99) Rejsemontør, bygge og anlæg",5
 2025M09,(8341.2) Maskinfører,347
 2025M09,"(8342.3) Operatør, bygge og anlæg",20
@@ -26745,14 +26745,14 @@ periode,kategori,vaerdi
 2025M09,"(9312.98) Specialarbejder, jord og beton",229
 2025M09,"(9312.99) Specialarbejder, kloak",85
 2025M09,(9313.1) Anlægsarbejder,83
-2025M09,"(9313.97) Specialarbejder, byggeri",376
+2025M09,"(9313.97) Specialarbejder, byggeri",375
 2025M09,"(9313.98) Specialarbejder, maler",29
-2025M09,"(9313.99) Specialarbejder, murer",15
-2025M09,"Jern, metal og auto",4856
+2025M09,"(9313.99) Specialarbejder, murer",14
+2025M09,"Jern, metal og auto",4847
 2025M09,(3113.1) Elektronikfagtekniker,131
 2025M09,(3115.1.22) Svejseinspektør,5
 2025M09,"(3117.3) Servicetekniker, jern og metal",43
-2025M09,(3119.8) Industritekniker,545
+2025M09,(3119.8) Industritekniker,541
 2025M09,(7132.3) Autolakerer,99
 2025M09,(7211.1) Støberitekniker,18
 2025M09,(7212.3) Svejser,266
@@ -26768,18 +26768,18 @@ periode,kategori,vaerdi
 2025M09,(7223.4.6) Fræser,12
 2025M09,(7223.7) Drejer,6
 2025M09,(7224.1) Jern- og metalsliber,11
-2025M09,(7231.10) Automekaniker,634
+2025M09,(7231.10) Automekaniker,633
 2025M09,(7231.19) Motorcykelmekaniker,5
 2025M09,(7231.2) Karosserismed,43
 2025M09,(7231.52) Lastvognsmekaniker,33
-2025M09,(7231.7) Dækmontør,122
+2025M09,(7231.7) Dækmontør,121
 2025M09,(7231.8) Mekaniker,696
 2025M09,(7231.99) Automontør,32
 2025M09,(7232.5) Flymekaniker,25
 2025M09,(7233.1) Entreprenørmaskinemekaniker,65
 2025M09,(7233.15) Driftsassistent,5
 2025M09,(7233.2) Kranmekaniker,10
-2025M09,(7233.8.1) Landbrugsmaskinemekaniker,88
+2025M09,(7233.8.1) Landbrugsmaskinemekaniker,86
 2025M09,(7234.1) Cykelmekaniker,53
 2025M09,(7234.99) Værkstedsassistent,121
 2025M09,(7311.1) Urmager,5
@@ -26790,9 +26790,9 @@ periode,kategori,vaerdi
 2025M09,(7421.9) Servicetekniker,320
 2025M09,(7543.7.5) Autoteknolog,5
 2025M09,"(8219.98) Rejsemontør, industri",5
-2025M09,(8312.5.991) Klargører,110
+2025M09,(8312.5.991) Klargører,109
 2025M09,"(9329.96) Specialarbejder, jern og metal",273
-2025M09,Industriel produktion,3490
+2025M09,Industriel produktion,3487
 2025M09,"(2131.4.99) Specialarbejder, medicinal",5
 2025M09,(2144.1.5) Maskinkonstruktør,35
 2025M09,(2149.9) Materialetekniker,5
@@ -26802,7 +26802,7 @@ periode,kategori,vaerdi
 2025M09,(3119.2.1) Robottekniker,17
 2025M09,(3122.3) Produktionsteknolog,51
 2025M09,(3122.4.95) Produktspecialist,42
-2025M09,(4321.1.3) Produktionsmedarbejder,2301
+2025M09,(4321.1.3) Produktionsmedarbejder,2298
 2025M09,(7114.1) Betonmager,5
 2025M09,(7132.1) Industrilakerer,65
 2025M09,(7233.7) Industrimekaniker,22
@@ -26826,7 +26826,7 @@ periode,kategori,vaerdi
 2025M09,"(9329.95) Specialarbejder, glasfiber",5
 2025M09,"(9329.98) Specialarbejder, papir og karton",5
 2025M09,"(9329.99) Specialarbejder, sprøjtestøbning og ekstrudering",5
-2025M09,"Kontor, administration, regnskab og finans",6541
+2025M09,"Kontor, administration, regnskab og finans",6540
 2025M09,(1312.4) Forretningsudvikler,102
 2025M09,"(1439.98) Receptionschef, kontor",5
 2025M09,(2351.1) Studiesekretær,89
@@ -26859,7 +26859,7 @@ periode,kategori,vaerdi
 2025M09,(4211.1) Bankassistent,6
 2025M09,(4214.1) Inkassomedarbejder,15
 2025M09,(4223.1) Telefonist,29
-2025M09,(4226.1) Natportier,30
+2025M09,(4226.1) Natportier,29
 2025M09,"(4226.2) Receptionist, kontor",220
 2025M09,(4312.1) Revisorassistent,44
 2025M09,(4312.4) Forsikringsfunktionær,30
@@ -26876,23 +26876,23 @@ periode,kategori,vaerdi
 2025M09,"(4419.95) Piccolo / piccoline, kontor",139
 2025M09,(5153.9) Ministerialbetjent,8
 2025M09,(9333.2) Speditør,203
-2025M09,"Salg, indkøb og markedsføring",9932
+2025M09,"Salg, indkøb og markedsføring",9924
 2025M09,(1221.3.2.1.4) E-commerce manager,27
 2025M09,(1420.3) Salgs- og kundeansvarlig,417
 2025M09,"(2412.4.1) Relationship manager, finans",6
 2025M09,(2431.1) Tekstforfatter,16
-2025M09,(2431.10) Marketingmedarbejder,788
+2025M09,(2431.10) Marketingmedarbejder,786
 2025M09,(2431.5) Virksomhedsudvikler,35
 2025M09,(2431.9) Serviceøkonom,5
 2025M09,(2432.6) Kampagnemedarbejder,9
 2025M09,(2619.1) Contract manager,51
 2025M09,(3322.2) Salgskonsulent,464
 2025M09,(3322.99) Account manager,274
-2025M09,(3323.2) Indkøber,473
+2025M09,(3323.2) Indkøber,472
 2025M09,(3324.1) Varemægler,5
 2025M09,(3324.1.1) Skibsmægler,10
 2025M09,(3324.4) Grossist,29
-2025M09,(3334.3) Ejendomsmægler,186
+2025M09,(3334.3) Ejendomsmægler,185
 2025M09,(3339.1) Reklamekonsulent,5
 2025M09,(3339.2) Auktionsleder,5
 2025M09,(3343.1.5) Indkøbsassistent,24
@@ -26903,19 +26903,19 @@ periode,kategori,vaerdi
 2025M09,(4311.2) Assistent til salgssupport,375
 2025M09,(5223.4) Salgsassistent,678
 2025M09,(5223.5) Ordrebehandler,43
-2025M09,(5223.6) Butiksassistent,2500
+2025M09,(5223.6) Butiksassistent,2499
 2025M09,(5223.7.16) Fiskehandler,8
 2025M09,(5223.7.17) Farvehandler,10
 2025M09,(5223.7.18) Blomsterbinder,39
 2025M09,(5223.7.6) Boghandler,6
-2025M09,(5223.7.8) Ekspedient,165
+2025M09,(5223.7.8) Ekspedient,164
 2025M09,(5223.7.99) Blomsterdekoratør,31
 2025M09,(5230.1) Kasseassistent,125
 2025M09,(5244.1) Call centermedarbejder,406
 2025M09,"(5249.95) Logistikmedarbejder, salg og indkøb",99
 2025M09,(7515.9) Vinkyper,5
 2025M09,(9334.1) Butiksmedhjælper,418
-2025M09,(9411.2) Fast food ekspedient,374
+2025M09,(9411.2) Fast food ekspedient,372
 2025M09,"Medie, kultur, turisme, idræt og underholdning",2089
 2025M09,(1439.99) Turistchef,5
 2025M09,(2163.1.2) Kostumedesigner,5
@@ -26996,7 +26996,7 @@ periode,kategori,vaerdi
 2025M09,(9129.3.99) Badeassistent,8
 2025M09,(9212.3) Rideskoleassistent,6
 2025M09,(9629.2) Forlystelsesmedarbejder,139
-2025M09,It og teleteknik,4725
+2025M09,It og teleteknik,4723
 2025M09,(1223.3) IT-Product manager,27
 2025M09,(1330.1) Chief data officer,5
 2025M09,(1330.6.10) IT-Product owner,20
@@ -27006,7 +27006,7 @@ periode,kategori,vaerdi
 2025M09,(2511.17) IT-revisor,13
 2025M09,(2511.19) Digitaliseringskonsulent,5
 2025M09,(2511.3) Datalog,11
-2025M09,(2511.9) IT-konsulent,1046
+2025M09,(2511.9) IT-konsulent,1044
 2025M09,(2512.3) Programmør og systemudvikler,828
 2025M09,"(2512.3.99) Softwareudvikler, backend",176
 2025M09,(2512.51) Computerspiludvikler,5
@@ -27024,7 +27024,7 @@ periode,kategori,vaerdi
 2025M09,(3512.4) IT-tekniker,206
 2025M09,(3514.1) Webmaster,186
 2025M09,(7422.6) Teletekniker,26
-2025M09,"Transport, post, lager- og maskinførerarbejde",5910
+2025M09,"Transport, post, lager- og maskinførerarbejde",5899
 2025M09,(1324.3.108) Distributionschef,7
 2025M09,(3151.3) Maskinassistent,11
 2025M09,(3151.4) Skibsmaskinist,6
@@ -27057,32 +27057,32 @@ periode,kategori,vaerdi
 2025M09,(8331.1) Buschauffør,187
 2025M09,"(8332.4) Chauffør, specialtransport",255
 2025M09,"(8332.6) Chauffør, dyretransport",10
-2025M09,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",873
+2025M09,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",871
 2025M09,"(8332.98) Chauffør, tankvogn",11
 2025M09,(8343.2) Kranfører,74
 2025M09,(8344.1) Truckfører,335
 2025M09,(8350.99) Skibsassistent,18
-2025M09,(9321.2) Pakkerimedarbejder,176
-2025M09,(9331.1) Cykelbud,24
-2025M09,(9333.4) Flyttemand,66
+2025M09,(9321.2) Pakkerimedarbejder,175
+2025M09,(9331.1) Cykelbud,23
+2025M09,(9333.4) Flyttemand,61
 2025M09,(9333.6) Havnearbejder,9
-2025M09,(9333.8) Lager- og logistikmedarbejder,2894
+2025M09,(9333.8) Lager- og logistikmedarbejder,2892
 2025M09,(9333.8.1) Lagerekspedient,115
 2025M09,(9333.95) Kørselsleder,44
 2025M09,(9510.1) Omdeler,63
-2025M09,"Hotel, restauration, køkken, kantine",6347
+2025M09,"Hotel, restauration, køkken, kantine",6324
 2025M09,(2265.52) Klinisk Diætist,34
 2025M09,(3434.1) Køkkenchef,443
 2025M09,(4221.2) Vært/Værtinde,82
-2025M09,"(4224.1) Receptionist, hotel",119
-2025M09,(5111.2.2.92) Cater,82
-2025M09,(5120.1) Kok,1975
+2025M09,"(4224.1) Receptionist, hotel",118
+2025M09,(5111.2.2.92) Cater,80
+2025M09,(5120.1) Kok,1970
 2025M09,(5120.1.4.992) Økonoma,20
 2025M09,(5120.1.95) Smørrebrødsjomfru,45
 2025M09,(5131.1) Vært i restaurant,177
-2025M09,(5131.2) Tjener,770
+2025M09,(5131.2) Tjener,760
 2025M09,(5131.2.2) Sommelier,9
-2025M09,(5131.2.95) Serveringsmedarbejder,129
+2025M09,(5131.2.95) Serveringsmedarbejder,124
 2025M09,(5131.2.99) Cafemedarbejder,266
 2025M09,(5132.1) Bartender,156
 2025M09,(5132.1.1) Barista,23
@@ -27092,7 +27092,7 @@ periode,kategori,vaerdi
 2025M09,(9411.1) Pizzabager,39
 2025M09,(9412.1) Køkkenmedhjælper,1474
 2025M09,(9412.2) Opvasker,205
-2025M09,"Rengøring, ejendomsservice og renovation",5137
+2025M09,"Rengøring, ejendomsservice og renovation",5127
 2025M09,(3334.5) Ejendomsadministrator,112
 2025M09,(5151.95) Rengøringsinspektør,75
 2025M09,(5153.1) Vicevært,248
@@ -27104,7 +27104,7 @@ periode,kategori,vaerdi
 2025M09,(7133.3) Skorstensfejer,8
 2025M09,(8157.1) Vaskeriassistent,35
 2025M09,(9111.9) Rengøringsassistent i kontor,7
-2025M09,(9112.2) Rengøringsassistent,3407
+2025M09,(9112.2) Rengøringsassistent,3397
 2025M09,"(9112.51) Rengøringsassistent, hotel",11
 2025M09,"(9112.52) Rengøringsassistent, privat",7
 2025M09,"(9112.53) Rengøringsassistent, industri",168
@@ -27133,11 +27133,11 @@ periode,kategori,vaerdi
 2025M09,(7322.5) Trykkeriarbejder,16
 2025M09,(7522.51) Møbelarkitekt,5
 2025M09,"(8132.2.99) Servicemedarbejder, foto",8
-2025M09,"Vagt, sikkerhed og overvågning",2894
+2025M09,"Vagt, sikkerhed og overvågning",2893
 2025M09,(0110.2) Officer,222
 2025M09,(0210.2) Sergent,710
 2025M09,(0310.3) Konstabel,537
-2025M09,(1439.3.99) Bilsynsassistent,56
+2025M09,(1439.3.99) Bilsynsassistent,55
 2025M09,(2263.1.97) Vagtcentralassistent,12
 2025M09,(2263.1.98) Vagtcentralmedarbejder,52
 2025M09,(3112.1.6) Brandinspektør,62
@@ -27159,7 +27159,7 @@ periode,kategori,vaerdi
 2025M09,(5419.6) Livredder,210
 2025M09,(7541.3) Erhvervsdykker,5
 2025M09,(9629.4) Garderobeassistent,10
-2025M09,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",2178
+2025M09,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",2172
 2025M09,(1312.1) Fiskeriteknolog,5
 2025M09,(2132.5) Skovbrugsrådgiver,8
 2025M09,(3111.14) Jordbrugsteknolog,51
@@ -27177,7 +27177,7 @@ periode,kategori,vaerdi
 2025M09,"(6111.1) Driftsleder, landbrug",16
 2025M09,(6113.11) Greenkeeper,35
 2025M09,(6113.4) Gartneriarbejder,229
-2025M09,(6113.6) Anlægsgartner,488
+2025M09,(6113.6) Anlægsgartner,487
 2025M09,(6113.6.991) Anlægsgartnerarbejder,91
 2025M09,(6121.2) Staldmester,12
 2025M09,(6121.99) Fodermester,6
@@ -27189,11 +27189,11 @@ periode,kategori,vaerdi
 2025M09,(6224.1) Skytte,156
 2025M09,(9212.4) Dyrepasser,62
 2025M09,(9213.1) Landbrugsmedhjælper,69
-2025M09,(9214.1) Gartner,380
+2025M09,(9214.1) Gartner,379
 2025M09,(9214.1.991) Væksthusgartner,16
 2025M09,(9215.1) Skovarbejder,29
 2025M09,(9216.2) Dambrugsarbejder,7
-2025M09,"(9312.97) Specialarbejder, grønne områder",346
+2025M09,"(9312.97) Specialarbejder, grønne områder",342
 2025M09,Tekstil og beklædning,169
 2025M09,(2163.1.3.1) Beklædningsdesigner,5
 2025M09,(2163.1.6) Modelkonstruktør,7
@@ -27243,7 +27243,7 @@ periode,kategori,vaerdi
 2025M09,(7522.2) Møbelsnedker,45
 2025M09,(7523.3) Maskinsnedker,62
 2025M09,"(8181.7) Operatør, glas",7
-2025M09,Akademisk arbejde,25261
+2025M09,Akademisk arbejde,25259
 2025M09,(1213.2) Chefstrateg,12
 2025M09,(1219.2) CSR-ansvarlig,5
 2025M09,(1324.3.4) Supply chain manager,60
@@ -27272,7 +27272,7 @@ periode,kategori,vaerdi
 2025M09,(2133.13) Bæredygtighedskonsulent,5
 2025M09,(2133.2) Miljøanalytiker,5
 2025M09,(2133.6) Miljøkoordinator,62
-2025M09,(2133.9) Miljøkonsulent,198
+2025M09,(2133.9) Miljøkonsulent,197
 2025M09,(2141.11) Driftsplanlægger,5
 2025M09,(2141.3.1.99) Mejeriingeniør,5
 2025M09,(2141.3.2) Produktionsingeniør,53
@@ -27427,7 +27427,7 @@ periode,kategori,vaerdi
 2025M09,(2422.7) Efterretningsofficer,20
 2025M09,(2422.95) Projektmedarbejder,628
 2025M09,(2423.3) Personalekonsulent,205
-2025M09,"(2423.7) Researcher, rekruttering",70
+2025M09,"(2423.7) Researcher, rekruttering",69
 2025M09,(2424.99) Kursusleder,20
 2025M09,(2432.3) Fundraiser,102
 2025M09,(2432.5) SOME-medarbejder,113
@@ -27475,7 +27475,7 @@ periode,kategori,vaerdi
 2025M09,(3411.1) Sagsadministrator,41
 2025M09,(3411.1.99) Byggesagsbehandler,134
 2025M09,"(4224.99) Koordinator, hotel",5
-2025M09,Ledelse,14704
+2025M09,Ledelse,14701
 2025M09,(1111.6) Departementschef,7
 2025M09,(1112.3) Diplomat,8
 2025M09,(1112.6) Leder af offentlig forvaltning,169
@@ -27488,7 +27488,7 @@ periode,kategori,vaerdi
 2025M09,(1120.4.991) Teknisk chef,57
 2025M09,"(1120.99.1) Daglig leder, sundhed",155
 2025M09,(1211.1) Økonomichef,213
-2025M09,(1211.1.1) Regnskabschef,104
+2025M09,(1211.1.1) Regnskabschef,103
 2025M09,(1211.1.4) Finanschef,49
 2025M09,(1212.1) Personalechef,55
 2025M09,(1212.1.1) Ligestillings- og inklusionschef,5
@@ -27566,9 +27566,9 @@ periode,kategori,vaerdi
 2025M09,(1349.8) Brandchef,8
 2025M09,(1411.1) Hotelchef,8
 2025M09,"(1411.9) Receptionschef, hotel",8
-2025M09,(1412.2) Restaurantchef,184
+2025M09,(1412.2) Restaurantchef,183
 2025M09,"(1412.95) Souschef, køkken",80
-2025M09,(1420.4) Butikschef,778
+2025M09,(1420.4) Butikschef,777
 2025M09,(1420.6) Regionschef,11
 2025M09,(1431.1.1) Centerleder,112
 2025M09,(1431.1.2) Produktionsleder inden for film og teater,9
@@ -27596,19 +27596,19 @@ periode,kategori,vaerdi
 2025M09,(5311.1.3.991) Dagplejeleder,8
 2025M09,(6113.2) Chef for gartneriproduktion,5
 2025M09,(6210.1) Skovfoged,7
-2025M12,Stillingsbetegnelse i alt,143839
-2025M12,"Sundhed, omsorg og personlig pleje",28825
-2025M12,(2221.2) Sygeplejerske,6864
+2025M12,Stillingsbetegnelse i alt,143471
+2025M12,"Sundhed, omsorg og personlig pleje",28699
+2025M12,(2221.2) Sygeplejerske,6799
 2025M12,(2221.3) Specialsygeplejerske,256
 2025M12,(2221.5) Sygeplejerske med akademisk overbygning,21
 2025M12,(2222.1) Jordemoder,158
 2025M12,(2230.1) Alternativ behandler,5
 2025M12,(2230.1.99) Zoneterapeut,5
 2025M12,(2263.3) Arbejdsmiljøkonsulent,130
-2025M12,(2264.3) Fysioterapeut,958
+2025M12,(2264.3) Fysioterapeut,957
 2025M12,(2264.51) Bevægelsespædagog,6
 2025M12,(2265.1) Ernærings- og sundhedskonsulent,94
-2025M12,(2265.51) Ernæringsassistent,775
+2025M12,(2265.51) Ernæringsassistent,771
 2025M12,(2266.1) Audiolog,32
 2025M12,(2269.2) Kiropraktor,13
 2025M12,(2269.4) Ergoterapeut,917
@@ -27625,31 +27625,31 @@ periode,kategori,vaerdi
 2025M12,(3213.1) Apotekerassistent,6
 2025M12,(3213.2) Apotekstekniker,5
 2025M12,(3214.2) Klinisk tandtekniker,17
-2025M12,(3251.1) Tandklinikassistent,286
+2025M12,(3251.1) Tandklinikassistent,285
 2025M12,(3251.2) Tandplejer,157
 2025M12,(3254.1) Optiker,38
 2025M12,(3255.3) Massageterapeut,6
 2025M12,(3255.95) Psykomotorisk terapeut,28
 2025M12,(3259.95) Neurofysiologiassistent,18
-2025M12,(3344.2) Lægesekretær,698
+2025M12,(3344.2) Lægesekretær,697
 2025M12,(3344.4) Administrativ lægesekretær,74
 2025M12,(3412.4.95) Plejehjemsmedhjælper,328
 2025M12,(5141.1) Frisør,60
 2025M12,(5142.1) Kosmetolog,24
 2025M12,(5142.6) Negletekniker,18
-2025M12,(5142.7) Massør,333
+2025M12,(5142.7) Massør,326
 2025M12,(5142.9) Stylist,5
 2025M12,(5162.1) Ledsager,155
 2025M12,(5223.7.24) Farmakonom,132
-2025M12,(5321.1) Social- og sundhedsassistent,8310
-2025M12,(5322.1) Social- og sundhedshjælper,4980
+2025M12,(5321.1) Social- og sundhedsassistent,8298
+2025M12,(5322.1) Social- og sundhedshjælper,4961
 2025M12,(5329.1) Hospitals-serviceassistent,286
 2025M12,(5329.9) Poder,3
 2025M12,(5329.97) Portør,30
 2025M12,(5329.98) Hospitalsmedhjælper,68
-2025M12,(5329.99) Handicaphjælper,1625
+2025M12,(5329.99) Handicaphjælper,1609
 2025M12,(7531.6) Parykmager,5
-2025M12,Undervisning og vejledning,8113
+2025M12,Undervisning og vejledning,8112
 2025M12,(1212.1.1.991) Ligestillingskonsulent,7
 2025M12,(2133.4) Naturvejleder,25
 2025M12,(2266.2) Logopæd,125
@@ -27661,7 +27661,7 @@ periode,kategori,vaerdi
 2025M12,(2320.1.992) Produktionsskolelærer,14
 2025M12,(2320.1.993) Musikpædadog,29
 2025M12,(2330.99) Højskolelærer,8
-2025M12,(2341.1) Folkeskolelærer,5006
+2025M12,(2341.1) Folkeskolelærer,5005
 2025M12,(2341.1.1) Friskolelærer,199
 2025M12,(2341.1.991) Efterskolelærer,93
 2025M12,"(2341.96) Undervisningsassistent, folkeskole",27
@@ -27682,8 +27682,8 @@ periode,kategori,vaerdi
 2025M12,(3153.2.3) Flyinstruktør,5
 2025M12,(3423.1.2) Friluftsvejleder,5
 2025M12,(5165.1) Kørelærer,14
-2025M12,"Pædagogisk, socialt og kirkeligt arbejde",24375
-2025M12,(2342.1) Pædagog,10795
+2025M12,"Pædagogisk, socialt og kirkeligt arbejde",24373
+2025M12,(2342.1) Pædagog,10794
 2025M12,(2342.1.95) Pædagogmedhjælper,4557
 2025M12,(2342.1.96) Pædagogisk assistent,842
 2025M12,(2342.99) Klubpædagog,67
@@ -27699,7 +27699,7 @@ periode,kategori,vaerdi
 2025M12,(2635.3.29) Mentor,18
 2025M12,(2635.3.8) SSP-medarbejder,32
 2025M12,(2635.95) Socialformidler,120
-2025M12,(2635.99) Sagsbehandler,1053
+2025M12,(2635.99) Sagsbehandler,1052
 2025M12,(3412.4.5) Familiekonsulent,68
 2025M12,(3412.4.66) Familieplejer,39
 2025M12,(3413.2.991) Kordegn,56
@@ -27712,7 +27712,7 @@ periode,kategori,vaerdi
 2025M12,(5311.1.99) Dagplejer,391
 2025M12,(5312.1) Skolepædagog,416
 2025M12,(5329.991) Forsorgsmedarbejder,38
-2025M12,Bygge og anlæg,5637
+2025M12,Bygge og anlæg,5592
 2025M12,(1323.1) Byggeleder,204
 2025M12,(2142.1.2) Byggetekniker,25
 2025M12,(2144.1.8) VVS-tekniker,45
@@ -27725,7 +27725,7 @@ periode,kategori,vaerdi
 2025M12,(7113.1) Stenhugger,7
 2025M12,(7114.8) Anlægsstruktør,37
 2025M12,(7114.9) Bygningsstruktør,7
-2025M12,(7115.1) Tømrer,986
+2025M12,(7115.1) Tømrer,984
 2025M12,(7115.3) Køkkenmontør,20
 2025M12,(7115.9) Bygningssnedker,10
 2025M12,"(7115.99) Specialarbejder, tømrer",37
@@ -27734,12 +27734,12 @@ periode,kategori,vaerdi
 2025M12,(7119.99) Byggemontagetekniker,25
 2025M12,(7121.1) Tagdækker,20
 2025M12,(7121.2) Fugemontør,5
-2025M12,(7122.3) Gulvlægger,68
+2025M12,(7122.3) Gulvlægger,67
 2025M12,(7122.4) Flisemontør,5
 2025M12,(7123.2) Stukkatør,5
 2025M12,(7124.1) Isolatør,28
 2025M12,(7126.11) Kloakrørlægger,43
-2025M12,(7126.11.95) Rørlægger,55
+2025M12,(7126.11.95) Rørlægger,53
 2025M12,(7126.19) Ventilationstekniker,41
 2025M12,(7126.2) Kloakmester,15
 2025M12,(7126.3) Gastekniker,14
@@ -27747,74 +27747,74 @@ periode,kategori,vaerdi
 2025M12,(7126.52) Blikkenslager,15
 2025M12,(7126.8) VVS-installatør,173
 2025M12,"(7126.99) Specialarbejder, VVS",20
-2025M12,(7127.1) HVAC-tekniker,27
-2025M12,(7131.1) Bygningsmaler,348
+2025M12,(7127.1) HVAC-tekniker,15
+2025M12,(7131.1) Bygningsmaler,346
 2025M12,(7213.2.95) Rustfast industrimontør,5
 2025M12,(7214.51) Bådebygger,5
 2025M12,(7315.2) Glarmester,7
-2025M12,(7411.1) Elektriker,1062
+2025M12,(7411.1) Elektriker,1051
 2025M12,(7411.1.1) Elinstallatør,53
 2025M12,(7411.1.1.1) Serviceelektriker,25
 2025M12,(7411.1.5) Fibertekniker,22
 2025M12,(8113.10) Diamantskærer,12
 2025M12,(8113.2) Bore- og udvindingsarbejder,7
-2025M12,"(8172.99) Operatør, træ",22
-2025M12,"(8219.99) Rejsemontør, bygge og anlæg",8
+2025M12,"(8172.99) Operatør, træ",17
+2025M12,"(8219.99) Rejsemontør, bygge og anlæg",7
 2025M12,(8341.2) Maskinfører,315
 2025M12,"(8342.3) Operatør, bygge og anlæg",12
 2025M12,(9312.1) Struktør,113
 2025M12,(9312.1.4) Asfaltør,90
-2025M12,"(9312.98) Specialarbejder, jord og beton",200
+2025M12,"(9312.98) Specialarbejder, jord og beton",191
 2025M12,"(9312.99) Specialarbejder, kloak",65
 2025M12,(9313.1) Anlægsarbejder,61
 2025M12,"(9313.97) Specialarbejder, byggeri",324
 2025M12,"(9313.98) Specialarbejder, maler",18
 2025M12,"(9313.99) Specialarbejder, murer",12
-2025M12,"Jern, metal og auto",3540
-2025M12,(3113.1) Elektronikfagtekniker,137
+2025M12,"Jern, metal og auto",3520
+2025M12,(3113.1) Elektronikfagtekniker,135
 2025M12,(3115.1.22) Svejseinspektør,5
 2025M12,"(3117.3) Servicetekniker, jern og metal",31
-2025M12,(3119.8) Industritekniker,368
+2025M12,(3119.8) Industritekniker,364
 2025M12,(7132.3) Autolakerer,64
 2025M12,(7211.1) Støberitekniker,8
-2025M12,(7212.3) Svejser,171
+2025M12,(7212.3) Svejser,170
 2025M12,(7213.2) Plade- og konstruktionssmed,19
-2025M12,(7213.4) Klejnsmed,251
+2025M12,(7213.4) Klejnsmed,250
 2025M12,(7214.2) Skibsbygger,12
 2025M12,(7215.2.1) Skibsmontør,34
-2025M12,(7221.1) Smed,198
+2025M12,(7221.1) Smed,197
 2025M12,(7222.3) Låsesmed,16
 2025M12,(7222.4) Finmekaniker,10
 2025M12,(7222.5) Værktøjsmager,10
-2025M12,(7223.4) CNC-operatør,98
+2025M12,(7223.4) CNC-operatør,97
 2025M12,(7223.4.6) Fræser,7
 2025M12,(7223.7) Drejer,6
 2025M12,(7224.1) Jern- og metalsliber,11
-2025M12,(7231.10) Automekaniker,360
+2025M12,(7231.10) Automekaniker,357
 2025M12,(7231.19) Motorcykelmekaniker,5
 2025M12,(7231.2) Karosserismed,24
-2025M12,(7231.52) Lastvognsmekaniker,49
-2025M12,(7231.7) Dækmontør,77
-2025M12,(7231.8) Mekaniker,579
+2025M12,(7231.52) Lastvognsmekaniker,48
+2025M12,(7231.7) Dækmontør,76
+2025M12,(7231.8) Mekaniker,578
 2025M12,(7231.99) Automontør,18
 2025M12,(7232.5) Flymekaniker,24
 2025M12,(7233.1) Entreprenørmaskinemekaniker,42
 2025M12,(7233.15) Driftsassistent,20
 2025M12,(7233.2) Kranmekaniker,8
 2025M12,(7233.8.1) Landbrugsmaskinemekaniker,17
-2025M12,(7234.1) Cykelmekaniker,48
+2025M12,(7234.1) Cykelmekaniker,46
 2025M12,(7234.99) Værkstedsassistent,91
 2025M12,(7311.1) Urmager,5
 2025M12,(7412.12) Vindmølleoperatør,8
 2025M12,(7412.3) Elektrotekniker,12
 2025M12,(7412.99) Automatiktekniker,115
-2025M12,(7421.7) Elektrofagtekniker,10
-2025M12,(7421.9) Servicetekniker,315
+2025M12,(7421.7) Elektrofagtekniker,9
+2025M12,(7421.9) Servicetekniker,314
 2025M12,(7543.7.5) Autoteknolog,5
 2025M12,"(8219.98) Rejsemontør, industri",13
 2025M12,(8312.5.991) Klargører,77
 2025M12,"(9329.96) Specialarbejder, jern og metal",162
-2025M12,Industriel produktion,2815
+2025M12,Industriel produktion,2791
 2025M12,"(2131.4.99) Specialarbejder, medicinal",5
 2025M12,(2144.1.5) Maskinkonstruktør,21
 2025M12,(2149.9) Materialetekniker,5
@@ -27824,7 +27824,7 @@ periode,kategori,vaerdi
 2025M12,(3119.2.1) Robottekniker,9
 2025M12,(3122.3) Produktionsteknolog,29
 2025M12,(3122.4.95) Produktspecialist,29
-2025M12,(4321.1.3) Produktionsmedarbejder,1875
+2025M12,(4321.1.3) Produktionsmedarbejder,1853
 2025M12,(7114.1) Betonmager,14
 2025M12,(7132.1) Industrilakerer,41
 2025M12,(7233.7) Industrimekaniker,16
@@ -27832,7 +27832,7 @@ periode,kategori,vaerdi
 2025M12,"(8122.99) Operatør, jern og metal",174
 2025M12,"(8131.99) Operatør, kemisk",16
 2025M12,(8142.19) Plastmager,21
-2025M12,"(8142.99) Operatør, plastmager",14
+2025M12,"(8142.99) Operatør, plastmager",13
 2025M12,"(8159.99) Operatør, tekstil",8
 2025M12,(8183.3) Procesoperatør,112
 2025M12,(8189.7) Forsyningsoperatør,12
@@ -27841,20 +27841,20 @@ periode,kategori,vaerdi
 2025M12,"(8189.95) Operatør, emballage",6
 2025M12,"(8189.97) Operatør, logistik",8
 2025M12,"(8189.98) Operatør, pharma",10
-2025M12,"(8189.99) Industrioperatør, uddannet",37
+2025M12,"(8189.99) Industrioperatør, uddannet",36
 2025M12,"(8189.99.2) Industrioperatør, ikke uddannet",65
 2025M12,(8212.2) Elektronikarbejder,74
 2025M12,(8212.2.3) Ledningsmontør,8
 2025M12,"(9329.95) Specialarbejder, glasfiber",5
 2025M12,"(9329.98) Specialarbejder, papir og karton",5
 2025M12,"(9329.99) Specialarbejder, sprøjtestøbning og ekstrudering",5
-2025M12,"Kontor, administration, regnskab og finans",5113
+2025M12,"Kontor, administration, regnskab og finans",5105
 2025M12,(1312.4) Forretningsudvikler,93
 2025M12,"(1439.98) Receptionschef, kontor",5
 2025M12,(2351.1) Studiesekretær,56
 2025M12,(2412.2) Finansrådgiver,26
 2025M12,(2413.2) Økonomiassistent,408
-2025M12,(2643.2) Tolk,90
+2025M12,(2643.2) Tolk,87
 2025M12,(2643.5) Tegnsprogstolk,5
 2025M12,(2643.6) Oversætter,6
 2025M12,(3311.2.5) Børsmægler,5
@@ -27862,7 +27862,7 @@ periode,kategori,vaerdi
 2025M12,(3312.6) Realkreditmedarbejder,5
 2025M12,(3312.99) Finansmedarbejder,30
 2025M12,(3313.1) Bogholderi- og regnskabsassistent,618
-2025M12,(3313.2) Bogholder,451
+2025M12,(3313.2) Bogholder,449
 2025M12,(3315.3) Assurandør,37
 2025M12,(3315.5) Taksator,8
 2025M12,(3315.8) Valuar,5
@@ -27875,13 +27875,13 @@ periode,kategori,vaerdi
 2025M12,(3351.1) Tolder,40
 2025M12,(4110.1) Kontormedhjælper,1104
 2025M12,(4110.1.99) Kursuskoordinator,14
-2025M12,(4120.1) Sekretær,493
+2025M12,(4120.1) Sekretær,492
 2025M12,(4120.99) Skolesekretær,119
 2025M12,(4131.1) Tasteoperatør,7
 2025M12,(4211.1) Bankassistent,7
 2025M12,(4214.1) Inkassomedarbejder,9
 2025M12,(4223.1) Telefonist,15
-2025M12,(4226.1) Natportier,28
+2025M12,(4226.1) Natportier,26
 2025M12,"(4226.2) Receptionist, kontor",167
 2025M12,(4312.1) Revisorassistent,33
 2025M12,(4312.4) Forsikringsfunktionær,27
@@ -27898,34 +27898,34 @@ periode,kategori,vaerdi
 2025M12,"(4419.95) Piccolo / piccoline, kontor",151
 2025M12,(5153.9) Ministerialbetjent,5
 2025M12,(9333.2) Speditør,159
-2025M12,"Salg, indkøb og markedsføring",9336
+2025M12,"Salg, indkøb og markedsføring",9310
 2025M12,(1221.3.2.1.4) E-commerce manager,14
-2025M12,(1420.3) Salgs- og kundeansvarlig,331
+2025M12,(1420.3) Salgs- og kundeansvarlig,330
 2025M12,"(2412.4.1) Relationship manager, finans",5
 2025M12,(2431.1) Tekstforfatter,6
-2025M12,(2431.10) Marketingmedarbejder,645
+2025M12,(2431.10) Marketingmedarbejder,644
 2025M12,(2431.5) Virksomhedsudvikler,25
 2025M12,(2431.9) Serviceøkonom,5
 2025M12,(2432.6) Kampagnemedarbejder,6
 2025M12,(2619.1) Contract manager,67
 2025M12,(3322.2) Salgskonsulent,539
 2025M12,(3322.99) Account manager,242
-2025M12,(3323.2) Indkøber,418
+2025M12,(3323.2) Indkøber,417
 2025M12,(3324.1) Varemægler,5
 2025M12,(3324.1.1) Skibsmægler,5
 2025M12,(3324.4) Grossist,27
-2025M12,(3334.3) Ejendomsmægler,183
+2025M12,(3334.3) Ejendomsmægler,182
 2025M12,(3339.1) Reklamekonsulent,5
 2025M12,(3339.2) Auktionsleder,5
 2025M12,(3343.1.5) Indkøbsassistent,43
 2025M12,(3432.2) Merchandiser,49
 2025M12,(3432.6) Visual merchandiser,28
-2025M12,(4225.1) Kundeservicemedarbejder,1158
+2025M12,(4225.1) Kundeservicemedarbejder,1157
 2025M12,(4227.1) Interviewer,418
 2025M12,(4311.2) Assistent til salgssupport,371
-2025M12,(5223.4) Salgsassistent,951
+2025M12,(5223.4) Salgsassistent,944
 2025M12,(5223.5) Ordrebehandler,28
-2025M12,(5223.6) Butiksassistent,2346
+2025M12,(5223.6) Butiksassistent,2333
 2025M12,(5223.7.16) Fiskehandler,5
 2025M12,(5223.7.17) Farvehandler,9
 2025M12,(5223.7.18) Blomsterbinder,33
@@ -27933,7 +27933,7 @@ periode,kategori,vaerdi
 2025M12,(5223.7.8) Ekspedient,126
 2025M12,(5223.7.99) Blomsterdekoratør,19
 2025M12,(5230.1) Kasseassistent,132
-2025M12,(5244.1) Call centermedarbejder,326
+2025M12,(5244.1) Call centermedarbejder,325
 2025M12,"(5249.95) Logistikmedarbejder, salg og indkøb",85
 2025M12,(7515.9) Vinkyper,5
 2025M12,(9334.1) Butiksmedhjælper,428
@@ -28018,7 +28018,7 @@ periode,kategori,vaerdi
 2025M12,(9129.3.99) Badeassistent,12
 2025M12,(9212.3) Rideskoleassistent,5
 2025M12,(9629.2) Forlystelsesmedarbejder,36
-2025M12,It og teleteknik,3854
+2025M12,It og teleteknik,3852
 2025M12,(1223.3) IT-Product manager,31
 2025M12,(1330.1) Chief data officer,5
 2025M12,(1330.6.10) IT-Product owner,29
@@ -28028,9 +28028,9 @@ periode,kategori,vaerdi
 2025M12,(2511.17) IT-revisor,9
 2025M12,(2511.19) Digitaliseringskonsulent,28
 2025M12,(2511.3) Datalog,7
-2025M12,(2511.9) IT-konsulent,765
+2025M12,(2511.9) IT-konsulent,764
 2025M12,(2512.3) Programmør og systemudvikler,681
-2025M12,"(2512.3.99) Softwareudvikler, backend",172
+2025M12,"(2512.3.99) Softwareudvikler, backend",171
 2025M12,(2512.51) Computerspiludvikler,5
 2025M12,"(2512.99) Softwareudvikler, frontend",41
 2025M12,(2513.3) UX designer,45
@@ -28046,7 +28046,7 @@ periode,kategori,vaerdi
 2025M12,(3512.4) IT-tekniker,189
 2025M12,(3514.1) Webmaster,187
 2025M12,(7422.6) Teletekniker,21
-2025M12,"Transport, post, lager- og maskinførerarbejde",4888
+2025M12,"Transport, post, lager- og maskinførerarbejde",4863
 2025M12,(1324.3.108) Distributionschef,7
 2025M12,(3151.3) Maskinassistent,6
 2025M12,(3151.4) Skibsmaskinist,5
@@ -28060,7 +28060,7 @@ periode,kategori,vaerdi
 2025M12,(3154.3) Flyveklarerer,5
 2025M12,(3155.5) Flytekniker,6
 2025M12,(4221.1) Trafikassistent,11
-2025M12,(4321.1) Lagerforvalter,34
+2025M12,(4321.1) Lagerforvalter,33
 2025M12,(4323.1) Lufthavnsoperatør,9
 2025M12,(4323.16) Overstyrmand,6
 2025M12,(4323.2) Flyklarerer,5
@@ -28070,7 +28070,7 @@ periode,kategori,vaerdi
 2025M12,(5111.2.3) Togsteward / -stewardesse,5
 2025M12,(5112.1) Togfører,69
 2025M12,(5112.2) Trafikinformationsmedarbejder,5
-2025M12,(5223.2) Reservedelsekspedient,75
+2025M12,(5223.2) Reservedelsekspedient,73
 2025M12,(7233.9) Skibsmekaniker,6
 2025M12,(8311.1) Lokomotivfører,36
 2025M12,(8312.5) Togklargører,28
@@ -28078,48 +28078,48 @@ periode,kategori,vaerdi
 2025M12,"(8322.6) Chauffør, persontransport",71
 2025M12,(8322.7) Taxichauffør,33
 2025M12,(8331.1) Buschauffør,161
-2025M12,"(8332.4) Chauffør, specialtransport",207
+2025M12,"(8332.4) Chauffør, specialtransport",206
 2025M12,"(8332.6) Chauffør, dyretransport",10
-2025M12,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",653
+2025M12,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",651
 2025M12,"(8332.98) Chauffør, tankvogn",10
 2025M12,(8343.2) Kranfører,68
 2025M12,(8344.1) Truckfører,302
 2025M12,(8350.99) Skibsassistent,17
-2025M12,(9321.2) Pakkerimedarbejder,183
-2025M12,(9331.1) Cykelbud,18
-2025M12,(9333.4) Flyttemand,66
+2025M12,(9321.2) Pakkerimedarbejder,182
+2025M12,(9331.1) Cykelbud,17
+2025M12,(9333.4) Flyttemand,59
 2025M12,(9333.6) Havnearbejder,9
-2025M12,(9333.8) Lager- og logistikmedarbejder,2339
+2025M12,(9333.8) Lager- og logistikmedarbejder,2329
 2025M12,(9333.8.1) Lagerekspedient,111
 2025M12,(9333.95) Kørselsleder,43
 2025M12,(9510.1) Omdeler,49
-2025M12,"Hotel, restauration, køkken, kantine",5390
+2025M12,"Hotel, restauration, køkken, kantine",5349
 2025M12,(2265.52) Klinisk Diætist,60
 2025M12,(3434.1) Køkkenchef,372
 2025M12,(4221.2) Vært/Værtinde,132
-2025M12,"(4224.1) Receptionist, hotel",112
+2025M12,"(4224.1) Receptionist, hotel",111
 2025M12,(5111.2.2.92) Cater,57
-2025M12,(5120.1) Kok,1527
+2025M12,(5120.1) Kok,1513
 2025M12,(5120.1.4.992) Økonoma,12
 2025M12,(5120.1.95) Smørrebrødsjomfru,31
 2025M12,(5131.1) Vært i restaurant,104
-2025M12,(5131.2) Tjener,651
+2025M12,(5131.2) Tjener,640
 2025M12,(5131.2.2) Sommelier,7
-2025M12,(5131.2.95) Serveringsmedarbejder,131
-2025M12,(5131.2.99) Cafemedarbejder,229
+2025M12,(5131.2.95) Serveringsmedarbejder,122
+2025M12,(5131.2.99) Cafemedarbejder,225
 2025M12,(5132.1) Bartender,176
 2025M12,(5132.1.1) Barista,32
-2025M12,(5151.2) Oldfrue,27
-2025M12,(5223.7.13) Delikatesseassistent,167
+2025M12,(5151.2) Oldfrue,26
+2025M12,(5223.7.13) Delikatesseassistent,166
 2025M12,(9112.99) Hotelmedarbejder,44
 2025M12,(9411.1) Pizzabager,46
 2025M12,(9412.1) Køkkenmedhjælper,1257
 2025M12,(9412.2) Opvasker,216
-2025M12,"Rengøring, ejendomsservice og renovation",4597
-2025M12,(3334.5) Ejendomsadministrator,91
+2025M12,"Rengøring, ejendomsservice og renovation",4579
+2025M12,(3334.5) Ejendomsadministrator,90
 2025M12,(5151.95) Rengøringsinspektør,50
-2025M12,(5153.1) Vicevært,224
-2025M12,(5153.1.95) Pedel,198
+2025M12,(5153.1) Vicevært,223
+2025M12,(5153.1.95) Pedel,197
 2025M12,(5153.1.96) Pedelmedhjælper,44
 2025M12,(5153.53) Ejendomsfunktionær,119
 2025M12,(5153.54) Teknisk servicemedarbejder,145
@@ -28127,15 +28127,15 @@ periode,kategori,vaerdi
 2025M12,(7133.3) Skorstensfejer,7
 2025M12,(8157.1) Vaskeriassistent,19
 2025M12,(9111.9) Rengøringsassistent i kontor,32
-2025M12,(9112.2) Rengøringsassistent,2812
+2025M12,(9112.2) Rengøringsassistent,2801
 2025M12,"(9112.51) Rengøringsassistent, hotel",25
 2025M12,"(9112.52) Rengøringsassistent, privat",18
 2025M12,"(9112.53) Rengøringsassistent, industri",251
 2025M12,"(9112.54) Rengøringsassistent, hospital",42
 2025M12,(9112.9) Rengøringsassistent i transportmidler,5
-2025M12,(9123.1) Vinduespudser,114
+2025M12,(9123.1) Vinduespudser,111
 2025M12,(9611.1) Renovationsarbejder,142
-2025M12,"(9622.1) Servicetekniker, rengøring og ejendomsservice",242
+2025M12,"(9622.1) Servicetekniker, rengøring og ejendomsservice",241
 2025M12,(9623.1) Måleraflæser,5
 2025M12,(9629.5) Renseriassistent,6
 2025M12,"Design, formgivning og grafisk arbejde",464
@@ -28156,11 +28156,11 @@ periode,kategori,vaerdi
 2025M12,(7322.5) Trykkeriarbejder,10
 2025M12,(7522.51) Møbelarkitekt,5
 2025M12,"(8132.2.99) Servicemedarbejder, foto",11
-2025M12,"Vagt, sikkerhed og overvågning",2384
+2025M12,"Vagt, sikkerhed og overvågning",2379
 2025M12,(0110.2) Officer,371
 2025M12,(0210.2) Sergent,614
 2025M12,(0310.3) Konstabel,463
-2025M12,(1439.3.99) Bilsynsassistent,41
+2025M12,(1439.3.99) Bilsynsassistent,36
 2025M12,(2263.1.97) Vagtcentralassistent,12
 2025M12,(2263.1.98) Vagtcentralmedarbejder,22
 2025M12,(3112.1.6) Brandinspektør,36
@@ -28182,7 +28182,7 @@ periode,kategori,vaerdi
 2025M12,(5419.6) Livredder,186
 2025M12,(7541.3) Erhvervsdykker,5
 2025M12,(9629.4) Garderobeassistent,12
-2025M12,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1245
+2025M12,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1233
 2025M12,(1312.1) Fiskeriteknolog,5
 2025M12,(2132.5) Skovbrugsrådgiver,5
 2025M12,(3111.14) Jordbrugsteknolog,32
@@ -28199,8 +28199,8 @@ periode,kategori,vaerdi
 2025M12,(5164.3) Medarbejder på et dyreinternat,6
 2025M12,"(6111.1) Driftsleder, landbrug",11
 2025M12,(6113.11) Greenkeeper,10
-2025M12,(6113.4) Gartneriarbejder,65
-2025M12,(6113.6) Anlægsgartner,275
+2025M12,(6113.4) Gartneriarbejder,63
+2025M12,(6113.6) Anlægsgartner,273
 2025M12,(6113.6.991) Anlægsgartnerarbejder,37
 2025M12,(6121.2) Staldmester,6
 2025M12,(6121.99) Fodermester,10
@@ -28216,7 +28216,7 @@ periode,kategori,vaerdi
 2025M12,(9214.1.991) Væksthusgartner,9
 2025M12,(9215.1) Skovarbejder,18
 2025M12,(9216.2) Dambrugsarbejder,7
-2025M12,"(9312.97) Specialarbejder, grønne områder",163
+2025M12,"(9312.97) Specialarbejder, grønne områder",155
 2025M12,Tekstil og beklædning,146
 2025M12,(2163.1.3.1) Beklædningsdesigner,5
 2025M12,(2163.1.6) Modelkonstruktør,7
@@ -28233,7 +28233,7 @@ periode,kategori,vaerdi
 2025M12,(8155.1.3) Garver,5
 2025M12,"(9329.97) Specialarbejder, læder",5
 2025M12,"(9329.99.1) Specialarbejder, tekstil",5
-2025M12,Nærings- og nydelsesmiddel,880
+2025M12,Nærings- og nydelsesmiddel,873
 2025M12,(1420.4.5) Bagermester,11
 2025M12,(2145.1.2) Brygmester,5
 2025M12,(2145.1.4) Fødevareteknolog,6
@@ -28244,10 +28244,10 @@ periode,kategori,vaerdi
 2025M12,(3257.3) Levnedsmiddelinspektør,5
 2025M12,(7511.1) Slagtermester,32
 2025M12,(7511.3) Fiskeindustriarbejder,61
-2025M12,(7511.4) Slagteriarbejder,254
+2025M12,(7511.4) Slagteriarbejder,249
 2025M12,(7511.6) Industrislagter,27
 2025M12,(7511.99) Butiks- og detailslagter,9
-2025M12,(7512.1) Bager,174
+2025M12,(7512.1) Bager,172
 2025M12,(7512.3) Konditor,66
 2025M12,(7512.99) Bageriarbejder,27
 2025M12,(7513.1) Mejerist,20
@@ -28266,7 +28266,7 @@ periode,kategori,vaerdi
 2025M12,(7522.2) Møbelsnedker,43
 2025M12,(7523.3) Maskinsnedker,56
 2025M12,"(8181.7) Operatør, glas",6
-2025M12,Akademisk arbejde,18550
+2025M12,Akademisk arbejde,18548
 2025M12,(1213.2) Chefstrateg,8
 2025M12,(1219.2) CSR-ansvarlig,5
 2025M12,(1324.3.4) Supply chain manager,48
@@ -28484,7 +28484,7 @@ periode,kategori,vaerdi
 2025M12,(2633.3) Politolog,5
 2025M12,(2634.2) Psykolog,1055
 2025M12,(2634.2.1) Klinisk psykolog,94
-2025M12,(2635.3.12) HR-konsulent,382
+2025M12,(2635.3.12) HR-konsulent,380
 2025M12,(2636.2) Præst,200
 2025M12,(2643.4) Lingvist,5
 2025M12,(3111.2) Miljøtekniker,39
@@ -28498,7 +28498,7 @@ periode,kategori,vaerdi
 2025M12,(3411.1) Sagsadministrator,22
 2025M12,(3411.1.99) Byggesagsbehandler,82
 2025M12,"(4224.99) Koordinator, hotel",5
-2025M12,Ledelse,11755
+2025M12,Ledelse,11751
 2025M12,(1111.6) Departementschef,6
 2025M12,(1112.3) Diplomat,8
 2025M12,(1112.6) Leder af offentlig forvaltning,114
@@ -28511,7 +28511,7 @@ periode,kategori,vaerdi
 2025M12,(1120.4.991) Teknisk chef,53
 2025M12,"(1120.99.1) Daglig leder, sundhed",95
 2025M12,(1211.1) Økonomichef,166
-2025M12,(1211.1.1) Regnskabschef,60
+2025M12,(1211.1.1) Regnskabschef,59
 2025M12,(1211.1.4) Finanschef,35
 2025M12,(1212.1) Personalechef,29
 2025M12,(1212.1.1) Ligestillings- og inklusionschef,5
@@ -28589,9 +28589,9 @@ periode,kategori,vaerdi
 2025M12,(1349.8) Brandchef,8
 2025M12,(1411.1) Hotelchef,5
 2025M12,"(1411.9) Receptionschef, hotel",7
-2025M12,(1412.2) Restaurantchef,134
-2025M12,"(1412.95) Souschef, køkken",67
-2025M12,(1420.4) Butikschef,719
+2025M12,(1412.2) Restaurantchef,133
+2025M12,"(1412.95) Souschef, køkken",66
+2025M12,(1420.4) Butikschef,718
 2025M12,(1420.6) Regionschef,16
 2025M12,(1431.1.1) Centerleder,92
 2025M12,(1431.1.2) Produktionsleder inden for film og teater,5
@@ -28619,19 +28619,19 @@ periode,kategori,vaerdi
 2025M12,(5311.1.3.991) Dagplejeleder,8
 2025M12,(6113.2) Chef for gartneriproduktion,5
 2025M12,(6210.1) Skovfoged,7
-2026M03,Stillingsbetegnelse i alt,147310
-2026M03,"Sundhed, omsorg og personlig pleje",30492
-2026M03,(2221.2) Sygeplejerske,7389
+2026M03,Stillingsbetegnelse i alt,146238
+2026M03,"Sundhed, omsorg og personlig pleje",30181
+2026M03,(2221.2) Sygeplejerske,7320
 2026M03,(2221.3) Specialsygeplejerske,274
 2026M03,(2221.5) Sygeplejerske med akademisk overbygning,52
-2026M03,(2222.1) Jordemoder,173
+2026M03,(2222.1) Jordemoder,170
 2026M03,(2230.1) Alternativ behandler,5
 2026M03,(2230.1.99) Zoneterapeut,5
 2026M03,(2263.3) Arbejdsmiljøkonsulent,106
-2026M03,(2264.3) Fysioterapeut,1028
+2026M03,(2264.3) Fysioterapeut,1027
 2026M03,(2264.51) Bevægelsespædagog,7
 2026M03,(2265.1) Ernærings- og sundhedskonsulent,92
-2026M03,(2265.51) Ernæringsassistent,740
+2026M03,(2265.51) Ernæringsassistent,738
 2026M03,(2266.1) Audiolog,33
 2026M03,(2269.2) Kiropraktor,18
 2026M03,(2269.4) Ergoterapeut,919
@@ -28648,49 +28648,49 @@ periode,kategori,vaerdi
 2026M03,(3213.1) Apotekerassistent,5
 2026M03,(3213.2) Apotekstekniker,5
 2026M03,(3214.2) Klinisk tandtekniker,14
-2026M03,(3251.1) Tandklinikassistent,334
+2026M03,(3251.1) Tandklinikassistent,333
 2026M03,(3251.2) Tandplejer,146
 2026M03,(3254.1) Optiker,30
 2026M03,(3255.3) Massageterapeut,6
 2026M03,(3255.95) Psykomotorisk terapeut,28
 2026M03,(3259.95) Neurofysiologiassistent,18
 2026M03,(3344.2) Lægesekretær,709
-2026M03,(3344.4) Administrativ lægesekretær,64
+2026M03,(3344.4) Administrativ lægesekretær,63
 2026M03,(3412.4.95) Plejehjemsmedhjælper,190
-2026M03,(5141.1) Frisør,58
+2026M03,(5141.1) Frisør,54
 2026M03,(5142.1) Kosmetolog,20
-2026M03,(5142.6) Negletekniker,25
-2026M03,(5142.7) Massør,215
+2026M03,(5142.6) Negletekniker,23
+2026M03,(5142.7) Massør,198
 2026M03,(5142.9) Stylist,6
-2026M03,(5162.1) Ledsager,169
+2026M03,(5162.1) Ledsager,167
 2026M03,(5223.7.24) Farmakonom,120
-2026M03,(5321.1) Social- og sundhedsassistent,9301
-2026M03,(5322.1) Social- og sundhedshjælper,4940
-2026M03,(5329.1) Hospitals-serviceassistent,286
+2026M03,(5321.1) Social- og sundhedsassistent,9182
+2026M03,(5322.1) Social- og sundhedshjælper,4906
+2026M03,(5329.1) Hospitals-serviceassistent,284
 2026M03,(5329.9) Poder,4
 2026M03,(5329.97) Portør,66
 2026M03,(5329.98) Hospitalsmedhjælper,54
-2026M03,(5329.99) Handicaphjælper,1777
+2026M03,(5329.99) Handicaphjælper,1723
 2026M03,(7531.6) Parykmager,5
-2026M03,Undervisning og vejledning,7233
+2026M03,Undervisning og vejledning,7226
 2026M03,(1212.1.1.991) Ligestillingskonsulent,5
 2026M03,(2133.4) Naturvejleder,19
 2026M03,(2266.2) Logopæd,126
 2026M03,(2320.1.52) Ungdomsskolelærer,45
-2026M03,(2320.1.92) Aftenskolelærer,107
-2026M03,(2320.1.93) Faglærer,418
+2026M03,(2320.1.92) Aftenskolelærer,106
+2026M03,(2320.1.93) Faglærer,414
 2026M03,(2320.1.99) FVU-lærer,17
 2026M03,(2320.1.991) Ordblindelærer,19
 2026M03,(2320.1.992) Produktionsskolelærer,14
 2026M03,(2320.1.993) Musikpædadog,24
 2026M03,(2330.99) Højskolelærer,10
 2026M03,(2341.1) Folkeskolelærer,4431
-2026M03,(2341.1.1) Friskolelærer,142
+2026M03,(2341.1.1) Friskolelærer,141
 2026M03,(2341.1.991) Efterskolelærer,57
 2026M03,"(2341.96) Undervisningsassistent, folkeskole",20
 2026M03,(2341.97) Lærervikar,58
 2026M03,(2351.3.99) Skolekonsulent,41
-2026M03,(2352.1) Speciallærer,114
+2026M03,(2352.1) Speciallærer,113
 2026M03,(2352.1.99) Tale-hørelærer,27
 2026M03,(2353.1) Sproglærer,121
 2026M03,(2356.1) IT-underviser,21
@@ -28705,24 +28705,24 @@ periode,kategori,vaerdi
 2026M03,(3153.2.3) Flyinstruktør,5
 2026M03,(3423.1.2) Friluftsvejleder,5
 2026M03,(5165.1) Kørelærer,12
-2026M03,"Pædagogisk, socialt og kirkeligt arbejde",26306
-2026M03,(2342.1) Pædagog,11679
-2026M03,(2342.1.95) Pædagogmedhjælper,4572
+2026M03,"Pædagogisk, socialt og kirkeligt arbejde",26275
+2026M03,(2342.1) Pædagog,11667
+2026M03,(2342.1.95) Pædagogmedhjælper,4563
 2026M03,(2342.1.96) Pædagogisk assistent,1189
 2026M03,(2342.99) Klubpædagog,126
 2026M03,(2352.1.7) Støttepædagog,146
-2026M03,(2359.93) Pædagogisk konsulent,183
+2026M03,(2359.93) Pædagogisk konsulent,182
 2026M03,(2359.99.1) Klubmedarbejder,145
-2026M03,(2635.1) Socialrådgiver,2018
+2026M03,(2635.1) Socialrådgiver,2016
 2026M03,(2635.1.2) Misbrugsbehandler,48
-2026M03,(2635.2) Socialpædagog,3046
-2026M03,(2635.3) Socialarbejder,313
+2026M03,(2635.2) Socialpædagog,3044
+2026M03,(2635.3) Socialarbejder,311
 2026M03,(2635.3.13) Familievejleder,86
 2026M03,(2635.3.28) Social vicevært,17
 2026M03,(2635.3.29) Mentor,31
 2026M03,(2635.3.8) SSP-medarbejder,36
 2026M03,(2635.95) Socialformidler,133
-2026M03,(2635.99) Sagsbehandler,1076
+2026M03,(2635.99) Sagsbehandler,1075
 2026M03,(3412.4.5) Familiekonsulent,121
 2026M03,(3412.4.66) Familieplejer,22
 2026M03,(3413.2.991) Kordegn,52
@@ -28732,152 +28732,152 @@ periode,kategori,vaerdi
 2026M03,(5163.3) Bedemandsassistent,5
 2026M03,(5163.4) Bedemand,9
 2026M03,(5311.1.3) Børnepasser,67
-2026M03,(5311.1.99) Dagplejer,367
-2026M03,(5312.1) Skolepædagog,421
+2026M03,(5311.1.99) Dagplejer,366
+2026M03,(5312.1) Skolepædagog,420
 2026M03,(5329.991) Forsorgsmedarbejder,37
-2026M03,Bygge og anlæg,5738
+2026M03,Bygge og anlæg,5607
 2026M03,(1323.1) Byggeleder,214
 2026M03,(2142.1.2) Byggetekniker,53
 2026M03,(2144.1.8) VVS-tekniker,53
 2026M03,(3112.9) Kort- og landmålingstekniker,22
 2026M03,(3115.5) Oliefyrstekniker,5
 2026M03,(3123.99) Bygningskonstruktør,253
-2026M03,(7112.1) Murer,406
+2026M03,(7112.1) Murer,404
 2026M03,(7112.99) Brolæggerarbejde,15
 2026M03,(7112.99.1) Brolægger,42
 2026M03,(7113.1) Stenhugger,7
-2026M03,(7114.8) Anlægsstruktør,57
+2026M03,(7114.8) Anlægsstruktør,51
 2026M03,(7114.9) Bygningsstruktør,23
-2026M03,(7115.1) Tømrer,939
+2026M03,(7115.1) Tømrer,933
 2026M03,(7115.3) Køkkenmontør,32
-2026M03,(7115.9) Bygningssnedker,20
+2026M03,(7115.9) Bygningssnedker,17
 2026M03,"(7115.99) Specialarbejder, tømrer",34
 2026M03,(7119.1) Stilladsmontør,5
-2026M03,(7119.2) Nedriver,97
+2026M03,(7119.2) Nedriver,81
 2026M03,(7119.99) Byggemontagetekniker,26
 2026M03,(7121.1) Tagdækker,27
 2026M03,(7121.2) Fugemontør,5
-2026M03,(7122.3) Gulvlægger,69
+2026M03,(7122.3) Gulvlægger,68
 2026M03,(7122.4) Flisemontør,5
 2026M03,(7123.2) Stukkatør,5
 2026M03,(7124.1) Isolatør,29
 2026M03,(7126.11) Kloakrørlægger,43
-2026M03,(7126.11.95) Rørlægger,75
-2026M03,(7126.19) Ventilationstekniker,60
+2026M03,(7126.11.95) Rørlægger,73
+2026M03,(7126.19) Ventilationstekniker,49
 2026M03,(7126.2) Kloakmester,17
 2026M03,(7126.3) Gastekniker,12
-2026M03,(7126.51) VVS-montør,291
+2026M03,(7126.51) VVS-montør,283
 2026M03,(7126.52) Blikkenslager,17
-2026M03,(7126.8) VVS-installatør,48
+2026M03,(7126.8) VVS-installatør,47
 2026M03,"(7126.99) Specialarbejder, VVS",25
-2026M03,(7127.1) HVAC-tekniker,32
-2026M03,(7131.1) Bygningsmaler,255
+2026M03,(7127.1) HVAC-tekniker,20
+2026M03,(7131.1) Bygningsmaler,254
 2026M03,(7213.2.95) Rustfast industrimontør,5
 2026M03,(7214.51) Bådebygger,5
 2026M03,(7315.2) Glarmester,5
-2026M03,(7411.1) Elektriker,1032
-2026M03,(7411.1.1) Elinstallatør,63
-2026M03,(7411.1.1.1) Serviceelektriker,43
-2026M03,(7411.1.5) Fibertekniker,96
+2026M03,(7411.1) Elektriker,1007
+2026M03,(7411.1.1) Elinstallatør,62
+2026M03,(7411.1.1.1) Serviceelektriker,41
+2026M03,(7411.1.5) Fibertekniker,95
 2026M03,(8113.10) Diamantskærer,29
 2026M03,(8113.2) Bore- og udvindingsarbejder,11
 2026M03,"(8172.99) Operatør, træ",14
-2026M03,"(8219.99) Rejsemontør, bygge og anlæg",10
-2026M03,(8341.2) Maskinfører,311
+2026M03,"(8219.99) Rejsemontør, bygge og anlæg",9
+2026M03,(8341.2) Maskinfører,310
 2026M03,"(8342.3) Operatør, bygge og anlæg",9
 2026M03,(9312.1) Struktør,124
 2026M03,(9312.1.4) Asfaltør,57
-2026M03,"(9312.98) Specialarbejder, jord og beton",224
+2026M03,"(9312.98) Specialarbejder, jord og beton",213
 2026M03,"(9312.99) Specialarbejder, kloak",60
 2026M03,(9313.1) Anlægsarbejder,40
-2026M03,"(9313.97) Specialarbejder, byggeri",255
+2026M03,"(9313.97) Specialarbejder, byggeri",235
 2026M03,"(9313.98) Specialarbejder, maler",19
 2026M03,"(9313.99) Specialarbejder, murer",8
-2026M03,"Jern, metal og auto",3581
-2026M03,(3113.1) Elektronikfagtekniker,162
+2026M03,"Jern, metal og auto",3483
+2026M03,(3113.1) Elektronikfagtekniker,160
 2026M03,(3115.1.22) Svejseinspektør,5
 2026M03,"(3117.3) Servicetekniker, jern og metal",45
-2026M03,(3119.8) Industritekniker,302
-2026M03,(7132.3) Autolakerer,82
+2026M03,(3119.8) Industritekniker,293
+2026M03,(7132.3) Autolakerer,71
 2026M03,(7211.1) Støberitekniker,10
-2026M03,(7212.3) Svejser,135
-2026M03,(7213.2) Plade- og konstruktionssmed,21
-2026M03,(7213.4) Klejnsmed,262
+2026M03,(7212.3) Svejser,132
+2026M03,(7213.2) Plade- og konstruktionssmed,20
+2026M03,(7213.4) Klejnsmed,255
 2026M03,(7214.2) Skibsbygger,11
-2026M03,(7215.2.1) Skibsmontør,25
-2026M03,(7221.1) Smed,203
+2026M03,(7215.2.1) Skibsmontør,23
+2026M03,(7221.1) Smed,197
 2026M03,(7222.3) Låsesmed,16
-2026M03,(7222.4) Finmekaniker,14
+2026M03,(7222.4) Finmekaniker,13
 2026M03,(7222.5) Værktøjsmager,12
-2026M03,(7223.4) CNC-operatør,89
+2026M03,(7223.4) CNC-operatør,77
 2026M03,(7223.4.6) Fræser,6
 2026M03,(7223.7) Drejer,5
 2026M03,(7224.1) Jern- og metalsliber,12
-2026M03,(7231.10) Automekaniker,331
+2026M03,(7231.10) Automekaniker,307
 2026M03,(7231.19) Motorcykelmekaniker,5
 2026M03,(7231.2) Karosserismed,30
-2026M03,(7231.52) Lastvognsmekaniker,75
-2026M03,(7231.7) Dækmontør,79
-2026M03,(7231.8) Mekaniker,514
+2026M03,(7231.52) Lastvognsmekaniker,74
+2026M03,(7231.7) Dækmontør,78
+2026M03,(7231.8) Mekaniker,506
 2026M03,(7231.99) Automontør,21
 2026M03,(7232.5) Flymekaniker,31
 2026M03,(7233.1) Entreprenørmaskinemekaniker,39
 2026M03,(7233.15) Driftsassistent,42
 2026M03,(7233.2) Kranmekaniker,7
 2026M03,(7233.8.1) Landbrugsmaskinemekaniker,17
-2026M03,(7234.1) Cykelmekaniker,42
+2026M03,(7234.1) Cykelmekaniker,39
 2026M03,(7234.99) Værkstedsassistent,100
 2026M03,(7311.1) Urmager,5
 2026M03,(7412.12) Vindmølleoperatør,10
 2026M03,(7412.3) Elektrotekniker,15
-2026M03,(7412.99) Automatiktekniker,137
-2026M03,(7421.7) Elektrofagtekniker,7
-2026M03,(7421.9) Servicetekniker,431
+2026M03,(7412.99) Automatiktekniker,135
+2026M03,(7421.7) Elektrofagtekniker,6
+2026M03,(7421.9) Servicetekniker,429
 2026M03,(7543.7.5) Autoteknolog,5
-2026M03,"(8219.98) Rejsemontør, industri",36
+2026M03,"(8219.98) Rejsemontør, industri",35
 2026M03,(8312.5.991) Klargører,69
-2026M03,"(9329.96) Specialarbejder, jern og metal",116
-2026M03,Industriel produktion,2711
+2026M03,"(9329.96) Specialarbejder, jern og metal",115
+2026M03,Industriel produktion,2655
 2026M03,"(2131.4.99) Specialarbejder, medicinal",5
 2026M03,(2144.1.5) Maskinkonstruktør,15
 2026M03,(2149.9) Materialetekniker,5
 2026M03,(2152.1.10) Sensortekniker,5
-2026M03,(3115.1.15) Produktionstekniker,78
+2026M03,(3115.1.15) Produktionstekniker,77
 2026M03,(3119.14) Produktudvikler,17
 2026M03,(3119.2.1) Robottekniker,8
 2026M03,(3122.3) Produktionsteknolog,26
 2026M03,(3122.4.95) Produktspecialist,30
-2026M03,(4321.1.3) Produktionsmedarbejder,1772
+2026M03,(4321.1.3) Produktionsmedarbejder,1726
 2026M03,(7114.1) Betonmager,15
-2026M03,(7132.1) Industrilakerer,40
+2026M03,(7132.1) Industrilakerer,36
 2026M03,(7233.7) Industrimekaniker,16
 2026M03,(8113.6) Offshorearbejder,9
 2026M03,"(8122.99) Operatør, jern og metal",130
 2026M03,"(8131.99) Operatør, kemisk",17
 2026M03,(8142.19) Plastmager,21
-2026M03,"(8142.99) Operatør, plastmager",8
+2026M03,"(8142.99) Operatør, plastmager",7
 2026M03,"(8159.99) Operatør, tekstil",5
-2026M03,(8183.3) Procesoperatør,133
+2026M03,(8183.3) Procesoperatør,132
 2026M03,(8189.7) Forsyningsoperatør,26
 2026M03,"(8189.90) Operatør, serviceindustri",14
-2026M03,(8189.91) Maskinoperatør,78
+2026M03,(8189.91) Maskinoperatør,77
 2026M03,"(8189.95) Operatør, emballage",5
 2026M03,"(8189.97) Operatør, logistik",8
 2026M03,"(8189.98) Operatør, pharma",10
-2026M03,"(8189.99) Industrioperatør, uddannet",40
+2026M03,"(8189.99) Industrioperatør, uddannet",39
 2026M03,"(8189.99.2) Industrioperatør, ikke uddannet",57
-2026M03,(8212.2) Elektronikarbejder,84
+2026M03,(8212.2) Elektronikarbejder,83
 2026M03,(8212.2.3) Ledningsmontør,8
 2026M03,"(9329.95) Specialarbejder, glasfiber",15
 2026M03,"(9329.98) Specialarbejder, papir og karton",5
 2026M03,"(9329.99) Specialarbejder, sprøjtestøbning og ekstrudering",6
-2026M03,"Kontor, administration, regnskab og finans",5442
-2026M03,(1312.4) Forretningsudvikler,99
+2026M03,"Kontor, administration, regnskab og finans",5425
+2026M03,(1312.4) Forretningsudvikler,98
 2026M03,"(1439.98) Receptionschef, kontor",5
 2026M03,(2351.1) Studiesekretær,55
 2026M03,(2412.2) Finansrådgiver,38
-2026M03,(2413.2) Økonomiassistent,389
-2026M03,(2643.2) Tolk,91
+2026M03,(2413.2) Økonomiassistent,388
+2026M03,(2643.2) Tolk,87
 2026M03,(2643.5) Tegnsprogstolk,5
 2026M03,(2643.6) Oversætter,12
 2026M03,(3311.2.5) Børsmægler,5
@@ -28885,7 +28885,7 @@ periode,kategori,vaerdi
 2026M03,(3312.6) Realkreditmedarbejder,5
 2026M03,(3312.99) Finansmedarbejder,33
 2026M03,(3313.1) Bogholderi- og regnskabsassistent,552
-2026M03,(3313.2) Bogholder,461
+2026M03,(3313.2) Bogholder,458
 2026M03,(3315.3) Assurandør,46
 2026M03,(3315.5) Taksator,10
 2026M03,(3315.8) Valuar,5
@@ -28893,18 +28893,18 @@ periode,kategori,vaerdi
 2026M03,(3332.1) Eventassistent,21
 2026M03,(3341.8) Kontorfuldmægtig,262
 2026M03,(3341.8.95) Overassistent,79
-2026M03,(3342.2) Advokatsekretær,35
+2026M03,(3342.2) Advokatsekretær,34
 2026M03,(3343.3) Direktionssekretær,93
 2026M03,(3351.1) Tolder,27
-2026M03,(4110.1) Kontormedhjælper,1418
+2026M03,(4110.1) Kontormedhjælper,1416
 2026M03,(4110.1.99) Kursuskoordinator,24
-2026M03,(4120.1) Sekretær,508
-2026M03,(4120.99) Skolesekretær,187
+2026M03,(4120.1) Sekretær,507
+2026M03,(4120.99) Skolesekretær,186
 2026M03,(4131.1) Tasteoperatør,7
 2026M03,(4211.1) Bankassistent,6
-2026M03,(4214.1) Inkassomedarbejder,7
+2026M03,(4214.1) Inkassomedarbejder,6
 2026M03,(4223.1) Telefonist,18
-2026M03,(4226.1) Natportier,23
+2026M03,(4226.1) Natportier,22
 2026M03,"(4226.2) Receptionist, kontor",145
 2026M03,(4312.1) Revisorassistent,44
 2026M03,(4312.4) Forsikringsfunktionær,42
@@ -28920,48 +28920,48 @@ periode,kategori,vaerdi
 2026M03,(4419.2) Korrespondent,5
 2026M03,"(4419.95) Piccolo / piccoline, kontor",120
 2026M03,(5153.9) Ministerialbetjent,8
-2026M03,(9333.2) Speditør,149
-2026M03,"Salg, indkøb og markedsføring",9244
+2026M03,(9333.2) Speditør,148
+2026M03,"Salg, indkøb og markedsføring",9159
 2026M03,(1221.3.2.1.4) E-commerce manager,18
-2026M03,(1420.3) Salgs- og kundeansvarlig,341
+2026M03,(1420.3) Salgs- og kundeansvarlig,337
 2026M03,"(2412.4.1) Relationship manager, finans",5
 2026M03,(2431.1) Tekstforfatter,16
-2026M03,(2431.10) Marketingmedarbejder,666
+2026M03,(2431.10) Marketingmedarbejder,665
 2026M03,(2431.5) Virksomhedsudvikler,26
 2026M03,(2431.9) Serviceøkonom,5
 2026M03,(2432.6) Kampagnemedarbejder,6
 2026M03,(2619.1) Contract manager,89
-2026M03,(3322.2) Salgskonsulent,587
-2026M03,(3322.99) Account manager,318
+2026M03,(3322.2) Salgskonsulent,585
+2026M03,(3322.99) Account manager,312
 2026M03,(3323.2) Indkøber,414
 2026M03,(3324.1) Varemægler,5
 2026M03,(3324.1.1) Skibsmægler,5
 2026M03,(3324.4) Grossist,24
-2026M03,(3334.3) Ejendomsmægler,202
+2026M03,(3334.3) Ejendomsmægler,200
 2026M03,(3339.1) Reklamekonsulent,5
 2026M03,(3339.2) Auktionsleder,5
 2026M03,(3343.1.5) Indkøbsassistent,54
 2026M03,(3432.2) Merchandiser,54
 2026M03,(3432.6) Visual merchandiser,15
-2026M03,(4225.1) Kundeservicemedarbejder,1077
+2026M03,(4225.1) Kundeservicemedarbejder,1058
 2026M03,(4227.1) Interviewer,284
 2026M03,(4311.2) Assistent til salgssupport,377
-2026M03,(5223.4) Salgsassistent,1036
+2026M03,(5223.4) Salgsassistent,1026
 2026M03,(5223.5) Ordrebehandler,27
-2026M03,(5223.6) Butiksassistent,2258
+2026M03,(5223.6) Butiksassistent,2236
 2026M03,(5223.7.16) Fiskehandler,5
 2026M03,(5223.7.17) Farvehandler,5
 2026M03,(5223.7.18) Blomsterbinder,23
 2026M03,(5223.7.6) Boghandler,5
-2026M03,(5223.7.8) Ekspedient,136
-2026M03,(5223.7.99) Blomsterdekoratør,24
+2026M03,(5223.7.8) Ekspedient,135
+2026M03,(5223.7.99) Blomsterdekoratør,23
 2026M03,(5230.1) Kasseassistent,129
-2026M03,(5244.1) Call centermedarbejder,294
+2026M03,(5244.1) Call centermedarbejder,281
 2026M03,"(5249.95) Logistikmedarbejder, salg og indkøb",97
 2026M03,(7515.9) Vinkyper,5
-2026M03,(9334.1) Butiksmedhjælper,405
+2026M03,(9334.1) Butiksmedhjælper,401
 2026M03,(9411.2) Fast food ekspedient,197
-2026M03,"Medie, kultur, turisme, idræt og underholdning",1862
+2026M03,"Medie, kultur, turisme, idræt og underholdning",1860
 2026M03,(1439.99) Turistchef,5
 2026M03,(2163.1.2) Kostumedesigner,5
 2026M03,"(2166.3) Film-, TV- og animationsarbejder",10
@@ -29036,12 +29036,12 @@ periode,kategori,vaerdi
 2026M03,(7312.6) Instrumentbygger,5
 2026M03,(7312.6.1) Guitarbygger,5
 2026M03,(7531.1) Kostumier,5
-2026M03,(8132.2) Fotografmedhjælper,8
+2026M03,(8132.2) Fotografmedhjælper,6
 2026M03,(9129.3) Bademester,6
 2026M03,(9129.3.99) Badeassistent,13
 2026M03,(9212.3) Rideskoleassistent,5
 2026M03,(9629.2) Forlystelsesmedarbejder,28
-2026M03,It og teleteknik,3980
+2026M03,It og teleteknik,3974
 2026M03,(1223.3) IT-Product manager,32
 2026M03,(1330.1) Chief data officer,7
 2026M03,(1330.6.10) IT-Product owner,52
@@ -29051,9 +29051,9 @@ periode,kategori,vaerdi
 2026M03,(2511.17) IT-revisor,7
 2026M03,(2511.19) Digitaliseringskonsulent,63
 2026M03,(2511.3) Datalog,7
-2026M03,(2511.9) IT-konsulent,784
-2026M03,(2512.3) Programmør og systemudvikler,688
-2026M03,"(2512.3.99) Softwareudvikler, backend",171
+2026M03,(2511.9) IT-konsulent,781
+2026M03,(2512.3) Programmør og systemudvikler,687
+2026M03,"(2512.3.99) Softwareudvikler, backend",170
 2026M03,(2512.51) Computerspiludvikler,5
 2026M03,"(2512.99) Softwareudvikler, frontend",42
 2026M03,(2513.3) UX designer,37
@@ -29067,15 +29067,15 @@ periode,kategori,vaerdi
 2026M03,(3511.99) Datatekniker,35
 2026M03,(3512.1) IT-supporter,377
 2026M03,(3512.4) IT-tekniker,183
-2026M03,(3514.1) Webmaster,188
+2026M03,(3514.1) Webmaster,187
 2026M03,(7422.6) Teletekniker,14
-2026M03,"Transport, post, lager- og maskinførerarbejde",4763
+2026M03,"Transport, post, lager- og maskinførerarbejde",4696
 2026M03,(1324.3.108) Distributionschef,5
 2026M03,(3151.3) Maskinassistent,6
 2026M03,(3151.4) Skibsmaskinist,5
 2026M03,(3152.3) Lods,13
 2026M03,(3152.4) Skibsfører,30
-2026M03,(3152.9) Styrmand,13
+2026M03,(3152.9) Styrmand,11
 2026M03,(3153.2) Pilot,6
 2026M03,(3153.2.4) Helikopterfører,5
 2026M03,(3153.4) Dronepilot,2
@@ -29083,7 +29083,7 @@ periode,kategori,vaerdi
 2026M03,(3154.3) Flyveklarerer,5
 2026M03,(3155.5) Flytekniker,7
 2026M03,(4221.1) Trafikassistent,7
-2026M03,(4321.1) Lagerforvalter,31
+2026M03,(4321.1) Lagerforvalter,30
 2026M03,(4323.1) Lufthavnsoperatør,6
 2026M03,(4323.16) Overstyrmand,8
 2026M03,(4323.2) Flyklarerer,5
@@ -29093,75 +29093,75 @@ periode,kategori,vaerdi
 2026M03,(5111.2.3) Togsteward / -stewardesse,5
 2026M03,(5112.1) Togfører,56
 2026M03,(5112.2) Trafikinformationsmedarbejder,6
-2026M03,(5223.2) Reservedelsekspedient,59
+2026M03,(5223.2) Reservedelsekspedient,57
 2026M03,(7233.9) Skibsmekaniker,6
 2026M03,(8311.1) Lokomotivfører,21
 2026M03,(8312.5) Togklargører,57
-2026M03,"(8322.2) Chauffør, budtransport, køretøj under 3½ ton",87
-2026M03,"(8322.6) Chauffør, persontransport",130
+2026M03,"(8322.2) Chauffør, budtransport, køretøj under 3½ ton",86
+2026M03,"(8322.6) Chauffør, persontransport",120
 2026M03,(8322.7) Taxichauffør,33
 2026M03,(8331.1) Buschauffør,143
-2026M03,"(8332.4) Chauffør, specialtransport",176
+2026M03,"(8332.4) Chauffør, specialtransport",174
 2026M03,"(8332.6) Chauffør, dyretransport",9
-2026M03,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",614
+2026M03,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",597
 2026M03,"(8332.98) Chauffør, tankvogn",10
 2026M03,(8343.2) Kranfører,84
-2026M03,(8344.1) Truckfører,243
-2026M03,(8350.99) Skibsassistent,19
-2026M03,(9321.2) Pakkerimedarbejder,187
+2026M03,(8344.1) Truckfører,242
+2026M03,(8350.99) Skibsassistent,18
+2026M03,(9321.2) Pakkerimedarbejder,186
 2026M03,(9331.1) Cykelbud,17
-2026M03,(9333.4) Flyttemand,73
+2026M03,(9333.4) Flyttemand,67
 2026M03,(9333.6) Havnearbejder,7
-2026M03,(9333.8) Lager- og logistikmedarbejder,2284
-2026M03,(9333.8.1) Lagerekspedient,101
+2026M03,(9333.8) Lager- og logistikmedarbejder,2263
+2026M03,(9333.8.1) Lagerekspedient,100
 2026M03,(9333.95) Kørselsleder,45
-2026M03,(9510.1) Omdeler,81
-2026M03,"Hotel, restauration, køkken, kantine",5023
+2026M03,(9510.1) Omdeler,80
+2026M03,"Hotel, restauration, køkken, kantine",4930
 2026M03,(2265.52) Klinisk Diætist,102
-2026M03,(3434.1) Køkkenchef,349
+2026M03,(3434.1) Køkkenchef,348
 2026M03,(4221.2) Vært/Værtinde,154
 2026M03,"(4224.1) Receptionist, hotel",76
 2026M03,(5111.2.2.92) Cater,81
-2026M03,(5120.1) Kok,1439
+2026M03,(5120.1) Kok,1413
 2026M03,(5120.1.4.992) Økonoma,13
 2026M03,(5120.1.95) Smørrebrødsjomfru,14
-2026M03,(5131.1) Vært i restaurant,113
-2026M03,(5131.2) Tjener,433
+2026M03,(5131.1) Vært i restaurant,112
+2026M03,(5131.2) Tjener,410
 2026M03,(5131.2.2) Sommelier,6
-2026M03,(5131.2.95) Serveringsmedarbejder,99
-2026M03,(5131.2.99) Cafemedarbejder,198
-2026M03,(5132.1) Bartender,157
+2026M03,(5131.2.95) Serveringsmedarbejder,86
+2026M03,(5131.2.99) Cafemedarbejder,193
+2026M03,(5132.1) Bartender,149
 2026M03,(5132.1.1) Barista,39
-2026M03,(5151.2) Oldfrue,45
-2026M03,(5223.7.13) Delikatesseassistent,142
-2026M03,(9112.99) Hotelmedarbejder,34
-2026M03,(9411.1) Pizzabager,48
-2026M03,(9412.1) Køkkenmedhjælper,1235
-2026M03,(9412.2) Opvasker,246
-2026M03,"Rengøring, ejendomsservice og renovation",4594
-2026M03,(3334.5) Ejendomsadministrator,72
-2026M03,(5151.95) Rengøringsinspektør,61
-2026M03,(5153.1) Vicevært,197
-2026M03,(5153.1.95) Pedel,191
+2026M03,(5151.2) Oldfrue,44
+2026M03,(5223.7.13) Delikatesseassistent,141
+2026M03,(9112.99) Hotelmedarbejder,33
+2026M03,(9411.1) Pizzabager,44
+2026M03,(9412.1) Køkkenmedhjælper,1231
+2026M03,(9412.2) Opvasker,241
+2026M03,"Rengøring, ejendomsservice og renovation",4538
+2026M03,(3334.5) Ejendomsadministrator,71
+2026M03,(5151.95) Rengøringsinspektør,60
+2026M03,(5153.1) Vicevært,196
+2026M03,(5153.1.95) Pedel,190
 2026M03,(5153.1.96) Pedelmedhjælper,50
-2026M03,(5153.53) Ejendomsfunktionær,127
-2026M03,(5153.54) Teknisk servicemedarbejder,310
+2026M03,(5153.53) Ejendomsfunktionær,126
+2026M03,(5153.54) Teknisk servicemedarbejder,307
 2026M03,(5153.99) Halinspektør,5
 2026M03,(7133.3) Skorstensfejer,5
-2026M03,(8157.1) Vaskeriassistent,22
+2026M03,(8157.1) Vaskeriassistent,21
 2026M03,(9111.9) Rengøringsassistent i kontor,81
-2026M03,(9112.2) Rengøringsassistent,2555
+2026M03,(9112.2) Rengøringsassistent,2522
 2026M03,"(9112.51) Rengøringsassistent, hotel",33
-2026M03,"(9112.52) Rengøringsassistent, privat",27
-2026M03,"(9112.53) Rengøringsassistent, industri",292
+2026M03,"(9112.52) Rengøringsassistent, privat",26
+2026M03,"(9112.53) Rengøringsassistent, industri",290
 2026M03,"(9112.54) Rengøringsassistent, hospital",120
 2026M03,(9112.9) Rengøringsassistent i transportmidler,6
-2026M03,(9123.1) Vinduespudser,94
+2026M03,(9123.1) Vinduespudser,89
 2026M03,(9611.1) Renovationsarbejder,89
-2026M03,"(9622.1) Servicetekniker, rengøring og ejendomsservice",245
+2026M03,"(9622.1) Servicetekniker, rengøring og ejendomsservice",239
 2026M03,(9623.1) Måleraflæser,7
 2026M03,(9629.5) Renseriassistent,5
-2026M03,"Design, formgivning og grafisk arbejde",514
+2026M03,"Design, formgivning og grafisk arbejde",512
 2026M03,(2163.1.3) Designer,146
 2026M03,(2163.1.3.95) Designassistent,18
 2026M03,(2166.10) Mediegrafiker,39
@@ -29171,19 +29171,19 @@ periode,kategori,vaerdi
 2026M03,(2651.6) Tegner,24
 2026M03,(2651.9) Gravør,5
 2026M03,(2659.95) Kunsthåndværker,5
-2026M03,(3118.3.2) Teknisk designer,105
+2026M03,(3118.3.2) Teknisk designer,104
 2026M03,(3432.1.1) Indretningsarkitekt,10
 2026M03,(7313.1.2) Guld- og sølvsmed,6
 2026M03,(7316.4) Skiltemaler,17
-2026M03,(7321.1.5) Grafisk tekniker,17
+2026M03,(7321.1.5) Grafisk tekniker,16
 2026M03,(7322.5) Trykkeriarbejder,11
 2026M03,(7522.51) Møbelarkitekt,5
 2026M03,"(8132.2.99) Servicemedarbejder, foto",12
-2026M03,"Vagt, sikkerhed og overvågning",2799
+2026M03,"Vagt, sikkerhed og overvågning",2793
 2026M03,(0110.2) Officer,630
 2026M03,(0210.2) Sergent,604
 2026M03,(0310.3) Konstabel,399
-2026M03,(1439.3.99) Bilsynsassistent,37
+2026M03,(1439.3.99) Bilsynsassistent,33
 2026M03,(2263.1.97) Vagtcentralassistent,8
 2026M03,(2263.1.98) Vagtcentralmedarbejder,25
 2026M03,(3112.1.6) Brandinspektør,26
@@ -29199,13 +29199,13 @@ periode,kategori,vaerdi
 2026M03,(5413.2) Fængselsfunktionær,12
 2026M03,"(5414.1) Sikkerhedsmedarbejder, vagt, sikkerhed og overvågning",311
 2026M03,(5414.1.5) Dørmand,27
-2026M03,(5414.1.6) Vagt,252
+2026M03,(5414.1.6) Vagt,251
 2026M03,(5419.2) Parkeringsvagt,58
 2026M03,(5419.5) Nødhjælpsarbejder,5
-2026M03,(5419.6) Livredder,171
+2026M03,(5419.6) Livredder,170
 2026M03,(7541.3) Erhvervsdykker,5
 2026M03,(9629.4) Garderobeassistent,20
-2026M03,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1085
+2026M03,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1073
 2026M03,(1312.1) Fiskeriteknolog,5
 2026M03,(2132.5) Skovbrugsrådgiver,5
 2026M03,(3111.14) Jordbrugsteknolog,26
@@ -29220,10 +29220,10 @@ periode,kategori,vaerdi
 2026M03,(5164.2.1.1) Hundetræner,7
 2026M03,(5164.2.1.2) Hestetræner,5
 2026M03,(5164.3) Medarbejder på et dyreinternat,6
-2026M03,"(6111.1) Driftsleder, landbrug",12
-2026M03,(6113.11) Greenkeeper,10
-2026M03,(6113.4) Gartneriarbejder,46
-2026M03,(6113.6) Anlægsgartner,179
+2026M03,"(6111.1) Driftsleder, landbrug",11
+2026M03,(6113.11) Greenkeeper,9
+2026M03,(6113.4) Gartneriarbejder,44
+2026M03,(6113.6) Anlægsgartner,177
 2026M03,(6113.6.991) Anlægsgartnerarbejder,54
 2026M03,(6121.2) Staldmester,5
 2026M03,(6121.99) Fodermester,10
@@ -29234,18 +29234,18 @@ periode,kategori,vaerdi
 2026M03,(6222.1) Fisker,27
 2026M03,(6224.1) Skytte,181
 2026M03,(9212.4) Dyrepasser,58
-2026M03,(9213.1) Landbrugsmedhjælper,53
+2026M03,(9213.1) Landbrugsmedhjælper,51
 2026M03,(9214.1) Gartner,115
 2026M03,(9214.1.991) Væksthusgartner,7
 2026M03,(9215.1) Skovarbejder,13
 2026M03,(9216.2) Dambrugsarbejder,7
-2026M03,"(9312.97) Specialarbejder, grønne områder",119
-2026M03,Tekstil og beklædning,154
+2026M03,"(9312.97) Specialarbejder, grønne områder",115
+2026M03,Tekstil og beklædning,153
 2026M03,(2163.1.3.1) Beklædningsdesigner,5
 2026M03,(2163.1.6) Modelkonstruktør,5
 2026M03,(2163.1.8) Tekstildesigner,5
 2026M03,(3323.2.4) Designteknolog,5
-2026M03,(7122.1) Tæppemontør,10
+2026M03,(7122.1) Tæppemontør,9
 2026M03,(7322.10) Tekstiltrykker,5
 2026M03,(7531.5) Skrædder,67
 2026M03,(7534.3) Sadelmager,5
@@ -29256,7 +29256,7 @@ periode,kategori,vaerdi
 2026M03,(8155.1.3) Garver,5
 2026M03,"(9329.97) Specialarbejder, læder",5
 2026M03,"(9329.99.1) Specialarbejder, tekstil",5
-2026M03,Nærings- og nydelsesmiddel,903
+2026M03,Nærings- og nydelsesmiddel,843
 2026M03,(1420.4.5) Bagermester,18
 2026M03,(2145.1.2) Brygmester,5
 2026M03,(2145.1.4) Fødevareteknolog,7
@@ -29267,11 +29267,11 @@ periode,kategori,vaerdi
 2026M03,(3257.3) Levnedsmiddelinspektør,5
 2026M03,(7511.1) Slagtermester,31
 2026M03,(7511.3) Fiskeindustriarbejder,127
-2026M03,(7511.4) Slagteriarbejder,221
-2026M03,(7511.6) Industrislagter,71
+2026M03,(7511.4) Slagteriarbejder,189
+2026M03,(7511.6) Industrislagter,46
 2026M03,(7511.99) Butiks- og detailslagter,19
-2026M03,(7512.1) Bager,151
-2026M03,(7512.3) Konditor,58
+2026M03,(7512.1) Bager,149
+2026M03,(7512.3) Konditor,57
 2026M03,(7512.99) Bageriarbejder,30
 2026M03,(7513.1) Mejerist,26
 2026M03,(7513.2) Mejeriarbejder,6
@@ -29281,15 +29281,15 @@ periode,kategori,vaerdi
 2026M03,(8160.7) Bryggeriarbejder,16
 2026M03,"(8160.99) Operatør, fødevarer",31
 2026M03,"(8189.96) Operatør, drikkevarer",5
-2026M03,"Træ, møbel, glas og keramik",155
+2026M03,"Træ, møbel, glas og keramik",154
 2026M03,(2651.4) Keramiker,9
 2026M03,(7314.2) Pottemager,5
 2026M03,(7315.1) Glasmager,8
 2026M03,(7316.1.3) Porcelænsmaler,5
 2026M03,(7522.2) Møbelsnedker,50
-2026M03,(7523.3) Maskinsnedker,72
+2026M03,(7523.3) Maskinsnedker,71
 2026M03,"(8181.7) Operatør, glas",6
-2026M03,Akademisk arbejde,18500
+2026M03,Akademisk arbejde,18486
 2026M03,(1213.2) Chefstrateg,9
 2026M03,(1219.2) CSR-ansvarlig,5
 2026M03,(1324.3.4) Supply chain manager,43
@@ -29328,7 +29328,7 @@ periode,kategori,vaerdi
 2026M03,(2141.9) Procesingeniør,27
 2026M03,"(2142.1) Civilingeniør, bygge og anlæg",74
 2026M03,(2142.99) Civilingeniør,154
-2026M03,(2143.1) Miljøingeniør,78
+2026M03,(2143.1) Miljøingeniør,77
 2026M03,(2144.1) Maskiningeniør,154
 2026M03,(2144.1.10) Skibsingeniør,6
 2026M03,(2145.1) Kemiingeniør,45
@@ -29360,7 +29360,7 @@ periode,kategori,vaerdi
 2026M03,"(2310.1.13) Adjunkt, naturvidenskab og teknik",55
 2026M03,(2310.1.17) Kunstlærer,8
 2026M03,"(2310.1.19) Lektor, sundhedsvidenskab",46
-2026M03,"(2310.1.19.51) Post doc., sundhedsvidenskab",160
+2026M03,"(2310.1.19.51) Post doc., sundhedsvidenskab",158
 2026M03,"(2310.1.19.988) Ekstern lektor, sundhedsvidenskab",59
 2026M03,"(2310.1.19.989) Assistant professor, sundhedsvidenskab",5
 2026M03,"(2310.1.19.99) Adjunkt, sundhedsvidenskab",28
@@ -29450,13 +29450,13 @@ periode,kategori,vaerdi
 2026M03,"(2310.1.99) Adjunkt, kunstakademi",9
 2026M03,"(2310.51) Post doc., humaniora",34
 2026M03,"(2310.52) Post doc., teologi",6
-2026M03,"(2310.53) Underviser, professionshøjskole",108
+2026M03,"(2310.53) Underviser, professionshøjskole",107
 2026M03,(2320.1) Erhvervsskolelærer,151
 2026M03,(2320.1.7) Handelsskolelærer,35
 2026M03,(2330.1) Gymnasielærer,375
 2026M03,(2411.1.12) Skatterevisor,8
-2026M03,(2411.1.7) Revisor,193
-2026M03,(2411.1.8) Økonomicontroller,446
+2026M03,(2411.1.7) Revisor,190
+2026M03,(2411.1.8) Økonomicontroller,445
 2026M03,(2411.2) Businesscontroller,144
 2026M03,(2412.5) Investeringsrådgiver,8
 2026M03,(2413.1) Finansanalytiker,42
@@ -29492,7 +29492,7 @@ periode,kategori,vaerdi
 2026M03,(2621.4) Konservator,22
 2026M03,(2621.5) Kurator,7
 2026M03,(2621.8) Museumsinspektør,17
-2026M03,(2622.1.991) Dokumentationsmedarbejder,15
+2026M03,(2622.1.991) Dokumentationsmedarbejder,14
 2026M03,(2622.2) Bibliotekar,142
 2026M03,(2622.991) Forskningsbibliotekar,5
 2026M03,(2631.1) Økonom,205
@@ -29505,9 +29505,9 @@ periode,kategori,vaerdi
 2026M03,(2633.1) Historiker,5
 2026M03,(2633.2) Filosof,21
 2026M03,(2633.3) Politolog,9
-2026M03,(2634.2) Psykolog,1052
+2026M03,(2634.2) Psykolog,1050
 2026M03,(2634.2.1) Klinisk psykolog,88
-2026M03,(2635.3.12) HR-konsulent,389
+2026M03,(2635.3.12) HR-konsulent,387
 2026M03,(2636.2) Præst,200
 2026M03,(2643.4) Lingvist,5
 2026M03,(3111.2) Miljøtekniker,48
@@ -29517,11 +29517,11 @@ periode,kategori,vaerdi
 2026M03,(3122.9) Kvalitetsmedarbejder,150
 2026M03,(3212.1) Biomediciner,6
 2026M03,(3214.3) Ortopædiingeniør,5
-2026M03,(3343.1) Administrativ assistent,495
+2026M03,(3343.1) Administrativ assistent,494
 2026M03,(3411.1) Sagsadministrator,21
 2026M03,(3411.1.99) Byggesagsbehandler,83
 2026M03,"(4224.99) Koordinator, hotel",9
-2026M03,Ledelse,12231
+2026M03,Ledelse,12215
 2026M03,(1111.6) Departementschef,6
 2026M03,(1112.3) Diplomat,16
 2026M03,(1112.6) Leder af offentlig forvaltning,101
@@ -29530,7 +29530,7 @@ periode,kategori,vaerdi
 2026M03,(1120.2.1) Regionsdirektør,6
 2026M03,(1120.3) Direktør,318
 2026M03,(1120.3.1) Lufthavnschef,5
-2026M03,(1120.4) Driftsleder,270
+2026M03,(1120.4) Driftsleder,269
 2026M03,(1120.4.991) Teknisk chef,78
 2026M03,"(1120.99.1) Daglig leder, sundhed",89
 2026M03,(1211.1) Økonomichef,152
@@ -29543,12 +29543,12 @@ periode,kategori,vaerdi
 2026M03,(1213.95) Sekretariatschef,47
 2026M03,(1219.1) Administrationschef,49
 2026M03,(1219.1.2) Sikkerhedschef,13
-2026M03,(1219.4) Afdelingsleder,1395
+2026M03,(1219.4) Afdelingsleder,1394
 2026M03,"(1219.4.1) Afdelingsleder, offentlig",571
 2026M03,"(1219.4.2) Afdelingsleder, privat",38
-2026M03,(1219.4.95) Områdechef,194
+2026M03,(1219.4.95) Områdechef,193
 2026M03,(1219.5) Facility manager,82
-2026M03,(1219.6) Projektleder,2081
+2026M03,(1219.6) Projektleder,2080
 2026M03,(1219.6.99) Projektkoordinator,270
 2026M03,(1219.7) Kvalitetschef,41
 2026M03,(1219.99) Kontorchef,207
@@ -29579,9 +29579,9 @@ periode,kategori,vaerdi
 2026M03,(1341.3) Vuggestueleder,51
 2026M03,"(1341.93) Daglig leder, institution for børn og unge",83
 2026M03,"(1341.94) Souschef, institution for børn og unge",29
-2026M03,"(1341.95) Souschef, institution",47
+2026M03,"(1341.95) Souschef, institution",46
 2026M03,"(1341.96) Institutionsleder, ældre",13
-2026M03,"(1341.97) Institutionsleder, børn og unge",65
+2026M03,"(1341.97) Institutionsleder, børn og unge",64
 2026M03,"(1341.98) Souschef, institution for ældre",8
 2026M03,"(1341.99) Daglig leder, institution",161
 2026M03,(1343.1) Plejehjemsleder,103
@@ -29612,16 +29612,16 @@ periode,kategori,vaerdi
 2026M03,(1349.8) Brandchef,6
 2026M03,(1411.1) Hotelchef,6
 2026M03,"(1411.9) Receptionschef, hotel",6
-2026M03,(1412.2) Restaurantchef,146
-2026M03,"(1412.95) Souschef, køkken",73
-2026M03,(1420.4) Butikschef,706
+2026M03,(1412.2) Restaurantchef,143
+2026M03,"(1412.95) Souschef, køkken",72
+2026M03,(1420.4) Butikschef,705
 2026M03,(1420.6) Regionschef,13
 2026M03,(1431.1.1) Centerleder,93
 2026M03,(1431.1.2) Produktionsleder inden for film og teater,5
 2026M03,(1439.1) Campingpladsbestyrer,5
 2026M03,(1439.3) Værkstedsleder,51
 2026M03,(2211.95) Overlæge,658
-2026M03,(2221.4) Ledende sygeplejerske,366
+2026M03,(2221.4) Ledende sygeplejerske,365
 2026M03,(2262.1) Apoteker,15
 2026M03,(2263.94) Vagtcentralleder,8
 2026M03,(2431.11) Markedsanalytiker,8
@@ -29631,10 +29631,10 @@ periode,kategori,vaerdi
 2026M03,(2642.1.13) Redaktør,22
 2026M03,(2642.1.8) Redaktionschef,5
 2026M03,(3122.4) Produktionsleder,100
-2026M03,(3123.1) Værkfører,138
+2026M03,(3123.1) Værkfører,135
 2026M03,"(3123.1.29) Arbejdsleder, produktion",15
 2026M03,"(3123.1.30) Arbejdsleder, bygge og anlæg",11
-2026M03,"(3139.99) Formand, drift og produktion",57
+2026M03,"(3139.99) Formand, drift og produktion",56
 2026M03,(3151.2) Maskinmester,206
 2026M03,(3331.2) Speditionsleder,5
 2026M03,(3332.2.1) Arrangementchef,6
@@ -29642,124 +29642,124 @@ periode,kategori,vaerdi
 2026M03,(5311.1.3.991) Dagplejeleder,12
 2026M03,(6113.2) Chef for gartneriproduktion,5
 2026M03,(6210.1) Skovfoged,6
-2026M06,Stillingsbetegnelse i alt,156556
-2026M06,"Sundhed, omsorg og personlig pleje",33148
-2026M06,(2221.2) Sygeplejerske,7898
-2026M06,(2221.3) Specialsygeplejerske,312
-2026M06,(2221.5) Sygeplejerske med akademisk overbygning,57
-2026M06,(2222.1) Jordemoder,236
+2026M06,Stillingsbetegnelse i alt,156123
+2026M06,"Sundhed, omsorg og personlig pleje",33043
+2026M06,(2221.2) Sygeplejerske,7910
+2026M06,(2221.3) Specialsygeplejerske,313
+2026M06,(2221.5) Sygeplejerske med akademisk overbygning,58
+2026M06,(2222.1) Jordemoder,234
 2026M06,(2230.1) Alternativ behandler,5
 2026M06,(2230.1.99) Zoneterapeut,5
 2026M06,(2263.3) Arbejdsmiljøkonsulent,104
-2026M06,(2264.3) Fysioterapeut,1165
+2026M06,(2264.3) Fysioterapeut,1167
 2026M06,(2264.51) Bevægelsespædagog,9
-2026M06,(2265.1) Ernærings- og sundhedskonsulent,92
+2026M06,(2265.1) Ernærings- og sundhedskonsulent,93
 2026M06,(2265.51) Ernæringsassistent,878
 2026M06,(2266.1) Audiolog,31
 2026M06,(2269.2) Kiropraktor,17
-2026M06,(2269.4) Ergoterapeut,1092
+2026M06,(2269.4) Ergoterapeut,1093
 2026M06,(2269.6) Fodterapeut,20
 2026M06,(2269.8) Radiograf,136
 2026M06,(2269.9.4) Musikterapeut,20
-2026M06,(2269.95) Laborant,239
+2026M06,(2269.95) Laborant,238
 2026M06,(2634.2.4) Psykoterapeut,91
 2026M06,(3114.1.5) Medicotekniker,17
 2026M06,(3141.2) Laboratorietekniker,43
 2026M06,(3211.99) Audiologiassistent,34
 2026M06,(3212.2) Laboratorieassistent,36
-2026M06,(3212.5) Bioanalytiker,461
+2026M06,(3212.5) Bioanalytiker,462
 2026M06,(3213.1) Apotekerassistent,5
 2026M06,(3213.2) Apotekstekniker,5
-2026M06,(3214.2) Klinisk tandtekniker,11
+2026M06,(3214.2) Klinisk tandtekniker,12
 2026M06,(3251.1) Tandklinikassistent,360
 2026M06,(3251.2) Tandplejer,186
 2026M06,(3254.1) Optiker,37
 2026M06,(3255.3) Massageterapeut,5
 2026M06,(3255.95) Psykomotorisk terapeut,40
 2026M06,(3259.95) Neurofysiologiassistent,19
-2026M06,(3344.2) Lægesekretær,749
+2026M06,(3344.2) Lægesekretær,751
 2026M06,(3344.4) Administrativ lægesekretær,70
-2026M06,(3412.4.95) Plejehjemsmedhjælper,182
-2026M06,(5141.1) Frisør,84
+2026M06,(3412.4.95) Plejehjemsmedhjælper,183
+2026M06,(5141.1) Frisør,80
 2026M06,(5142.1) Kosmetolog,19
 2026M06,(5142.6) Negletekniker,31
-2026M06,(5142.7) Massør,119
+2026M06,(5142.7) Massør,106
 2026M06,(5142.9) Stylist,8
-2026M06,(5162.1) Ledsager,194
-2026M06,(5223.7.24) Farmakonom,148
-2026M06,(5321.1) Social- og sundhedsassistent,10075
-2026M06,(5322.1) Social- og sundhedshjælper,5548
-2026M06,(5329.1) Hospitals-serviceassistent,301
+2026M06,(5162.1) Ledsager,192
+2026M06,(5223.7.24) Farmakonom,147
+2026M06,(5321.1) Social- og sundhedsassistent,9977
+2026M06,(5322.1) Social- og sundhedshjælper,5562
+2026M06,(5329.1) Hospitals-serviceassistent,302
 2026M06,(5329.9) Poder,4
-2026M06,(5329.97) Portør,67
+2026M06,(5329.97) Portør,68
 2026M06,(5329.98) Hospitalsmedhjælper,51
-2026M06,(5329.99) Handicaphjælper,1827
+2026M06,(5329.99) Handicaphjælper,1804
 2026M06,(7531.6) Parykmager,5
-2026M06,Undervisning og vejledning,6717
+2026M06,Undervisning og vejledning,6722
 2026M06,(1212.1.1.991) Ligestillingskonsulent,5
 2026M06,(2133.4) Naturvejleder,24
 2026M06,(2266.2) Logopæd,137
 2026M06,(2320.1.52) Ungdomsskolelærer,30
-2026M06,(2320.1.92) Aftenskolelærer,93
-2026M06,(2320.1.93) Faglærer,449
+2026M06,(2320.1.92) Aftenskolelærer,92
+2026M06,(2320.1.93) Faglærer,450
 2026M06,(2320.1.99) FVU-lærer,18
 2026M06,(2320.1.991) Ordblindelærer,12
 2026M06,(2320.1.992) Produktionsskolelærer,16
 2026M06,(2320.1.993) Musikpædadog,20
 2026M06,(2330.99) Højskolelærer,13
-2026M06,(2341.1) Folkeskolelærer,3781
+2026M06,(2341.1) Folkeskolelærer,3786
 2026M06,(2341.1.1) Friskolelærer,117
 2026M06,(2341.1.991) Efterskolelærer,43
 2026M06,"(2341.96) Undervisningsassistent, folkeskole",16
 2026M06,(2341.97) Lærervikar,74
 2026M06,(2351.3.99) Skolekonsulent,50
-2026M06,(2352.1) Speciallærer,110
+2026M06,(2352.1) Speciallærer,111
 2026M06,(2352.1.99) Tale-hørelærer,27
-2026M06,(2353.1) Sproglærer,115
+2026M06,(2353.1) Sproglærer,113
 2026M06,(2356.1) IT-underviser,22
-2026M06,(2359.6) Uddannelses- og erhvervsvejleder,240
+2026M06,(2359.6) Uddannelses- og erhvervsvejleder,239
 2026M06,(2359.7) VUC-lærer,23
-2026M06,"(2359.99) Underviser, social- og sundhedsskoler",108
+2026M06,"(2359.99) Underviser, social- og sundhedsskoler",109
 2026M06,(2423.2) Job- og virksomhedskonsulent,334
 2026M06,(2635.3.7.98) Fagkonsulent,176
 2026M06,(2635.3.7.99) Faglig konsulent,355
-2026M06,"(2635.99.1) Sagsbehandler, kommunal",273
+2026M06,"(2635.99.1) Sagsbehandler, kommunal",274
 2026M06,"(2635.99.2) Sagsbehandler, a-kasse",11
 2026M06,(3153.2.3) Flyinstruktør,5
 2026M06,(3423.1.2) Friluftsvejleder,5
 2026M06,(5165.1) Kørelærer,15
-2026M06,"Pædagogisk, socialt og kirkeligt arbejde",27756
-2026M06,(2342.1) Pædagog,12499
-2026M06,(2342.1.95) Pædagogmedhjælper,4356
+2026M06,"Pædagogisk, socialt og kirkeligt arbejde",27767
+2026M06,(2342.1) Pædagog,12497
+2026M06,(2342.1.95) Pædagogmedhjælper,4353
 2026M06,(2342.1.96) Pædagogisk assistent,1491
-2026M06,(2342.99) Klubpædagog,140
-2026M06,(2352.1.7) Støttepædagog,142
-2026M06,(2359.93) Pædagogisk konsulent,229
+2026M06,(2342.99) Klubpædagog,141
+2026M06,(2352.1.7) Støttepædagog,149
+2026M06,(2359.93) Pædagogisk konsulent,230
 2026M06,(2359.99.1) Klubmedarbejder,133
-2026M06,(2635.1) Socialrådgiver,2287
+2026M06,(2635.1) Socialrådgiver,2290
 2026M06,(2635.1.2) Misbrugsbehandler,70
-2026M06,(2635.2) Socialpædagog,3035
-2026M06,(2635.3) Socialarbejder,359
-2026M06,(2635.3.13) Familievejleder,89
+2026M06,(2635.2) Socialpædagog,3034
+2026M06,(2635.3) Socialarbejder,358
+2026M06,(2635.3.13) Familievejleder,90
 2026M06,(2635.3.28) Social vicevært,17
 2026M06,(2635.3.29) Mentor,35
 2026M06,(2635.3.8) SSP-medarbejder,49
 2026M06,(2635.95) Socialformidler,145
-2026M06,(2635.99) Sagsbehandler,1181
+2026M06,(2635.99) Sagsbehandler,1183
 2026M06,(3412.4.5) Familiekonsulent,98
 2026M06,(3412.4.66) Familieplejer,35
 2026M06,(3413.2.991) Kordegn,81
 2026M06,(3413.95) Sognehjælper,29
-2026M06,(5153.1.3) Kirketjener,164
+2026M06,(5153.1.3) Kirketjener,162
 2026M06,(5163.1) Graver,271
 2026M06,(5163.3) Bedemandsassistent,5
 2026M06,(5163.4) Bedemand,9
 2026M06,(5311.1.3) Børnepasser,60
-2026M06,(5311.1.99) Dagplejer,358
-2026M06,(5312.1) Skolepædagog,380
+2026M06,(5311.1.99) Dagplejer,362
+2026M06,(5312.1) Skolepædagog,381
 2026M06,(5329.991) Forsorgsmedarbejder,9
-2026M06,Bygge og anlæg,5389
-2026M06,(1323.1) Byggeleder,219
+2026M06,Bygge og anlæg,5368
+2026M06,(1323.1) Byggeleder,217
 2026M06,(2142.1.2) Byggetekniker,58
 2026M06,(2144.1.8) VVS-tekniker,51
 2026M06,(3112.9) Kort- og landmålingstekniker,18
@@ -29771,146 +29771,146 @@ periode,kategori,vaerdi
 2026M06,(7113.1) Stenhugger,5
 2026M06,(7114.8) Anlægsstruktør,76
 2026M06,(7114.9) Bygningsstruktør,23
-2026M06,(7115.1) Tømrer,692
+2026M06,(7115.1) Tømrer,694
 2026M06,(7115.3) Køkkenmontør,27
 2026M06,(7115.9) Bygningssnedker,30
 2026M06,"(7115.99) Specialarbejder, tømrer",38
 2026M06,(7119.1) Stilladsmontør,5
-2026M06,(7119.2) Nedriver,104
+2026M06,(7119.2) Nedriver,101
 2026M06,(7119.99) Byggemontagetekniker,23
 2026M06,(7121.1) Tagdækker,23
 2026M06,(7121.2) Fugemontør,5
-2026M06,(7122.3) Gulvlægger,65
+2026M06,(7122.3) Gulvlægger,66
 2026M06,(7122.4) Flisemontør,6
 2026M06,(7123.2) Stukkatør,5
 2026M06,(7124.1) Isolatør,34
 2026M06,(7126.11) Kloakrørlægger,45
 2026M06,(7126.11.95) Rørlægger,73
-2026M06,(7126.19) Ventilationstekniker,61
+2026M06,(7126.19) Ventilationstekniker,71
 2026M06,(7126.2) Kloakmester,20
-2026M06,(7126.3) Gastekniker,12
-2026M06,(7126.51) VVS-montør,273
-2026M06,(7126.52) Blikkenslager,24
-2026M06,(7126.8) VVS-installatør,51
+2026M06,(7126.3) Gastekniker,11
+2026M06,(7126.51) VVS-montør,274
+2026M06,(7126.52) Blikkenslager,25
+2026M06,(7126.8) VVS-installatør,53
 2026M06,"(7126.99) Specialarbejder, VVS",16
 2026M06,(7127.1) HVAC-tekniker,28
-2026M06,(7131.1) Bygningsmaler,148
-2026M06,(7213.2.95) Rustfast industrimontør,6
+2026M06,(7131.1) Bygningsmaler,149
+2026M06,(7213.2.95) Rustfast industrimontør,5
 2026M06,(7214.51) Bådebygger,6
 2026M06,(7315.2) Glarmester,10
-2026M06,(7411.1) Elektriker,1127
+2026M06,(7411.1) Elektriker,1110
 2026M06,(7411.1.1) Elinstallatør,74
-2026M06,(7411.1.1.1) Serviceelektriker,36
-2026M06,(7411.1.5) Fibertekniker,114
+2026M06,(7411.1.1.1) Serviceelektriker,35
+2026M06,(7411.1.5) Fibertekniker,112
 2026M06,(8113.10) Diamantskærer,27
 2026M06,(8113.2) Bore- og udvindingsarbejder,12
 2026M06,"(8172.99) Operatør, træ",8
-2026M06,"(8219.99) Rejsemontør, bygge og anlæg",13
-2026M06,(8341.2) Maskinfører,262
+2026M06,"(8219.99) Rejsemontør, bygge og anlæg",14
+2026M06,(8341.2) Maskinfører,265
 2026M06,"(8342.3) Operatør, bygge og anlæg",11
 2026M06,(9312.1) Struktør,131
-2026M06,(9312.1.4) Asfaltør,62
-2026M06,"(9312.98) Specialarbejder, jord og beton",219
+2026M06,(9312.1.4) Asfaltør,63
+2026M06,"(9312.98) Specialarbejder, jord og beton",221
 2026M06,"(9312.99) Specialarbejder, kloak",48
 2026M06,(9313.1) Anlægsarbejder,49
-2026M06,"(9313.97) Specialarbejder, byggeri",268
+2026M06,"(9313.97) Specialarbejder, byggeri",249
 2026M06,"(9313.98) Specialarbejder, maler",21
 2026M06,"(9313.99) Specialarbejder, murer",7
-2026M06,"Jern, metal og auto",3770
-2026M06,(3113.1) Elektronikfagtekniker,147
+2026M06,"Jern, metal og auto",3723
+2026M06,(3113.1) Elektronikfagtekniker,151
 2026M06,(3115.1.22) Svejseinspektør,6
 2026M06,"(3117.3) Servicetekniker, jern og metal",57
-2026M06,(3119.8) Industritekniker,281
-2026M06,(7132.3) Autolakerer,62
+2026M06,(3119.8) Industritekniker,273
+2026M06,(7132.3) Autolakerer,52
 2026M06,(7211.1) Støberitekniker,11
-2026M06,(7212.3) Svejser,148
-2026M06,(7213.2) Plade- og konstruktionssmed,19
-2026M06,(7213.4) Klejnsmed,246
+2026M06,(7212.3) Svejser,154
+2026M06,(7213.2) Plade- og konstruktionssmed,18
+2026M06,(7213.4) Klejnsmed,241
 2026M06,(7214.2) Skibsbygger,14
-2026M06,(7215.2.1) Skibsmontør,41
-2026M06,(7221.1) Smed,215
+2026M06,(7215.2.1) Skibsmontør,40
+2026M06,(7221.1) Smed,213
 2026M06,(7222.3) Låsesmed,24
-2026M06,(7222.4) Finmekaniker,13
+2026M06,(7222.4) Finmekaniker,12
 2026M06,(7222.5) Værktøjsmager,16
-2026M06,(7223.4) CNC-operatør,96
+2026M06,(7223.4) CNC-operatør,90
 2026M06,(7223.4.6) Fræser,7
 2026M06,(7223.7) Drejer,5
 2026M06,(7224.1) Jern- og metalsliber,7
-2026M06,(7231.10) Automekaniker,306
+2026M06,(7231.10) Automekaniker,295
 2026M06,(7231.19) Motorcykelmekaniker,5
-2026M06,(7231.2) Karosserismed,40
-2026M06,(7231.52) Lastvognsmekaniker,98
-2026M06,(7231.7) Dækmontør,103
-2026M06,(7231.8) Mekaniker,561
+2026M06,(7231.2) Karosserismed,39
+2026M06,(7231.52) Lastvognsmekaniker,93
+2026M06,(7231.7) Dækmontør,100
+2026M06,(7231.8) Mekaniker,563
 2026M06,(7231.99) Automontør,26
 2026M06,(7232.5) Flymekaniker,38
 2026M06,(7233.1) Entreprenørmaskinemekaniker,42
-2026M06,(7233.15) Driftsassistent,53
-2026M06,(7233.2) Kranmekaniker,13
-2026M06,(7233.8.1) Landbrugsmaskinemekaniker,27
-2026M06,(7234.1) Cykelmekaniker,42
+2026M06,(7233.15) Driftsassistent,54
+2026M06,(7233.2) Kranmekaniker,14
+2026M06,(7233.8.1) Landbrugsmaskinemekaniker,24
+2026M06,(7234.1) Cykelmekaniker,41
 2026M06,(7234.99) Værkstedsassistent,109
 2026M06,(7311.1) Urmager,5
 2026M06,(7412.12) Vindmølleoperatør,7
 2026M06,(7412.3) Elektrotekniker,22
-2026M06,(7412.99) Automatiktekniker,146
+2026M06,(7412.99) Automatiktekniker,144
 2026M06,(7421.7) Elektrofagtekniker,5
-2026M06,(7421.9) Servicetekniker,473
+2026M06,(7421.9) Servicetekniker,474
 2026M06,(7543.7.5) Autoteknolog,5
-2026M06,"(8219.98) Rejsemontør, industri",42
+2026M06,"(8219.98) Rejsemontør, industri",41
 2026M06,(8312.5.991) Klargører,54
-2026M06,"(9329.96) Specialarbejder, jern og metal",133
-2026M06,Industriel produktion,2693
+2026M06,"(9329.96) Specialarbejder, jern og metal",132
+2026M06,Industriel produktion,2657
 2026M06,"(2131.4.99) Specialarbejder, medicinal",5
 2026M06,(2144.1.5) Maskinkonstruktør,13
 2026M06,(2149.9) Materialetekniker,5
 2026M06,(2152.1.10) Sensortekniker,5
-2026M06,(3115.1.15) Produktionstekniker,101
+2026M06,(3115.1.15) Produktionstekniker,102
 2026M06,(3119.14) Produktudvikler,22
 2026M06,(3119.2.1) Robottekniker,8
 2026M06,(3122.3) Produktionsteknolog,20
 2026M06,(3122.4.95) Produktspecialist,40
-2026M06,(4321.1.3) Produktionsmedarbejder,1706
+2026M06,(4321.1.3) Produktionsmedarbejder,1684
 2026M06,(7114.1) Betonmager,9
-2026M06,(7132.1) Industrilakerer,37
+2026M06,(7132.1) Industrilakerer,35
 2026M06,(7233.7) Industrimekaniker,31
 2026M06,(8113.6) Offshorearbejder,12
-2026M06,"(8122.99) Operatør, jern og metal",121
+2026M06,"(8122.99) Operatør, jern og metal",123
 2026M06,"(8131.99) Operatør, kemisk",30
 2026M06,(8142.19) Plastmager,19
 2026M06,"(8142.99) Operatør, plastmager",8
 2026M06,"(8159.99) Operatør, tekstil",8
-2026M06,(8183.3) Procesoperatør,151
+2026M06,(8183.3) Procesoperatør,149
 2026M06,(8189.7) Forsyningsoperatør,33
 2026M06,"(8189.90) Operatør, serviceindustri",15
-2026M06,(8189.91) Maskinoperatør,63
+2026M06,(8189.91) Maskinoperatør,64
 2026M06,"(8189.95) Operatør, emballage",5
 2026M06,"(8189.97) Operatør, logistik",8
 2026M06,"(8189.98) Operatør, pharma",5
 2026M06,"(8189.99) Industrioperatør, uddannet",56
-2026M06,"(8189.99.2) Industrioperatør, ikke uddannet",55
-2026M06,(8212.2) Elektronikarbejder,72
+2026M06,"(8189.99.2) Industrioperatør, ikke uddannet",42
+2026M06,(8212.2) Elektronikarbejder,71
 2026M06,(8212.2.3) Ledningsmontør,5
 2026M06,"(9329.95) Specialarbejder, glasfiber",14
 2026M06,"(9329.98) Specialarbejder, papir og karton",5
 2026M06,"(9329.99) Specialarbejder, sprøjtestøbning og ekstrudering",6
-2026M06,"Kontor, administration, regnskab og finans",5804
-2026M06,(1312.4) Forretningsudvikler,143
+2026M06,"Kontor, administration, regnskab og finans",5807
+2026M06,(1312.4) Forretningsudvikler,141
 2026M06,"(1439.98) Receptionschef, kontor",5
 2026M06,(2351.1) Studiesekretær,58
 2026M06,(2412.2) Finansrådgiver,55
 2026M06,(2413.2) Økonomiassistent,395
-2026M06,(2643.2) Tolk,86
+2026M06,(2643.2) Tolk,92
 2026M06,(2643.5) Tegnsprogstolk,6
-2026M06,(2643.6) Oversætter,15
+2026M06,(2643.6) Oversætter,14
 2026M06,(3311.2.5) Børsmægler,5
-2026M06,(3312.1) Bankrådgiver,79
+2026M06,(3312.1) Bankrådgiver,78
 2026M06,(3312.6) Realkreditmedarbejder,5
 2026M06,(3312.99) Finansmedarbejder,56
-2026M06,(3313.1) Bogholderi- og regnskabsassistent,546
-2026M06,(3313.2) Bogholder,467
+2026M06,(3313.1) Bogholderi- og regnskabsassistent,550
+2026M06,(3313.2) Bogholder,468
 2026M06,(3315.3) Assurandør,60
-2026M06,(3315.5) Taksator,14
+2026M06,(3315.5) Taksator,13
 2026M06,(3315.8) Valuar,6
 2026M06,(3331.2.1) Import- og eksportmedarbejder,13
 2026M06,(3332.1) Eventassistent,33
@@ -29919,13 +29919,13 @@ periode,kategori,vaerdi
 2026M06,(3342.2) Advokatsekretær,40
 2026M06,(3343.3) Direktionssekretær,102
 2026M06,(3351.1) Tolder,29
-2026M06,(4110.1) Kontormedhjælper,1491
+2026M06,(4110.1) Kontormedhjælper,1487
 2026M06,(4110.1.99) Kursuskoordinator,30
-2026M06,(4120.1) Sekretær,556
-2026M06,(4120.99) Skolesekretær,178
+2026M06,(4120.1) Sekretær,557
+2026M06,(4120.99) Skolesekretær,177
 2026M06,(4131.1) Tasteoperatør,5
 2026M06,(4211.1) Bankassistent,11
-2026M06,(4214.1) Inkassomedarbejder,9
+2026M06,(4214.1) Inkassomedarbejder,8
 2026M06,(4223.1) Telefonist,27
 2026M06,(4226.1) Natportier,15
 2026M06,"(4226.2) Receptionist, kontor",138
@@ -29943,47 +29943,47 @@ periode,kategori,vaerdi
 2026M06,(4419.2) Korrespondent,5
 2026M06,"(4419.95) Piccolo / piccoline, kontor",119
 2026M06,(5153.9) Ministerialbetjent,7
-2026M06,(9333.2) Speditør,202
-2026M06,"Salg, indkøb og markedsføring",9193
+2026M06,(9333.2) Speditør,204
+2026M06,"Salg, indkøb og markedsføring",9128
 2026M06,(1221.3.2.1.4) E-commerce manager,28
 2026M06,(1420.3) Salgs- og kundeansvarlig,350
 2026M06,"(2412.4.1) Relationship manager, finans",6
 2026M06,(2431.1) Tekstforfatter,25
-2026M06,(2431.10) Marketingmedarbejder,683
+2026M06,(2431.10) Marketingmedarbejder,681
 2026M06,(2431.5) Virksomhedsudvikler,37
 2026M06,(2431.9) Serviceøkonom,5
 2026M06,(2432.6) Kampagnemedarbejder,6
 2026M06,(2619.1) Contract manager,93
 2026M06,(3322.2) Salgskonsulent,616
-2026M06,(3322.99) Account manager,397
-2026M06,(3323.2) Indkøber,430
+2026M06,(3322.99) Account manager,395
+2026M06,(3323.2) Indkøber,431
 2026M06,(3324.1) Varemægler,5
 2026M06,(3324.1.1) Skibsmægler,5
 2026M06,(3324.4) Grossist,24
-2026M06,(3334.3) Ejendomsmægler,189
+2026M06,(3334.3) Ejendomsmægler,185
 2026M06,(3339.1) Reklamekonsulent,5
 2026M06,(3339.2) Auktionsleder,5
 2026M06,(3343.1.5) Indkøbsassistent,47
-2026M06,(3432.2) Merchandiser,47
-2026M06,(3432.6) Visual merchandiser,45
-2026M06,(4225.1) Kundeservicemedarbejder,1140
-2026M06,(4227.1) Interviewer,117
+2026M06,(3432.2) Merchandiser,52
+2026M06,(3432.6) Visual merchandiser,43
+2026M06,(4225.1) Kundeservicemedarbejder,1127
+2026M06,(4227.1) Interviewer,122
 2026M06,(4311.2) Assistent til salgssupport,339
-2026M06,(5223.4) Salgsassistent,1031
+2026M06,(5223.4) Salgsassistent,1020
 2026M06,(5223.5) Ordrebehandler,26
-2026M06,(5223.6) Butiksassistent,2108
+2026M06,(5223.6) Butiksassistent,2105
 2026M06,(5223.7.16) Fiskehandler,5
 2026M06,(5223.7.17) Farvehandler,5
 2026M06,(5223.7.18) Blomsterbinder,16
 2026M06,(5223.7.6) Boghandler,5
-2026M06,(5223.7.8) Ekspedient,156
-2026M06,(5223.7.99) Blomsterdekoratør,17
+2026M06,(5223.7.8) Ekspedient,151
+2026M06,(5223.7.99) Blomsterdekoratør,16
 2026M06,(5230.1) Kasseassistent,140
-2026M06,(5244.1) Call centermedarbejder,345
+2026M06,(5244.1) Call centermedarbejder,334
 2026M06,"(5249.95) Logistikmedarbejder, salg og indkøb",101
 2026M06,(7515.9) Vinkyper,5
-2026M06,(9334.1) Butiksmedhjælper,404
-2026M06,(9411.2) Fast food ekspedient,185
+2026M06,(9334.1) Butiksmedhjælper,400
+2026M06,(9411.2) Fast food ekspedient,167
 2026M06,"Medie, kultur, turisme, idræt og underholdning",1940
 2026M06,(1439.99) Turistchef,5
 2026M06,(2163.1.2) Kostumedesigner,5
@@ -29992,7 +29992,7 @@ periode,kategori,vaerdi
 2026M06,(2166.4.3) Filmfotograf,5
 2026M06,(2166.4.6) Sceneinstruktør,5
 2026M06,(2166.4.8) Filminstruktør,5
-2026M06,(2354.1) Musiklærer,103
+2026M06,(2354.1) Musiklærer,104
 2026M06,(2354.1.1) Sanglærer,8
 2026M06,(2355.2) Danselærer,5
 2026M06,(2422.13) Idrætsinstruktør og -konsulent,31
@@ -30004,11 +30004,11 @@ periode,kategori,vaerdi
 2026M06,(2641.4.4) Teknisk kommunikator,6
 2026M06,(2641.99) Forlagskonsulent,5
 2026M06,(2642.1) Journalist,119
-2026M06,(2642.1.10) Researcher,87
+2026M06,(2642.1.10) Researcher,88
 2026M06,(2642.99) Kommunikationsmedarbejder,277
 2026M06,(2643.6.2) Tekster,19
 2026M06,(2651.5) Kunstner,48
-2026M06,(2652.3) Musiker,225
+2026M06,(2652.3) Musiker,226
 2026M06,(2652.3.1) Dirigent,6
 2026M06,(2652.3.1.1) Korleder,23
 2026M06,(2652.3.2) Korsanger,165
@@ -30050,7 +30050,7 @@ periode,kategori,vaerdi
 2026M06,(4221.4) Rejsebureaumedarbejder,19
 2026M06,(4221.7) Rejsekonsulent,10
 2026M06,(4411.1) Biblioteksassistent,34
-2026M06,(5113.1) Guide,91
+2026M06,(5113.1) Guide,90
 2026M06,(5141.1.4) Frisør inden for teater- og TV-branchen,5
 2026M06,(5153.51) Museumsmedhjælper,26
 2026M06,(5241.2) Model,40
@@ -30059,12 +30059,12 @@ periode,kategori,vaerdi
 2026M06,(7312.6) Instrumentbygger,5
 2026M06,(7312.6.1) Guitarbygger,5
 2026M06,(7531.1) Kostumier,5
-2026M06,(8132.2) Fotografmedhjælper,9
+2026M06,(8132.2) Fotografmedhjælper,7
 2026M06,(9129.3) Bademester,8
 2026M06,(9129.3.99) Badeassistent,9
 2026M06,(9212.3) Rideskoleassistent,5
 2026M06,(9629.2) Forlystelsesmedarbejder,16
-2026M06,It og teleteknik,4333
+2026M06,It og teleteknik,4332
 2026M06,(1223.3) IT-Product manager,29
 2026M06,(1330.1) Chief data officer,8
 2026M06,(1330.6.10) IT-Product owner,55
@@ -30074,31 +30074,31 @@ periode,kategori,vaerdi
 2026M06,(2511.17) IT-revisor,9
 2026M06,(2511.19) Digitaliseringskonsulent,74
 2026M06,(2511.3) Datalog,8
-2026M06,(2511.9) IT-konsulent,840
+2026M06,(2511.9) IT-konsulent,841
 2026M06,(2512.3) Programmør og systemudvikler,740
-2026M06,"(2512.3.99) Softwareudvikler, backend",185
+2026M06,"(2512.3.99) Softwareudvikler, backend",186
 2026M06,(2512.51) Computerspiludvikler,5
 2026M06,"(2512.99) Softwareudvikler, frontend",47
 2026M06,(2513.3) UX designer,49
-2026M06,(2513.5) Webudvikler,192
+2026M06,(2513.5) Webudvikler,191
 2026M06,(2519.1) Datakonsulent,73
 2026M06,(2519.6.4) IT-kvalitetsmedarbejder,112
 2026M06,(2521.1) Databaseadministrator,17
-2026M06,(2522.1) Systemadministrator,288
-2026M06,(2529.6) IT-sikkerhedskonsulent,128
+2026M06,(2522.1) Systemadministrator,287
+2026M06,(2529.6) IT-sikkerhedskonsulent,127
 2026M06,(2619.4) Databeskyttelsesrådgiver,27
 2026M06,(3511.99) Datatekniker,39
-2026M06,(3512.1) IT-supporter,415
+2026M06,(3512.1) IT-supporter,416
 2026M06,(3512.4) IT-tekniker,167
-2026M06,(3514.1) Webmaster,247
+2026M06,(3514.1) Webmaster,246
 2026M06,(7422.6) Teletekniker,14
-2026M06,"Transport, post, lager- og maskinførerarbejde",4815
+2026M06,"Transport, post, lager- og maskinførerarbejde",4744
 2026M06,(1324.3.108) Distributionschef,5
 2026M06,(3151.3) Maskinassistent,7
 2026M06,(3151.4) Skibsmaskinist,5
 2026M06,(3152.3) Lods,18
 2026M06,(3152.4) Skibsfører,35
-2026M06,(3152.9) Styrmand,13
+2026M06,(3152.9) Styrmand,11
 2026M06,(3153.2) Pilot,5
 2026M06,(3153.2.4) Helikopterfører,5
 2026M06,(3153.4) Dronepilot,2
@@ -30122,69 +30122,69 @@ periode,kategori,vaerdi
 2026M06,(8312.5) Togklargører,55
 2026M06,"(8322.2) Chauffør, budtransport, køretøj under 3½ ton",124
 2026M06,"(8322.6) Chauffør, persontransport",146
-2026M06,(8322.7) Taxichauffør,45
+2026M06,(8322.7) Taxichauffør,46
 2026M06,(8331.1) Buschauffør,128
-2026M06,"(8332.4) Chauffør, specialtransport",158
+2026M06,"(8332.4) Chauffør, specialtransport",157
 2026M06,"(8332.6) Chauffør, dyretransport",10
-2026M06,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",677
-2026M06,"(8332.98) Chauffør, tankvogn",11
-2026M06,(8343.2) Kranfører,66
+2026M06,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",662
+2026M06,"(8332.98) Chauffør, tankvogn",10
+2026M06,(8343.2) Kranfører,64
 2026M06,(8344.1) Truckfører,262
-2026M06,(8350.99) Skibsassistent,21
+2026M06,(8350.99) Skibsassistent,20
 2026M06,(9321.2) Pakkerimedarbejder,181
 2026M06,(9331.1) Cykelbud,27
-2026M06,(9333.4) Flyttemand,75
+2026M06,(9333.4) Flyttemand,71
 2026M06,(9333.6) Havnearbejder,5
-2026M06,(9333.8) Lager- og logistikmedarbejder,2190
-2026M06,(9333.8.1) Lagerekspedient,79
-2026M06,(9333.95) Kørselsleder,35
+2026M06,(9333.8) Lager- og logistikmedarbejder,2146
+2026M06,(9333.8.1) Lagerekspedient,78
+2026M06,(9333.95) Kørselsleder,34
 2026M06,(9510.1) Omdeler,97
-2026M06,"Hotel, restauration, køkken, kantine",5170
-2026M06,(2265.52) Klinisk Diætist,92
-2026M06,(3434.1) Køkkenchef,356
+2026M06,"Hotel, restauration, køkken, kantine",5106
+2026M06,(2265.52) Klinisk Diætist,93
+2026M06,(3434.1) Køkkenchef,355
 2026M06,(4221.2) Vært/Værtinde,196
-2026M06,"(4224.1) Receptionist, hotel",72
+2026M06,"(4224.1) Receptionist, hotel",71
 2026M06,(5111.2.2.92) Cater,94
-2026M06,(5120.1) Kok,1587
+2026M06,(5120.1) Kok,1578
 2026M06,(5120.1.4.992) Økonoma,16
 2026M06,(5120.1.95) Smørrebrødsjomfru,22
 2026M06,(5131.1) Vært i restaurant,125
-2026M06,(5131.2) Tjener,462
+2026M06,(5131.2) Tjener,441
 2026M06,(5131.2.2) Sommelier,6
-2026M06,(5131.2.95) Serveringsmedarbejder,93
-2026M06,(5131.2.99) Cafemedarbejder,223
-2026M06,(5132.1) Bartender,125
+2026M06,(5131.2.95) Serveringsmedarbejder,80
+2026M06,(5131.2.99) Cafemedarbejder,222
+2026M06,(5132.1) Bartender,119
 2026M06,(5132.1.1) Barista,47
 2026M06,(5151.2) Oldfrue,46
 2026M06,(5223.7.13) Delikatesseassistent,156
 2026M06,(9112.99) Hotelmedarbejder,38
-2026M06,(9411.1) Pizzabager,37
-2026M06,(9412.1) Køkkenmedhjælper,1171
-2026M06,(9412.2) Opvasker,206
-2026M06,"Rengøring, ejendomsservice og renovation",5299
+2026M06,(9411.1) Pizzabager,32
+2026M06,(9412.1) Køkkenmedhjælper,1170
+2026M06,(9412.2) Opvasker,199
+2026M06,"Rengøring, ejendomsservice og renovation",5290
 2026M06,(3334.5) Ejendomsadministrator,68
-2026M06,(5151.95) Rengøringsinspektør,77
+2026M06,(5151.95) Rengøringsinspektør,78
 2026M06,(5153.1) Vicevært,208
-2026M06,(5153.1.95) Pedel,204
+2026M06,(5153.1.95) Pedel,202
 2026M06,(5153.1.96) Pedelmedhjælper,50
-2026M06,(5153.53) Ejendomsfunktionær,161
-2026M06,(5153.54) Teknisk servicemedarbejder,328
+2026M06,(5153.53) Ejendomsfunktionær,162
+2026M06,(5153.54) Teknisk servicemedarbejder,331
 2026M06,(5153.99) Halinspektør,12
 2026M06,(7133.3) Skorstensfejer,6
 2026M06,(8157.1) Vaskeriassistent,27
-2026M06,(9111.9) Rengøringsassistent i kontor,111
-2026M06,(9112.2) Rengøringsassistent,3064
+2026M06,(9111.9) Rengøringsassistent i kontor,114
+2026M06,(9112.2) Rengøringsassistent,3058
 2026M06,"(9112.51) Rengøringsassistent, hotel",42
-2026M06,"(9112.52) Rengøringsassistent, privat",42
-2026M06,"(9112.53) Rengøringsassistent, industri",266
-2026M06,"(9112.54) Rengøringsassistent, hospital",146
+2026M06,"(9112.52) Rengøringsassistent, privat",41
+2026M06,"(9112.53) Rengøringsassistent, industri",264
+2026M06,"(9112.54) Rengøringsassistent, hospital",147
 2026M06,(9112.9) Rengøringsassistent i transportmidler,8
 2026M06,(9123.1) Vinduespudser,89
-2026M06,(9611.1) Renovationsarbejder,92
-2026M06,"(9622.1) Servicetekniker, rengøring og ejendomsservice",284
+2026M06,(9611.1) Renovationsarbejder,90
+2026M06,"(9622.1) Servicetekniker, rengøring og ejendomsservice",279
 2026M06,(9623.1) Måleraflæser,8
 2026M06,(9629.5) Renseriassistent,6
-2026M06,"Design, formgivning og grafisk arbejde",562
+2026M06,"Design, formgivning og grafisk arbejde",559
 2026M06,(2163.1.3) Designer,167
 2026M06,(2163.1.3.95) Designassistent,28
 2026M06,(2166.10) Mediegrafiker,47
@@ -30194,16 +30194,16 @@ periode,kategori,vaerdi
 2026M06,(2651.6) Tegner,30
 2026M06,(2651.9) Gravør,5
 2026M06,(2659.95) Kunsthåndværker,5
-2026M06,(3118.3.2) Teknisk designer,103
+2026M06,(3118.3.2) Teknisk designer,101
 2026M06,(3432.1.1) Indretningsarkitekt,9
 2026M06,(7313.1.2) Guld- og sølvsmed,6
-2026M06,(7316.4) Skiltemaler,17
+2026M06,(7316.4) Skiltemaler,16
 2026M06,(7321.1.5) Grafisk tekniker,19
 2026M06,(7322.5) Trykkeriarbejder,10
 2026M06,(7522.51) Møbelarkitekt,5
 2026M06,"(8132.2.99) Servicemedarbejder, foto",6
-2026M06,"Vagt, sikkerhed og overvågning",3190
-2026M06,(0110.2) Officer,733
+2026M06,"Vagt, sikkerhed og overvågning",3188
+2026M06,(0110.2) Officer,730
 2026M06,(0210.2) Sergent,628
 2026M06,(0310.3) Konstabel,281
 2026M06,(1439.3.99) Bilsynsassistent,22
@@ -30220,7 +30220,7 @@ periode,kategori,vaerdi
 2026M06,(5411.1.4.98) Redder,35
 2026M06,(5412.1) Politibetjent / -assistent,6
 2026M06,(5413.2) Fængselsfunktionær,211
-2026M06,"(5414.1) Sikkerhedsmedarbejder, vagt, sikkerhed og overvågning",379
+2026M06,"(5414.1) Sikkerhedsmedarbejder, vagt, sikkerhed og overvågning",380
 2026M06,(5414.1.5) Dørmand,20
 2026M06,(5414.1.6) Vagt,315
 2026M06,(5419.2) Parkeringsvagt,55
@@ -30228,11 +30228,11 @@ periode,kategori,vaerdi
 2026M06,(5419.6) Livredder,158
 2026M06,(7541.3) Erhvervsdykker,5
 2026M06,(9629.4) Garderobeassistent,18
-2026M06,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1538
+2026M06,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1531
 2026M06,(1312.1) Fiskeriteknolog,5
 2026M06,(2132.5) Skovbrugsrådgiver,5
 2026M06,(3111.14) Jordbrugsteknolog,34
-2026M06,(3143.9) Skov- og naturtekniker,17
+2026M06,(3143.9) Skov- og naturtekniker,16
 2026M06,(3240.2) Dyreklinikassistent,5
 2026M06,(3240.2.1) Inseminør,7
 2026M06,(3240.2.4) Veterinærsygeplejerske,39
@@ -30243,11 +30243,11 @@ periode,kategori,vaerdi
 2026M06,(5164.2.1.1) Hundetræner,6
 2026M06,(5164.2.1.2) Hestetræner,5
 2026M06,(5164.3) Medarbejder på et dyreinternat,6
-2026M06,"(6111.1) Driftsleder, landbrug",15
+2026M06,"(6111.1) Driftsleder, landbrug",13
 2026M06,(6113.11) Greenkeeper,25
-2026M06,(6113.4) Gartneriarbejder,88
-2026M06,(6113.6) Anlægsgartner,280
-2026M06,(6113.6.991) Anlægsgartnerarbejder,71
+2026M06,(6113.4) Gartneriarbejder,87
+2026M06,(6113.6) Anlægsgartner,278
+2026M06,(6113.6.991) Anlægsgartnerarbejder,69
 2026M06,(6121.2) Staldmester,5
 2026M06,(6121.99) Fodermester,6
 2026M06,(6129.1) Pelsdyravler,5
@@ -30256,21 +30256,21 @@ periode,kategori,vaerdi
 2026M06,(6221.7) Fiskeassistent,9
 2026M06,(6222.1) Fisker,45
 2026M06,(6224.1) Skytte,210
-2026M06,(9212.4) Dyrepasser,56
-2026M06,(9213.1) Landbrugsmedhjælper,50
-2026M06,(9214.1) Gartner,252
+2026M06,(9212.4) Dyrepasser,55
+2026M06,(9213.1) Landbrugsmedhjælper,49
+2026M06,(9214.1) Gartner,254
 2026M06,(9214.1.991) Væksthusgartner,6
 2026M06,(9215.1) Skovarbejder,20
 2026M06,(9216.2) Dambrugsarbejder,5
-2026M06,"(9312.97) Specialarbejder, grønne områder",210
-2026M06,Tekstil og beklædning,173
+2026M06,"(9312.97) Specialarbejder, grønne områder",211
+2026M06,Tekstil og beklædning,172
 2026M06,(2163.1.3.1) Beklædningsdesigner,5
 2026M06,(2163.1.6) Modelkonstruktør,5
 2026M06,(2163.1.8) Tekstildesigner,5
 2026M06,(3323.2.4) Designteknolog,6
 2026M06,(7122.1) Tæppemontør,12
 2026M06,(7322.10) Tekstiltrykker,5
-2026M06,(7531.5) Skrædder,82
+2026M06,(7531.5) Skrædder,81
 2026M06,(7534.3) Sadelmager,6
 2026M06,(7534.3.1) Møbelpolstrer,13
 2026M06,(7534.3.95) Sejlmager,7
@@ -30279,22 +30279,22 @@ periode,kategori,vaerdi
 2026M06,(8155.1.3) Garver,5
 2026M06,"(9329.97) Specialarbejder, læder",5
 2026M06,"(9329.99.1) Specialarbejder, tekstil",5
-2026M06,Nærings- og nydelsesmiddel,823
+2026M06,Nærings- og nydelsesmiddel,770
 2026M06,(1420.4.5) Bagermester,22
 2026M06,(2145.1.2) Brygmester,5
 2026M06,(2145.1.4) Fødevareteknolog,9
-2026M06,"(2145.1.99) Tilsynstekniker, fødevarer",27
+2026M06,"(2145.1.99) Tilsynstekniker, fødevarer",28
 2026M06,(2263.2) Fødevareinspektør,7
 2026M06,"(2263.5) Kvalitetsmedarbejder, nærings- og nydelsesmiddel",5
 2026M06,(3119.99) Procesteknolog,7
 2026M06,(3257.3) Levnedsmiddelinspektør,5
 2026M06,(7511.1) Slagtermester,38
 2026M06,(7511.3) Fiskeindustriarbejder,113
-2026M06,(7511.4) Slagteriarbejder,152
-2026M06,(7511.6) Industrislagter,56
+2026M06,(7511.4) Slagteriarbejder,124
+2026M06,(7511.6) Industrislagter,30
 2026M06,(7511.99) Butiks- og detailslagter,24
-2026M06,(7512.1) Bager,155
-2026M06,(7512.3) Konditor,61
+2026M06,(7512.1) Bager,154
+2026M06,(7512.3) Konditor,62
 2026M06,(7512.99) Bageriarbejder,30
 2026M06,(7513.1) Mejerist,24
 2026M06,(7513.2) Mejeriarbejder,6
@@ -30304,15 +30304,15 @@ periode,kategori,vaerdi
 2026M06,(8160.7) Bryggeriarbejder,18
 2026M06,"(8160.99) Operatør, fødevarer",37
 2026M06,"(8189.96) Operatør, drikkevarer",5
-2026M06,"Træ, møbel, glas og keramik",137
+2026M06,"Træ, møbel, glas og keramik",134
 2026M06,(2651.4) Keramiker,8
 2026M06,(7314.2) Pottemager,5
 2026M06,(7315.1) Glasmager,6
 2026M06,(7316.1.3) Porcelænsmaler,5
 2026M06,(7522.2) Møbelsnedker,32
-2026M06,(7523.3) Maskinsnedker,75
+2026M06,(7523.3) Maskinsnedker,72
 2026M06,"(8181.7) Operatør, glas",6
-2026M06,Akademisk arbejde,20611
+2026M06,Akademisk arbejde,20641
 2026M06,(1213.2) Chefstrateg,5
 2026M06,(1219.2) CSR-ansvarlig,5
 2026M06,(1324.3.4) Supply chain manager,55
@@ -30329,7 +30329,7 @@ periode,kategori,vaerdi
 2026M06,(2120.2) Demograf,5
 2026M06,(2120.5) Matematiker,8
 2026M06,(2120.6) Statistiker,12
-2026M06,(2131.4) Biolog,133
+2026M06,(2131.4) Biolog,134
 2026M06,(2131.4.1) Havbiolog,5
 2026M06,(2131.4.2) Biokemiker,12
 2026M06,(2131.4.6) Botaniker,5
@@ -30350,8 +30350,8 @@ periode,kategori,vaerdi
 2026M06,(2141.6) Logistiker,10
 2026M06,(2141.9) Procesingeniør,33
 2026M06,"(2142.1) Civilingeniør, bygge og anlæg",76
-2026M06,(2142.99) Civilingeniør,161
-2026M06,(2143.1) Miljøingeniør,68
+2026M06,(2142.99) Civilingeniør,162
+2026M06,(2143.1) Miljøingeniør,67
 2026M06,(2144.1) Maskiningeniør,131
 2026M06,(2144.1.10) Skibsingeniør,6
 2026M06,(2145.1) Kemiingeniør,49
@@ -30363,7 +30363,7 @@ periode,kategori,vaerdi
 2026M06,(2152.1) Elektronikingeniør,185
 2026M06,(2152.1.5) Medicoingeniør,9
 2026M06,(2153.1) Telekommunikationsingeniør,10
-2026M06,(2161.1) Arkitekt,326
+2026M06,(2161.1) Arkitekt,324
 2026M06,(2162.1) Landskabsarkitekt,35
 2026M06,(2162.1.1) Havearkitekt,5
 2026M06,(2163.1) Industriel designer,5
@@ -30372,9 +30372,9 @@ periode,kategori,vaerdi
 2026M06,(2165.3) GIS-medarbejder,13
 2026M06,(2165.99) Landinspektør,41
 2026M06,(2211.98) Sygehuslæge,41
-2026M06,(2211.99) Læge,1841
-2026M06,(2211.99.1) Uddannelseslæge,221
-2026M06,(2212.1) Speciallæge,627
+2026M06,(2211.99) Læge,1858
+2026M06,(2211.99.1) Uddannelseslæge,222
+2026M06,(2212.1) Speciallæge,629
 2026M06,(2212.52) Lægemiddelkonsulent,9
 2026M06,(2250.3) Dyrlæge,116
 2026M06,(2261.1) Tandlæge,375
@@ -30391,7 +30391,7 @@ periode,kategori,vaerdi
 2026M06,"(2310.1.19.992) Associate professor, teologi",5
 2026M06,"(2310.1.19.994) Forsker, sundhedsvidenskab",74
 2026M06,"(2310.1.19.995) Forskningsassistent, sundhedsvidenskab",58
-2026M06,"(2310.1.19.996) Ph.d., sundhedsvidenskab",173
+2026M06,"(2310.1.19.996) Ph.d., sundhedsvidenskab",174
 2026M06,"(2310.1.19.997) Professor, sundhedsvidenskab",26
 2026M06,"(2310.1.19.998) Senior forsker, sundhedsvidenskab",11
 2026M06,"(2310.1.19.999) Undervisningsassistent, sundhedsvidenskab",91
@@ -30476,11 +30476,11 @@ periode,kategori,vaerdi
 2026M06,"(2310.53) Underviser, professionshøjskole",102
 2026M06,(2320.1) Erhvervsskolelærer,160
 2026M06,(2320.1.7) Handelsskolelærer,33
-2026M06,(2330.1) Gymnasielærer,317
+2026M06,(2330.1) Gymnasielærer,318
 2026M06,(2411.1.12) Skatterevisor,11
-2026M06,(2411.1.7) Revisor,180
-2026M06,(2411.1.8) Økonomicontroller,445
-2026M06,(2411.2) Businesscontroller,144
+2026M06,(2411.1.7) Revisor,178
+2026M06,(2411.1.8) Økonomicontroller,444
+2026M06,(2411.2) Businesscontroller,145
 2026M06,(2412.5) Investeringsrådgiver,12
 2026M06,(2413.1) Finansanalytiker,57
 2026M06,(2413.1.1) Risikoanalytiker,13
@@ -30488,35 +30488,35 @@ periode,kategori,vaerdi
 2026M06,(2413.1.3) Investeringsanalytiker,5
 2026M06,(2421.2) Rådgivende konsulent,334
 2026M06,(2421.3) Business intelligence manager,50
-2026M06,(2422.1) Fuldmægtig,2301
+2026M06,(2422.1) Fuldmægtig,2306
 2026M06,(2422.10) Politisk medarbejder,22
 2026M06,(2422.11) Politisk konsulent,53
 2026M06,(2422.2) Kommunal planlægger,84
 2026M06,(2422.25) Sundhedsøkonom,14
-2026M06,(2422.7) Efterretningsofficer,19
-2026M06,(2422.95) Projektmedarbejder,454
-2026M06,(2423.3) Personalekonsulent,152
+2026M06,(2422.7) Efterretningsofficer,20
+2026M06,(2422.95) Projektmedarbejder,451
+2026M06,(2423.3) Personalekonsulent,151
 2026M06,"(2423.7) Researcher, rekruttering",31
 2026M06,(2424.99) Kursusleder,23
 2026M06,(2432.3) Fundraiser,84
-2026M06,(2432.5) SOME-medarbejder,108
+2026M06,(2432.5) SOME-medarbejder,109
 2026M06,(2432.8) Kommunikationskonsulent,317
 2026M06,(2432.9) Pressesekretær,7
-2026M06,"(2511.2) Analytiker, data og analyse",275
+2026M06,"(2511.2) Analytiker, data og analyse",276
 2026M06,"(2511.29) Civilingeniør, IT",12
 2026M06,(2611.1) Advokat,68
 2026M06,(2611.1.2) Politifuldmægtig,5
 2026M06,(2611.99) Advokatfuldmægtig,43
 2026M06,(2612.1) Dommer,38
 2026M06,(2612.1.991) Dommerfuldmægtig,12
-2026M06,(2619.5) Jurist,1336
+2026M06,(2619.5) Jurist,1335
 2026M06,(2621.1) Arkivar,16
 2026M06,(2621.2) Kunstformidler,24
 2026M06,(2621.4) Konservator,20
 2026M06,(2621.5) Kurator,9
 2026M06,(2621.8) Museumsinspektør,24
 2026M06,(2622.1.991) Dokumentationsmedarbejder,18
-2026M06,(2622.2) Bibliotekar,162
+2026M06,(2622.2) Bibliotekar,163
 2026M06,(2622.991) Forskningsbibliotekar,8
 2026M06,(2631.1) Økonom,237
 2026M06,(2631.98) Erhvervsanalytiker,6
@@ -30528,23 +30528,23 @@ periode,kategori,vaerdi
 2026M06,(2633.1) Historiker,6
 2026M06,(2633.2) Filosof,22
 2026M06,(2633.3) Politolog,10
-2026M06,(2634.2) Psykolog,1117
-2026M06,(2634.2.1) Klinisk psykolog,98
-2026M06,(2635.3.12) HR-konsulent,435
+2026M06,(2634.2) Psykolog,1119
+2026M06,(2634.2.1) Klinisk psykolog,104
+2026M06,(2635.3.12) HR-konsulent,434
 2026M06,(2636.2) Præst,232
 2026M06,(2643.4) Lingvist,7
 2026M06,(3111.2) Miljøtekniker,47
 2026M06,(3112.1) Bygningsingeniør,126
-2026M06,(3112.7) Energikonsulent,57
+2026M06,(3112.7) Energikonsulent,58
 2026M06,(3117.2) Geotekniker,7
 2026M06,(3122.9) Kvalitetsmedarbejder,169
 2026M06,(3212.1) Biomediciner,7
 2026M06,(3214.3) Ortopædiingeniør,5
-2026M06,(3343.1) Administrativ assistent,529
+2026M06,(3343.1) Administrativ assistent,528
 2026M06,(3411.1) Sagsadministrator,52
 2026M06,(3411.1.99) Byggesagsbehandler,105
 2026M06,"(4224.99) Koordinator, hotel",10
-2026M06,Ledelse,13495
+2026M06,Ledelse,13501
 2026M06,(1111.6) Departementschef,6
 2026M06,(1112.3) Diplomat,15
 2026M06,(1112.6) Leder af offentlig forvaltning,146
@@ -30553,11 +30553,11 @@ periode,kategori,vaerdi
 2026M06,(1120.2.1) Regionsdirektør,5
 2026M06,(1120.3) Direktør,404
 2026M06,(1120.3.1) Lufthavnschef,5
-2026M06,(1120.4) Driftsleder,277
+2026M06,(1120.4) Driftsleder,281
 2026M06,(1120.4.991) Teknisk chef,83
-2026M06,"(1120.99.1) Daglig leder, sundhed",109
-2026M06,(1211.1) Økonomichef,186
-2026M06,(1211.1.1) Regnskabschef,65
+2026M06,"(1120.99.1) Daglig leder, sundhed",108
+2026M06,(1211.1) Økonomichef,187
+2026M06,(1211.1.1) Regnskabschef,66
 2026M06,(1211.1.4) Finanschef,29
 2026M06,(1212.1) Personalechef,57
 2026M06,(1212.1.1) Ligestillings- og inklusionschef,5
@@ -30566,18 +30566,18 @@ periode,kategori,vaerdi
 2026M06,(1213.95) Sekretariatschef,61
 2026M06,(1219.1) Administrationschef,56
 2026M06,(1219.1.2) Sikkerhedschef,12
-2026M06,(1219.4) Afdelingsleder,1535
-2026M06,"(1219.4.1) Afdelingsleder, offentlig",623
+2026M06,(1219.4) Afdelingsleder,1536
+2026M06,"(1219.4.1) Afdelingsleder, offentlig",626
 2026M06,"(1219.4.2) Afdelingsleder, privat",46
-2026M06,(1219.4.95) Områdechef,230
+2026M06,(1219.4.95) Områdechef,228
 2026M06,(1219.5) Facility manager,94
 2026M06,(1219.6) Projektleder,2292
-2026M06,(1219.6.99) Projektkoordinator,248
+2026M06,(1219.6.99) Projektkoordinator,250
 2026M06,(1219.7) Kvalitetschef,60
 2026M06,(1219.99) Kontorchef,272
 2026M06,(1219.99.1) Kontorleder,116
-2026M06,(1221.3.2.1) Salgschef,274
-2026M06,(1221.3.2.1.1) Produktchef,42
+2026M06,(1221.3.2.1) Salgschef,275
+2026M06,(1221.3.2.1.1) Produktchef,41
 2026M06,(1221.3.2.1.2) Kontraktchef,15
 2026M06,(1221.3.3) Marketingchef,138
 2026M06,(1221.4) Salgsdirektør,14
@@ -30586,19 +30586,19 @@ periode,kategori,vaerdi
 2026M06,(1223.2) Forskningschef,13
 2026M06,(1223.2.1) Udviklingschef,54
 2026M06,(1311.1) Skovrider,10
-2026M06,(1321.1) Produktionschef,56
+2026M06,(1321.1) Produktionschef,57
 2026M06,(1321.1.3) Driftschef,84
 2026M06,(1321.1.6) Teknisk serviceleder,57
 2026M06,(1324.3.1) Logistikchef,49
 2026M06,(1324.3.1.1) Transportchef,8
 2026M06,(1324.3.2) Import- og eksportchef,5
-2026M06,(1324.3.4.2) Indkøbschef,33
+2026M06,(1324.3.4.2) Indkøbschef,32
 2026M06,(1324.3.4.3) Ressourceleder,15
 2026M06,(1324.3.5) Lagerchef,82
 2026M06,(1330.1.1) Information- og videnchef IT,13
 2026M06,(1330.2) IT-chef,101
 2026M06,(1330.7) IT-projektleder,282
-2026M06,(1341.2) Dagtilbudsleder,155
+2026M06,(1341.2) Dagtilbudsleder,154
 2026M06,(1341.3) Vuggestueleder,72
 2026M06,"(1341.93) Daglig leder, institution for børn og unge",86
 2026M06,"(1341.94) Souschef, institution for børn og unge",26
@@ -30606,11 +30606,11 @@ periode,kategori,vaerdi
 2026M06,"(1341.96) Institutionsleder, ældre",12
 2026M06,"(1341.97) Institutionsleder, børn og unge",73
 2026M06,"(1341.98) Souschef, institution for ældre",9
-2026M06,"(1341.99) Daglig leder, institution",185
-2026M06,(1343.1) Plejehjemsleder,125
+2026M06,"(1341.99) Daglig leder, institution",186
+2026M06,(1343.1) Plejehjemsleder,130
 2026M06,"(1343.98) Daglig leder, institution for ældre",91
 2026M06,(1344.1.2) Leder af børne- og ungdomsklub,22
-2026M06,(1344.1.3) Børne- og ungekoordinator,22
+2026M06,(1344.1.3) Børne- og ungekoordinator,23
 2026M06,(1344.2) Afdelingschef,265
 2026M06,"(1344.2.4) Afdelingschef, privat",23
 2026M06,"(1344.2.5) Afdelingschef, offentlig",100
@@ -30635,16 +30635,16 @@ periode,kategori,vaerdi
 2026M06,(1349.8) Brandchef,5
 2026M06,(1411.1) Hotelchef,11
 2026M06,"(1411.9) Receptionschef, hotel",9
-2026M06,(1412.2) Restaurantchef,158
+2026M06,(1412.2) Restaurantchef,155
 2026M06,"(1412.95) Souschef, køkken",67
-2026M06,(1420.4) Butikschef,673
+2026M06,(1420.4) Butikschef,670
 2026M06,(1420.6) Regionschef,14
 2026M06,(1431.1.1) Centerleder,88
 2026M06,(1431.1.2) Produktionsleder inden for film og teater,5
 2026M06,(1439.1) Campingpladsbestyrer,5
 2026M06,(1439.3) Værkstedsleder,63
-2026M06,(2211.95) Overlæge,670
-2026M06,(2221.4) Ledende sygeplejerske,439
+2026M06,(2211.95) Overlæge,672
+2026M06,(2221.4) Ledende sygeplejerske,440
 2026M06,(2262.1) Apoteker,15
 2026M06,(2263.94) Vagtcentralleder,7
 2026M06,(2431.11) Markedsanalytiker,9
@@ -30656,8 +30656,8 @@ periode,kategori,vaerdi
 2026M06,(3122.4) Produktionsleder,113
 2026M06,(3123.1) Værkfører,171
 2026M06,"(3123.1.29) Arbejdsleder, produktion",19
-2026M06,"(3123.1.30) Arbejdsleder, bygge og anlæg",20
-2026M06,"(3139.99) Formand, drift og produktion",84
+2026M06,"(3123.1.30) Arbejdsleder, bygge og anlæg",16
+2026M06,"(3139.99) Formand, drift og produktion",82
 2026M06,(3151.2) Maskinmester,248
 2026M06,(3331.2) Speditionsleder,5
 2026M06,(3332.2.1) Arrangementchef,9
@@ -30665,3 +30665,1026 @@ periode,kategori,vaerdi
 2026M06,(5311.1.3.991) Dagplejeleder,12
 2026M06,(6113.2) Chef for gartneriproduktion,5
 2026M06,(6210.1) Skovfoged,7
+2026M09,Stillingsbetegnelse i alt,164600
+2026M09,"Sundhed, omsorg og personlig pleje",34534
+2026M09,(2221.2) Sygeplejerske,7953
+2026M09,(2221.3) Specialsygeplejerske,326
+2026M09,(2221.5) Sygeplejerske med akademisk overbygning,64
+2026M09,(2222.1) Jordemoder,253
+2026M09,(2230.1) Alternativ behandler,7
+2026M09,(2230.1.99) Zoneterapeut,5
+2026M09,(2263.3) Arbejdsmiljøkonsulent,98
+2026M09,(2264.3) Fysioterapeut,1105
+2026M09,(2264.51) Bevægelsespædagog,9
+2026M09,(2265.1) Ernærings- og sundhedskonsulent,85
+2026M09,(2265.51) Ernæringsassistent,947
+2026M09,(2266.1) Audiolog,30
+2026M09,(2269.2) Kiropraktor,13
+2026M09,(2269.4) Ergoterapeut,1130
+2026M09,(2269.6) Fodterapeut,16
+2026M09,(2269.8) Radiograf,128
+2026M09,(2269.9.4) Musikterapeut,23
+2026M09,(2269.95) Laborant,246
+2026M09,(2634.2.4) Psykoterapeut,65
+2026M09,(3114.1.5) Medicotekniker,16
+2026M09,(3141.2) Laboratorietekniker,39
+2026M09,(3211.99) Audiologiassistent,29
+2026M09,(3212.2) Laboratorieassistent,61
+2026M09,(3212.5) Bioanalytiker,413
+2026M09,(3213.1) Apotekerassistent,5
+2026M09,(3213.2) Apotekstekniker,5
+2026M09,(3214.2) Klinisk tandtekniker,12
+2026M09,(3251.1) Tandklinikassistent,326
+2026M09,(3251.2) Tandplejer,191
+2026M09,(3254.1) Optiker,38
+2026M09,(3255.3) Massageterapeut,5
+2026M09,(3255.95) Psykomotorisk terapeut,39
+2026M09,(3259.95) Neurofysiologiassistent,23
+2026M09,(3344.2) Lægesekretær,788
+2026M09,(3344.4) Administrativ lægesekretær,82
+2026M09,(3412.4.95) Plejehjemsmedhjælper,319
+2026M09,(5141.1) Frisør,100
+2026M09,(5142.1) Kosmetolog,28
+2026M09,(5142.6) Negletekniker,45
+2026M09,(5142.7) Massør,115
+2026M09,(5142.9) Stylist,10
+2026M09,(5162.1) Ledsager,268
+2026M09,(5223.7.24) Farmakonom,135
+2026M09,(5321.1) Social- og sundhedsassistent,10555
+2026M09,(5322.1) Social- og sundhedshjælper,6052
+2026M09,(5329.1) Hospitals-serviceassistent,303
+2026M09,(5329.9) Poder,5
+2026M09,(5329.97) Portør,71
+2026M09,(5329.98) Hospitalsmedhjælper,59
+2026M09,(5329.99) Handicaphjælper,1889
+2026M09,(7531.6) Parykmager,5
+2026M09,Undervisning og vejledning,8061
+2026M09,(1212.1.1.991) Ligestillingskonsulent,5
+2026M09,(2133.4) Naturvejleder,27
+2026M09,(2266.2) Logopæd,146
+2026M09,(2320.1.52) Ungdomsskolelærer,30
+2026M09,(2320.1.92) Aftenskolelærer,103
+2026M09,(2320.1.93) Faglærer,520
+2026M09,(2320.1.99) FVU-lærer,24
+2026M09,(2320.1.991) Ordblindelærer,11
+2026M09,(2320.1.992) Produktionsskolelærer,16
+2026M09,(2320.1.993) Musikpædadog,23
+2026M09,(2330.99) Højskolelærer,20
+2026M09,(2341.1) Folkeskolelærer,4780
+2026M09,(2341.1.1) Friskolelærer,172
+2026M09,(2341.1.991) Efterskolelærer,87
+2026M09,"(2341.96) Undervisningsassistent, folkeskole",26
+2026M09,(2341.97) Lærervikar,69
+2026M09,(2351.3.99) Skolekonsulent,60
+2026M09,(2352.1) Speciallærer,120
+2026M09,(2352.1.99) Tale-hørelærer,30
+2026M09,(2353.1) Sproglærer,113
+2026M09,(2356.1) IT-underviser,25
+2026M09,(2359.6) Uddannelses- og erhvervsvejleder,287
+2026M09,(2359.7) VUC-lærer,24
+2026M09,"(2359.99) Underviser, social- og sundhedsskoler",142
+2026M09,(2423.2) Job- og virksomhedskonsulent,390
+2026M09,(2635.3.7.98) Fagkonsulent,170
+2026M09,(2635.3.7.99) Faglig konsulent,358
+2026M09,"(2635.99.1) Sagsbehandler, kommunal",250
+2026M09,"(2635.99.2) Sagsbehandler, a-kasse",7
+2026M09,(3153.2.3) Flyinstruktør,6
+2026M09,(3423.1.2) Friluftsvejleder,5
+2026M09,(5165.1) Kørelærer,15
+2026M09,"Pædagogisk, socialt og kirkeligt arbejde",28366
+2026M09,(2342.1) Pædagog,12897
+2026M09,(2342.1.95) Pædagogmedhjælper,4696
+2026M09,(2342.1.96) Pædagogisk assistent,1444
+2026M09,(2342.99) Klubpædagog,139
+2026M09,(2352.1.7) Støttepædagog,145
+2026M09,(2359.93) Pædagogisk konsulent,237
+2026M09,(2359.99.1) Klubmedarbejder,129
+2026M09,(2635.1) Socialrådgiver,2192
+2026M09,(2635.1.2) Misbrugsbehandler,69
+2026M09,(2635.2) Socialpædagog,3020
+2026M09,(2635.3) Socialarbejder,305
+2026M09,(2635.3.13) Familievejleder,66
+2026M09,(2635.3.28) Social vicevært,11
+2026M09,(2635.3.29) Mentor,72
+2026M09,(2635.3.8) SSP-medarbejder,48
+2026M09,(2635.95) Socialformidler,143
+2026M09,(2635.99) Sagsbehandler,1155
+2026M09,(3412.4.5) Familiekonsulent,67
+2026M09,(3412.4.66) Familieplejer,51
+2026M09,(3413.2.991) Kordegn,85
+2026M09,(3413.95) Sognehjælper,41
+2026M09,(5153.1.3) Kirketjener,163
+2026M09,(5163.1) Graver,332
+2026M09,(5163.3) Bedemandsassistent,5
+2026M09,(5163.4) Bedemand,6
+2026M09,(5311.1.3) Børnepasser,57
+2026M09,(5311.1.99) Dagplejer,373
+2026M09,(5312.1) Skolepædagog,411
+2026M09,(5329.991) Forsorgsmedarbejder,7
+2026M09,Bygge og anlæg,5374
+2026M09,(1323.1) Byggeleder,183
+2026M09,(2142.1.2) Byggetekniker,52
+2026M09,(2144.1.8) VVS-tekniker,36
+2026M09,(3112.9) Kort- og landmålingstekniker,18
+2026M09,(3115.5) Oliefyrstekniker,5
+2026M09,(3123.99) Bygningskonstruktør,251
+2026M09,(7112.1) Murer,234
+2026M09,(7112.99) Brolæggerarbejde,14
+2026M09,(7112.99.1) Brolægger,116
+2026M09,(7113.1) Stenhugger,8
+2026M09,(7114.8) Anlægsstruktør,89
+2026M09,(7114.9) Bygningsstruktør,11
+2026M09,(7115.1) Tømrer,667
+2026M09,(7115.3) Køkkenmontør,16
+2026M09,(7115.9) Bygningssnedker,24
+2026M09,"(7115.99) Specialarbejder, tømrer",52
+2026M09,(7119.1) Stilladsmontør,5
+2026M09,(7119.2) Nedriver,118
+2026M09,(7119.99) Byggemontagetekniker,29
+2026M09,(7121.1) Tagdækker,16
+2026M09,(7121.2) Fugemontør,6
+2026M09,(7122.3) Gulvlægger,53
+2026M09,(7122.4) Flisemontør,5
+2026M09,(7123.2) Stukkatør,5
+2026M09,(7124.1) Isolatør,22
+2026M09,(7126.11) Kloakrørlægger,38
+2026M09,(7126.11.95) Rørlægger,76
+2026M09,(7126.19) Ventilationstekniker,89
+2026M09,(7126.2) Kloakmester,19
+2026M09,(7126.3) Gastekniker,9
+2026M09,(7126.51) VVS-montør,221
+2026M09,(7126.52) Blikkenslager,26
+2026M09,(7126.8) VVS-installatør,53
+2026M09,"(7126.99) Specialarbejder, VVS",20
+2026M09,(7127.1) HVAC-tekniker,23
+2026M09,(7131.1) Bygningsmaler,181
+2026M09,(7213.2.95) Rustfast industrimontør,6
+2026M09,(7214.51) Bådebygger,7
+2026M09,(7315.2) Glarmester,12
+2026M09,(7411.1) Elektriker,996
+2026M09,(7411.1.1) Elinstallatør,67
+2026M09,(7411.1.1.1) Serviceelektriker,29
+2026M09,(7411.1.5) Fibertekniker,102
+2026M09,(8113.10) Diamantskærer,15
+2026M09,(8113.2) Bore- og udvindingsarbejder,6
+2026M09,"(8172.99) Operatør, træ",25
+2026M09,"(8219.99) Rejsemontør, bygge og anlæg",15
+2026M09,(8341.2) Maskinfører,381
+2026M09,"(8342.3) Operatør, bygge og anlæg",16
+2026M09,(9312.1) Struktør,136
+2026M09,(9312.1.4) Asfaltør,88
+2026M09,"(9312.98) Specialarbejder, jord og beton",256
+2026M09,"(9312.99) Specialarbejder, kloak",50
+2026M09,(9313.1) Anlægsarbejder,87
+2026M09,"(9313.97) Specialarbejder, byggeri",255
+2026M09,"(9313.98) Specialarbejder, maler",28
+2026M09,"(9313.99) Specialarbejder, murer",7
+2026M09,"Jern, metal og auto",3917
+2026M09,(3113.1) Elektronikfagtekniker,126
+2026M09,(3115.1.22) Svejseinspektør,7
+2026M09,"(3117.3) Servicetekniker, jern og metal",51
+2026M09,(3119.8) Industritekniker,311
+2026M09,(7132.3) Autolakerer,42
+2026M09,(7211.1) Støberitekniker,7
+2026M09,(7212.3) Svejser,175
+2026M09,(7213.2) Plade- og konstruktionssmed,17
+2026M09,(7213.4) Klejnsmed,237
+2026M09,(7214.2) Skibsbygger,13
+2026M09,(7215.2.1) Skibsmontør,41
+2026M09,(7221.1) Smed,201
+2026M09,(7222.3) Låsesmed,18
+2026M09,(7222.4) Finmekaniker,12
+2026M09,(7222.5) Værktøjsmager,21
+2026M09,(7223.4) CNC-operatør,112
+2026M09,(7223.4.6) Fræser,11
+2026M09,(7223.7) Drejer,5
+2026M09,(7224.1) Jern- og metalsliber,6
+2026M09,(7231.10) Automekaniker,324
+2026M09,(7231.19) Motorcykelmekaniker,6
+2026M09,(7231.2) Karosserismed,31
+2026M09,(7231.52) Lastvognsmekaniker,105
+2026M09,(7231.7) Dækmontør,115
+2026M09,(7231.8) Mekaniker,599
+2026M09,(7231.99) Automontør,27
+2026M09,(7232.5) Flymekaniker,33
+2026M09,(7233.1) Entreprenørmaskinemekaniker,65
+2026M09,(7233.15) Driftsassistent,61
+2026M09,(7233.2) Kranmekaniker,18
+2026M09,(7233.8.1) Landbrugsmaskinemekaniker,29
+2026M09,(7234.1) Cykelmekaniker,54
+2026M09,(7234.99) Værkstedsassistent,107
+2026M09,(7311.1) Urmager,5
+2026M09,(7412.12) Vindmølleoperatør,5
+2026M09,(7412.3) Elektrotekniker,22
+2026M09,(7412.99) Automatiktekniker,167
+2026M09,(7421.7) Elektrofagtekniker,6
+2026M09,(7421.9) Servicetekniker,478
+2026M09,(7543.7.5) Autoteknolog,5
+2026M09,"(8219.98) Rejsemontør, industri",29
+2026M09,(8312.5.991) Klargører,60
+2026M09,"(9329.96) Specialarbejder, jern og metal",153
+2026M09,Industriel produktion,2923
+2026M09,"(2131.4.99) Specialarbejder, medicinal",5
+2026M09,(2144.1.5) Maskinkonstruktør,19
+2026M09,(2149.9) Materialetekniker,6
+2026M09,(2152.1.10) Sensortekniker,5
+2026M09,(3115.1.15) Produktionstekniker,104
+2026M09,(3119.14) Produktudvikler,30
+2026M09,(3119.2.1) Robottekniker,11
+2026M09,(3122.3) Produktionsteknolog,21
+2026M09,(3122.4.95) Produktspecialist,41
+2026M09,(4321.1.3) Produktionsmedarbejder,1900
+2026M09,(7114.1) Betonmager,20
+2026M09,(7132.1) Industrilakerer,45
+2026M09,(7233.7) Industrimekaniker,27
+2026M09,(8113.6) Offshorearbejder,12
+2026M09,"(8122.99) Operatør, jern og metal",119
+2026M09,"(8131.99) Operatør, kemisk",33
+2026M09,(8142.19) Plastmager,24
+2026M09,"(8142.99) Operatør, plastmager",9
+2026M09,"(8159.99) Operatør, tekstil",13
+2026M09,(8183.3) Procesoperatør,138
+2026M09,(8189.7) Forsyningsoperatør,26
+2026M09,"(8189.90) Operatør, serviceindustri",6
+2026M09,(8189.91) Maskinoperatør,75
+2026M09,"(8189.95) Operatør, emballage",7
+2026M09,"(8189.97) Operatør, logistik",5
+2026M09,"(8189.98) Operatør, pharma",5
+2026M09,"(8189.99) Industrioperatør, uddannet",55
+2026M09,"(8189.99.2) Industrioperatør, ikke uddannet",66
+2026M09,(8212.2) Elektronikarbejder,71
+2026M09,(8212.2.3) Ledningsmontør,5
+2026M09,"(9329.95) Specialarbejder, glasfiber",10
+2026M09,"(9329.98) Specialarbejder, papir og karton",5
+2026M09,"(9329.99) Specialarbejder, sprøjtestøbning og ekstrudering",5
+2026M09,"Kontor, administration, regnskab og finans",5813
+2026M09,(1312.4) Forretningsudvikler,162
+2026M09,"(1439.98) Receptionschef, kontor",5
+2026M09,(2351.1) Studiesekretær,58
+2026M09,(2412.2) Finansrådgiver,51
+2026M09,(2413.2) Økonomiassistent,395
+2026M09,(2643.2) Tolk,93
+2026M09,(2643.5) Tegnsprogstolk,5
+2026M09,(2643.6) Oversætter,10
+2026M09,(3311.2.5) Børsmægler,5
+2026M09,(3312.1) Bankrådgiver,102
+2026M09,(3312.6) Realkreditmedarbejder,5
+2026M09,(3312.99) Finansmedarbejder,57
+2026M09,(3313.1) Bogholderi- og regnskabsassistent,545
+2026M09,(3313.2) Bogholder,473
+2026M09,(3315.3) Assurandør,78
+2026M09,(3315.5) Taksator,15
+2026M09,(3315.8) Valuar,5
+2026M09,(3331.2.1) Import- og eksportmedarbejder,12
+2026M09,(3332.1) Eventassistent,46
+2026M09,(3341.8) Kontorfuldmægtig,218
+2026M09,(3341.8.95) Overassistent,69
+2026M09,(3342.2) Advokatsekretær,33
+2026M09,(3343.3) Direktionssekretær,95
+2026M09,(3351.1) Tolder,20
+2026M09,(4110.1) Kontormedhjælper,1480
+2026M09,(4110.1.99) Kursuskoordinator,27
+2026M09,(4120.1) Sekretær,524
+2026M09,(4120.99) Skolesekretær,190
+2026M09,(4131.1) Tasteoperatør,5
+2026M09,(4211.1) Bankassistent,19
+2026M09,(4214.1) Inkassomedarbejder,17
+2026M09,(4223.1) Telefonist,27
+2026M09,(4226.1) Natportier,28
+2026M09,"(4226.2) Receptionist, kontor",153
+2026M09,(4312.1) Revisorassistent,17
+2026M09,(4312.4) Forsikringsfunktionær,42
+2026M09,(4312.7) Skattefunktionær,5
+2026M09,(4313.1) Lønbogholder,183
+2026M09,(4323.15) Havnefoged,10
+2026M09,(4323.15.991) Havneassistent,19
+2026M09,(4323.20.98) Shippingassistent,18
+2026M09,(4323.20.99) Shippingmedarbejder,19
+2026M09,(4413.1) Korrekturlæser,5
+2026M09,(4415.1) Arkivmedarbejder,20
+2026M09,(4416.1) HR-assistent,114
+2026M09,(4419.2) Korrespondent,5
+2026M09,"(4419.95) Piccolo / piccoline, kontor",115
+2026M09,(5153.9) Ministerialbetjent,8
+2026M09,(9333.2) Speditør,206
+2026M09,"Salg, indkøb og markedsføring",10131
+2026M09,(1221.3.2.1.4) E-commerce manager,28
+2026M09,(1420.3) Salgs- og kundeansvarlig,382
+2026M09,"(2412.4.1) Relationship manager, finans",5
+2026M09,(2431.1) Tekstforfatter,25
+2026M09,(2431.10) Marketingmedarbejder,594
+2026M09,(2431.5) Virksomhedsudvikler,40
+2026M09,(2431.9) Serviceøkonom,5
+2026M09,(2432.6) Kampagnemedarbejder,9
+2026M09,(2619.1) Contract manager,72
+2026M09,(3322.2) Salgskonsulent,686
+2026M09,(3322.99) Account manager,405
+2026M09,(3323.2) Indkøber,427
+2026M09,(3324.1) Varemægler,5
+2026M09,(3324.1.1) Skibsmægler,5
+2026M09,(3324.4) Grossist,17
+2026M09,(3334.3) Ejendomsmægler,172
+2026M09,(3339.1) Reklamekonsulent,6
+2026M09,(3339.2) Auktionsleder,5
+2026M09,(3343.1.5) Indkøbsassistent,54
+2026M09,(3432.2) Merchandiser,102
+2026M09,(3432.6) Visual merchandiser,57
+2026M09,(4225.1) Kundeservicemedarbejder,1293
+2026M09,(4227.1) Interviewer,214
+2026M09,(4311.2) Assistent til salgssupport,344
+2026M09,(5223.4) Salgsassistent,1405
+2026M09,(5223.5) Ordrebehandler,31
+2026M09,(5223.6) Butiksassistent,2161
+2026M09,(5223.7.16) Fiskehandler,8
+2026M09,(5223.7.17) Farvehandler,5
+2026M09,(5223.7.18) Blomsterbinder,16
+2026M09,(5223.7.6) Boghandler,5
+2026M09,(5223.7.8) Ekspedient,198
+2026M09,(5223.7.99) Blomsterdekoratør,14
+2026M09,(5230.1) Kasseassistent,147
+2026M09,(5244.1) Call centermedarbejder,394
+2026M09,"(5249.95) Logistikmedarbejder, salg og indkøb",100
+2026M09,(7515.9) Vinkyper,5
+2026M09,(9334.1) Butiksmedhjælper,479
+2026M09,(9411.2) Fast food ekspedient,211
+2026M09,"Medie, kultur, turisme, idræt og underholdning",2135
+2026M09,(1439.99) Turistchef,5
+2026M09,(2163.1.2) Kostumedesigner,5
+2026M09,"(2166.3) Film-, TV- og animationsarbejder",7
+2026M09,(2166.4.2) Caster,5
+2026M09,(2166.4.3) Filmfotograf,5
+2026M09,(2166.4.6) Sceneinstruktør,5
+2026M09,(2166.4.8) Filminstruktør,5
+2026M09,(2354.1) Musiklærer,278
+2026M09,(2354.1.1) Sanglærer,16
+2026M09,(2355.2) Danselærer,10
+2026M09,(2422.13) Idrætsinstruktør og -konsulent,23
+2026M09,(2431.7) Kreativ chef,5
+2026M09,(2513.4) Webredaktør,22
+2026M09,(2621.2.95) Kustode,5
+2026M09,(2641.2) Dramaturg,5
+2026M09,(2641.4.2) Manuskriptforfatter,5
+2026M09,(2641.4.4) Teknisk kommunikator,5
+2026M09,(2641.99) Forlagskonsulent,5
+2026M09,(2642.1) Journalist,98
+2026M09,(2642.1.10) Researcher,98
+2026M09,(2642.99) Kommunikationsmedarbejder,232
+2026M09,(2643.6.2) Tekster,14
+2026M09,(2651.5) Kunstner,61
+2026M09,(2652.3) Musiker,244
+2026M09,(2652.3.1) Dirigent,10
+2026M09,(2652.3.1.1) Korleder,23
+2026M09,(2652.3.2) Korsanger,174
+2026M09,(2653.1) Koreograf,5
+2026M09,(2653.2) Danser,5
+2026M09,(2654.2) Producer,23
+2026M09,(2654.2.991) TV-producer,5
+2026M09,(2654.4) Filmklipper,5
+2026M09,(2655.1) Skuespiller,13
+2026M09,(3332.2) Eventmanager,24
+2026M09,(3343.2) Redaktionssekretær,5
+2026M09,"(3421.1) Sportsudøver, prof.",5
+2026M09,"(3422.4) Sportstræner, prof.",10
+2026M09,(3422.5.4) Skilærer,5
+2026M09,(3422.5.991) Yogalærer,6
+2026M09,(3423.2) Fitness-instruktør,35
+2026M09,(3423.2.2) Personlig træner,7
+2026M09,(3423.3) Ridelærer,8
+2026M09,(3431.1) Fotograf,34
+2026M09,(3431.2) Fotojournalist,5
+2026M09,(3432.5) Scenograf,5
+2026M09,(3435.1) Instruktørassistent,8
+2026M09,(3435.11) Lysdesigner,5
+2026M09,(3435.12) Lystekniker,5
+2026M09,"(3435.13) Researcher, film og tv",5
+2026M09,(3435.20) Regissør,5
+2026M09,(3435.23) Teatertekniker,5
+2026M09,(3435.23.3) Teatermedarbejder,5
+2026M09,(3435.23.4) Scenefunktionær,5
+2026M09,"(3435.23.5) Driftstekniker, film-, TV- og teater",5
+2026M09,(3435.99) Kulturmedarbejder,95
+2026M09,(3521.1) AV tekniker,12
+2026M09,(3521.1.11) Tonemester,5
+2026M09,(3521.1.3) Kameramand,5
+2026M09,(3521.1.7) Studietekniker,5
+2026M09,(3521.2) Tekniker radio- og TV-udsendelser,5
+2026M09,(4212.5) Croupier,5
+2026M09,(4221.3) Medarbejder på turistkontor,6
+2026M09,(4221.4) Rejsebureaumedarbejder,11
+2026M09,(4221.7) Rejsekonsulent,14
+2026M09,(4411.1) Biblioteksassistent,35
+2026M09,(5113.1) Guide,88
+2026M09,(5141.1.4) Frisør inden for teater- og TV-branchen,5
+2026M09,(5153.51) Museumsmedhjælper,58
+2026M09,(5241.2) Model,43
+2026M09,(7312.2) Lydtekniker,6
+2026M09,(7312.3.2) Orgelbygger,6
+2026M09,(7312.6) Instrumentbygger,5
+2026M09,(7312.6.1) Guitarbygger,5
+2026M09,(7531.1) Kostumier,5
+2026M09,(8132.2) Fotografmedhjælper,6
+2026M09,(9129.3) Bademester,10
+2026M09,(9129.3.99) Badeassistent,9
+2026M09,(9212.3) Rideskoleassistent,7
+2026M09,(9629.2) Forlystelsesmedarbejder,61
+2026M09,It og teleteknik,4037
+2026M09,(1223.3) IT-Product manager,42
+2026M09,(1330.1) Chief data officer,6
+2026M09,(1330.6.10) IT-Product owner,52
+2026M09,(2152.1.1) Hardware-udvikler,13
+2026M09,(2511.1) IT-ingeniør,295
+2026M09,(2511.13) IT-arkitekt,206
+2026M09,(2511.17) IT-revisor,6
+2026M09,(2511.19) Digitaliseringskonsulent,85
+2026M09,(2511.3) Datalog,9
+2026M09,(2511.9) IT-konsulent,789
+2026M09,(2512.3) Programmør og systemudvikler,639
+2026M09,"(2512.3.99) Softwareudvikler, backend",176
+2026M09,(2512.51) Computerspiludvikler,5
+2026M09,"(2512.99) Softwareudvikler, frontend",44
+2026M09,(2513.3) UX designer,53
+2026M09,(2513.5) Webudvikler,114
+2026M09,(2519.1) Datakonsulent,87
+2026M09,(2519.6.4) IT-kvalitetsmedarbejder,94
+2026M09,(2521.1) Databaseadministrator,18
+2026M09,(2522.1) Systemadministrator,272
+2026M09,(2529.6) IT-sikkerhedskonsulent,111
+2026M09,(2619.4) Databeskyttelsesrådgiver,34
+2026M09,(3511.99) Datatekniker,35
+2026M09,(3512.1) IT-supporter,409
+2026M09,(3512.4) IT-tekniker,163
+2026M09,(3514.1) Webmaster,267
+2026M09,(7422.6) Teletekniker,13
+2026M09,"Transport, post, lager- og maskinførerarbejde",5489
+2026M09,(1324.3.108) Distributionschef,7
+2026M09,(3151.3) Maskinassistent,9
+2026M09,(3151.4) Skibsmaskinist,7
+2026M09,(3152.3) Lods,19
+2026M09,(3152.4) Skibsfører,44
+2026M09,(3152.9) Styrmand,22
+2026M09,(3153.2) Pilot,5
+2026M09,(3153.2.4) Helikopterfører,5
+2026M09,(3153.4) Dronepilot,2
+2026M09,(3154.1) Flyveleder,32
+2026M09,(3154.3) Flyveklarerer,5
+2026M09,(3155.5) Flytekniker,5
+2026M09,(4221.1) Trafikassistent,12
+2026M09,(4321.1) Lagerforvalter,32
+2026M09,(4323.1) Lufthavnsoperatør,11
+2026M09,(4323.16) Overstyrmand,12
+2026M09,(4323.2) Flyklarerer,5
+2026M09,(4412.2) Postfunktionær,21
+2026M09,(5111.1) Purser,5
+2026M09,(5111.2) Steward / stewardesse,39
+2026M09,(5111.2.3) Togsteward / -stewardesse,5
+2026M09,(5112.1) Togfører,39
+2026M09,(5112.2) Trafikinformationsmedarbejder,14
+2026M09,(5223.2) Reservedelsekspedient,90
+2026M09,(7233.9) Skibsmekaniker,5
+2026M09,(8311.1) Lokomotivfører,90
+2026M09,(8312.5) Togklargører,42
+2026M09,"(8322.2) Chauffør, budtransport, køretøj under 3½ ton",145
+2026M09,"(8322.6) Chauffør, persontransport",353
+2026M09,(8322.7) Taxichauffør,53
+2026M09,(8331.1) Buschauffør,163
+2026M09,"(8332.4) Chauffør, specialtransport",215
+2026M09,"(8332.6) Chauffør, dyretransport",10
+2026M09,"(8332.7) Chauffør, fragt, distribution, blandet kørsel",785
+2026M09,"(8332.98) Chauffør, tankvogn",18
+2026M09,(8343.2) Kranfører,46
+2026M09,(8344.1) Truckfører,324
+2026M09,(8350.99) Skibsassistent,26
+2026M09,(9321.2) Pakkerimedarbejder,212
+2026M09,(9331.1) Cykelbud,28
+2026M09,(9333.4) Flyttemand,65
+2026M09,(9333.6) Havnearbejder,6
+2026M09,(9333.8) Lager- og logistikmedarbejder,2201
+2026M09,(9333.8.1) Lagerekspedient,96
+2026M09,(9333.95) Kørselsleder,37
+2026M09,(9510.1) Omdeler,122
+2026M09,"Hotel, restauration, køkken, kantine",6123
+2026M09,(2265.52) Klinisk Diætist,63
+2026M09,(3434.1) Køkkenchef,354
+2026M09,(4221.2) Vært/Værtinde,198
+2026M09,"(4224.1) Receptionist, hotel",106
+2026M09,(5111.2.2.92) Cater,81
+2026M09,(5120.1) Kok,1742
+2026M09,(5120.1.4.992) Økonoma,14
+2026M09,(5120.1.95) Smørrebrødsjomfru,26
+2026M09,(5131.1) Vært i restaurant,139
+2026M09,(5131.2) Tjener,792
+2026M09,(5131.2.2) Sommelier,7
+2026M09,(5131.2.95) Serveringsmedarbejder,167
+2026M09,(5131.2.99) Cafemedarbejder,327
+2026M09,(5132.1) Bartender,184
+2026M09,(5132.1.1) Barista,43
+2026M09,(5151.2) Oldfrue,44
+2026M09,(5223.7.13) Delikatesseassistent,173
+2026M09,(9112.99) Hotelmedarbejder,44
+2026M09,(9411.1) Pizzabager,52
+2026M09,(9412.1) Køkkenmedhjælper,1284
+2026M09,(9412.2) Opvasker,283
+2026M09,"Rengøring, ejendomsservice og renovation",6461
+2026M09,(3334.5) Ejendomsadministrator,82
+2026M09,(5151.95) Rengøringsinspektør,82
+2026M09,(5153.1) Vicevært,232
+2026M09,(5153.1.95) Pedel,222
+2026M09,(5153.1.96) Pedelmedhjælper,54
+2026M09,(5153.53) Ejendomsfunktionær,183
+2026M09,(5153.54) Teknisk servicemedarbejder,365
+2026M09,(5153.99) Halinspektør,16
+2026M09,(7133.3) Skorstensfejer,6
+2026M09,(8157.1) Vaskeriassistent,23
+2026M09,(9111.9) Rengøringsassistent i kontor,115
+2026M09,(9112.2) Rengøringsassistent,3927
+2026M09,"(9112.51) Rengøringsassistent, hotel",72
+2026M09,"(9112.52) Rengøringsassistent, privat",67
+2026M09,"(9112.53) Rengøringsassistent, industri",267
+2026M09,"(9112.54) Rengøringsassistent, hospital",174
+2026M09,(9112.9) Rengøringsassistent i transportmidler,6
+2026M09,(9123.1) Vinduespudser,121
+2026M09,(9611.1) Renovationsarbejder,147
+2026M09,"(9622.1) Servicetekniker, rengøring og ejendomsservice",286
+2026M09,(9623.1) Måleraflæser,7
+2026M09,(9629.5) Renseriassistent,7
+2026M09,"Design, formgivning og grafisk arbejde",532
+2026M09,(2163.1.3) Designer,169
+2026M09,(2163.1.3.95) Designassistent,26
+2026M09,(2166.10) Mediegrafiker,45
+2026M09,(2166.4) Artdirector,5
+2026M09,(2166.4.991) Artdirector assistent,5
+2026M09,(2166.8) Multimediedesigner,68
+2026M09,(2651.6) Tegner,26
+2026M09,(2651.9) Gravør,5
+2026M09,(2659.95) Kunsthåndværker,5
+2026M09,(3118.3.2) Teknisk designer,96
+2026M09,(3432.1.1) Indretningsarkitekt,11
+2026M09,(7313.1.2) Guld- og sølvsmed,5
+2026M09,(7316.4) Skiltemaler,26
+2026M09,(7321.1.5) Grafisk tekniker,16
+2026M09,(7322.5) Trykkeriarbejder,10
+2026M09,(7522.51) Møbelarkitekt,5
+2026M09,"(8132.2.99) Servicemedarbejder, foto",9
+2026M09,"Vagt, sikkerhed og overvågning",3233
+2026M09,(0110.2) Officer,766
+2026M09,(0210.2) Sergent,630
+2026M09,(0310.3) Konstabel,259
+2026M09,(1439.3.99) Bilsynsassistent,27
+2026M09,(2263.1.97) Vagtcentralassistent,6
+2026M09,(2263.1.98) Vagtcentralmedarbejder,23
+2026M09,(3112.1.6) Brandinspektør,30
+2026M09,(3258.1) Ambulancefører,98
+2026M09,(3258.2) Paramediciner,26
+2026M09,(3411.8) Detektiv,18
+2026M09,(3411.8.1) Butiksdetektiv,14
+2026M09,(5112.3.1) Kontrollør,18
+2026M09,(5153.96) Museumsbetjent,19
+2026M09,(5411.1) Brandmand,58
+2026M09,(5411.1.4.98) Redder,43
+2026M09,(5412.1) Politibetjent / -assistent,7
+2026M09,(5413.2) Fængselsfunktionær,210
+2026M09,"(5414.1) Sikkerhedsmedarbejder, vagt, sikkerhed og overvågning",439
+2026M09,(5414.1.5) Dørmand,22
+2026M09,(5414.1.6) Vagt,247
+2026M09,(5419.2) Parkeringsvagt,63
+2026M09,(5419.5) Nødhjælpsarbejder,5
+2026M09,(5419.6) Livredder,186
+2026M09,(7541.3) Erhvervsdykker,5
+2026M09,(9629.4) Garderobeassistent,14
+2026M09,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje",1867
+2026M09,(1312.1) Fiskeriteknolog,6
+2026M09,(2132.5) Skovbrugsrådgiver,5
+2026M09,(3111.14) Jordbrugsteknolog,37
+2026M09,(3143.9) Skov- og naturtekniker,25
+2026M09,(3240.2) Dyreklinikassistent,5
+2026M09,(3240.2.1) Inseminør,5
+2026M09,(3240.2.4) Veterinærsygeplejerske,32
+2026M09,(3240.2.4.1) Veterinærsygehjælper,5
+2026M09,(3359.3) Fiskeribetjent,5
+2026M09,(5164.1.1) Hundefrisør,5
+2026M09,(5164.2) Hundefører,7
+2026M09,(5164.2.1.1) Hundetræner,5
+2026M09,(5164.2.1.2) Hestetræner,5
+2026M09,(5164.3) Medarbejder på et dyreinternat,7
+2026M09,"(6111.1) Driftsleder, landbrug",13
+2026M09,(6113.11) Greenkeeper,27
+2026M09,(6113.4) Gartneriarbejder,112
+2026M09,(6113.6) Anlægsgartner,391
+2026M09,(6113.6.991) Anlægsgartnerarbejder,80
+2026M09,(6121.2) Staldmester,6
+2026M09,(6121.99) Fodermester,8
+2026M09,(6129.1) Pelsdyravler,5
+2026M09,(6130.1) Landmand,28
+2026M09,"(6130.99) Forvalter, landbrug",5
+2026M09,(6221.7) Fiskeassistent,7
+2026M09,(6222.1) Fisker,68
+2026M09,(6224.1) Skytte,208
+2026M09,(9212.4) Dyrepasser,49
+2026M09,(9213.1) Landbrugsmedhjælper,56
+2026M09,(9214.1) Gartner,313
+2026M09,(9214.1.991) Væksthusgartner,11
+2026M09,(9215.1) Skovarbejder,33
+2026M09,(9216.2) Dambrugsarbejder,8
+2026M09,"(9312.97) Specialarbejder, grønne områder",285
+2026M09,Tekstil og beklædning,164
+2026M09,(2163.1.3.1) Beklædningsdesigner,5
+2026M09,(2163.1.6) Modelkonstruktør,5
+2026M09,(2163.1.8) Tekstildesigner,5
+2026M09,(3323.2.4) Designteknolog,5
+2026M09,(7122.1) Tæppemontør,9
+2026M09,(7322.10) Tekstiltrykker,5
+2026M09,(7531.5) Skrædder,81
+2026M09,(7534.3) Sadelmager,7
+2026M09,(7534.3.1) Møbelpolstrer,9
+2026M09,(7534.3.95) Sejlmager,7
+2026M09,(7536.2) Skomager,6
+2026M09,(7536.2.6) Ortopædiskomager,5
+2026M09,(8155.1.3) Garver,5
+2026M09,"(9329.97) Specialarbejder, læder",5
+2026M09,"(9329.99.1) Specialarbejder, tekstil",5
+2026M09,Nærings- og nydelsesmiddel,788
+2026M09,(1420.4.5) Bagermester,16
+2026M09,(2145.1.2) Brygmester,5
+2026M09,(2145.1.4) Fødevareteknolog,8
+2026M09,"(2145.1.99) Tilsynstekniker, fødevarer",53
+2026M09,(2263.2) Fødevareinspektør,6
+2026M09,"(2263.5) Kvalitetsmedarbejder, nærings- og nydelsesmiddel",5
+2026M09,(3119.99) Procesteknolog,17
+2026M09,(3257.3) Levnedsmiddelinspektør,5
+2026M09,(7511.1) Slagtermester,49
+2026M09,(7511.3) Fiskeindustriarbejder,27
+2026M09,(7511.4) Slagteriarbejder,129
+2026M09,(7511.6) Industrislagter,64
+2026M09,(7511.99) Butiks- og detailslagter,30
+2026M09,(7512.1) Bager,159
+2026M09,(7512.3) Konditor,69
+2026M09,(7512.99) Bageriarbejder,28
+2026M09,(7513.1) Mejerist,25
+2026M09,(7513.2) Mejeriarbejder,7
+2026M09,(7515.3) Levnedsmiddeltekniker,5
+2026M09,(8160.2) Fabriksbager,5
+2026M09,(8160.45) Møller,6
+2026M09,(8160.7) Bryggeriarbejder,9
+2026M09,"(8160.99) Operatør, fødevarer",52
+2026M09,"(8189.96) Operatør, drikkevarer",9
+2026M09,"Træ, møbel, glas og keramik",132
+2026M09,(2651.4) Keramiker,5
+2026M09,(7314.2) Pottemager,5
+2026M09,(7315.1) Glasmager,5
+2026M09,(7316.1.3) Porcelænsmaler,5
+2026M09,(7522.2) Møbelsnedker,31
+2026M09,(7523.3) Maskinsnedker,76
+2026M09,"(8181.7) Operatør, glas",5
+2026M09,Akademisk arbejde,21260
+2026M09,(1213.2) Chefstrateg,6
+2026M09,(1219.2) CSR-ansvarlig,5
+2026M09,(1324.3.4) Supply chain manager,52
+2026M09,(1349.19) Kommunikationskoordinator,33
+2026M09,(2111.1) Astronom,13
+2026M09,(2111.3) Fysiker,9
+2026M09,(2111.40) Hospitalsfysiker,7
+2026M09,(2112.1) Meteorolog,13
+2026M09,(2112.1.2) Klimaforsker,8
+2026M09,(2112.2) Metrolog,5
+2026M09,(2113.1) Kemiker,29
+2026M09,(2114.1) Geolog,36
+2026M09,(2114.2) Geofysiker,5
+2026M09,(2120.2) Demograf,5
+2026M09,(2120.5) Matematiker,8
+2026M09,(2120.6) Statistiker,11
+2026M09,(2131.4) Biolog,124
+2026M09,(2131.4.1) Havbiolog,5
+2026M09,(2131.4.2) Biokemiker,12
+2026M09,(2131.4.6) Botaniker,5
+2026M09,(2131.4.95) Molekylærbiolog,30
+2026M09,(2131.7) Farmakolog,5
+2026M09,(2132.2) Agronom,9
+2026M09,(2132.6) Landbrugskonsulent,13
+2026M09,(2132.99) Økologikonsulent,5
+2026M09,(2133.13) Bæredygtighedskonsulent,14
+2026M09,(2133.2) Miljøanalytiker,9
+2026M09,(2133.6) Miljøkoordinator,48
+2026M09,(2133.9) Miljøkonsulent,116
+2026M09,(2141.11) Driftsplanlægger,64
+2026M09,(2141.3.1.99) Mejeriingeniør,5
+2026M09,(2141.3.2) Produktionsingeniør,58
+2026M09,(2141.3.2.1) Automationsingeniør,32
+2026M09,(2141.3.2.2) Levnedsmiddelingeniør,5
+2026M09,(2141.6) Logistiker,10
+2026M09,(2141.9) Procesingeniør,29
+2026M09,"(2142.1) Civilingeniør, bygge og anlæg",74
+2026M09,(2142.99) Civilingeniør,182
+2026M09,(2143.1) Miljøingeniør,60
+2026M09,(2144.1) Maskiningeniør,138
+2026M09,(2144.1.10) Skibsingeniør,7
+2026M09,(2145.1) Kemiingeniør,38
+2026M09,(2149.14) Testingeniør,10
+2026M09,(2149.2.4) Designingeniør,8
+2026M09,(2149.2.7) Kvalitetsingeniør,76
+2026M09,(2149.7) Energiingeniør,37
+2026M09,(2151.1) Elektroingeniør,57
+2026M09,(2152.1) Elektronikingeniør,182
+2026M09,(2152.1.5) Medicoingeniør,8
+2026M09,(2153.1) Telekommunikationsingeniør,7
+2026M09,(2161.1) Arkitekt,320
+2026M09,(2162.1) Landskabsarkitekt,37
+2026M09,(2162.1.1) Havearkitekt,5
+2026M09,(2163.1) Industriel designer,5
+2026M09,(2164.2) Trafikplanlægger,86
+2026M09,(2164.3) Byplanlægger,137
+2026M09,(2165.3) GIS-medarbejder,13
+2026M09,(2165.99) Landinspektør,27
+2026M09,(2211.98) Sygehuslæge,46
+2026M09,(2211.99) Læge,1753
+2026M09,(2211.99.1) Uddannelseslæge,380
+2026M09,(2212.1) Speciallæge,652
+2026M09,(2212.52) Lægemiddelkonsulent,8
+2026M09,(2250.3) Dyrlæge,127
+2026M09,(2261.1) Tandlæge,390
+2026M09,(2262.99) Farmaceut,84
+2026M09,(2310.1) Lektor,185
+2026M09,"(2310.1.13) Adjunkt, naturvidenskab og teknik",62
+2026M09,(2310.1.17) Kunstlærer,5
+2026M09,"(2310.1.19) Lektor, sundhedsvidenskab",23
+2026M09,"(2310.1.19.51) Post doc., sundhedsvidenskab",169
+2026M09,"(2310.1.19.988) Ekstern lektor, sundhedsvidenskab",46
+2026M09,"(2310.1.19.989) Assistant professor, sundhedsvidenskab",6
+2026M09,"(2310.1.19.99) Adjunkt, sundhedsvidenskab",37
+2026M09,"(2310.1.19.991) Associate professor, sundhedsvidenskab",8
+2026M09,"(2310.1.19.992) Associate professor, teologi",5
+2026M09,"(2310.1.19.994) Forsker, sundhedsvidenskab",66
+2026M09,"(2310.1.19.995) Forskningsassistent, sundhedsvidenskab",68
+2026M09,"(2310.1.19.996) Ph.d., sundhedsvidenskab",169
+2026M09,"(2310.1.19.997) Professor, sundhedsvidenskab",35
+2026M09,"(2310.1.19.998) Senior forsker, sundhedsvidenskab",14
+2026M09,"(2310.1.19.999) Undervisningsassistent, sundhedsvidenskab",51
+2026M09,"(2310.1.19.9991) Videnskabelig assistent, sundhedsvidenskab",39
+2026M09,"(2310.1.20.) Lektor, humaniora",5
+2026M09,"(2310.1.20.979) Forsker, humaniora",5
+2026M09,"(2310.1.20.989) Adjunkt, humaniora",28
+2026M09,"(2310.1.20.991) Assistant professor, humaniora",5
+2026M09,"(2310.1.20.992) Associate professor, humaniora",5
+2026M09,"(2310.1.20.993) Ekstern lektor, humaniora",35
+2026M09,"(2310.1.20.994) Forskningsassistent, humaniora",5
+2026M09,"(2310.1.20.995) Ph.d., humaniora",28
+2026M09,"(2310.1.20.996) Professor, humaniora",8
+2026M09,"(2310.1.20.997) Senior forsker, humaniora",5
+2026M09,"(2310.1.20.998) Undervisningsassistent, humaniora",43
+2026M09,"(2310.1.20.999) Videnskabelig assistent, humaniora",26
+2026M09,"(2310.1.24) Lektor, naturvidenskab og teknik",35
+2026M09,"(2310.1.24.51) Post doc., naturvidenskab og teknik",303
+2026M09,"(2310.1.24.991) Assistant professor, naturvidenskab og teknik",12
+2026M09,"(2310.1.24.992) Associate professor, naturvidenskab og teknik",9
+2026M09,"(2310.1.24.993) Ekstern lektor, naturvidenskab og teknik",26
+2026M09,"(2310.1.24.994) Forsker, naturvidenskab og teknik",73
+2026M09,"(2310.1.24.995) Forskningsassistent, naturvidenskab og teknik",16
+2026M09,"(2310.1.24.996) Ph.d., naturvidenskab og teknik",836
+2026M09,"(2310.1.24.997) Professor, naturvidenskab og teknik",12
+2026M09,"(2310.1.24.998) Senior forsker, naturvidenskab og teknik",9
+2026M09,"(2310.1.24.999) Undervisningsassistent, naturvidenskab og teknik",439
+2026M09,"(2310.1.24.9991) Videnskabelig assistent, naturvidenskab og teknik",25
+2026M09,(2310.1.30) Lærer på skuespillerskole,5
+2026M09,"(2310.1.34) Lektor, samfundsvidenskab",25
+2026M09,"(2310.1.34.51) Post doc., samfundsvidenskab",73
+2026M09,"(2310.1.34.99) Adjunkt, samfundsvidenskab",19
+2026M09,"(2310.1.34.991) Assistant professor, samfundsvidenskab",18
+2026M09,"(2310.1.34.992) Associate professor, samfundsvidenskab",17
+2026M09,"(2310.1.34.994) Ekstern lektor, samfundsvidenskab",91
+2026M09,"(2310.1.34.996) Forskningsassistent, samfundsvidenskab",13
+2026M09,"(2310.1.34.997) Ph.d., samfundsvidenskab",95
+2026M09,"(2310.1.34.998) Professor, samfundsvidenskab",12
+2026M09,"(2310.1.34.999) Senior forsker, samfundsvidenskab",5
+2026M09,"(2310.1.34.9991) Undervisningsassistent, samfundsvidenskab",110
+2026M09,"(2310.1.34.9992) Videnskabelig assistent, samfundsvidenskab",23
+2026M09,"(2310.1.34.9994) Forsker, samfundsvidenskab",11
+2026M09,"(2310.1.36.978) Forsker, teologi",5
+2026M09,"(2310.1.36.99) Adjunkt, teologi",5
+2026M09,"(2310.1.36.991) Assistant professor, teologi",5
+2026M09,"(2310.1.36.993) Ekstern lektor, teologi",5
+2026M09,"(2310.1.36.994) Forskningsassistent, teologi",5
+2026M09,"(2310.1.36.995) Lektor, teologi",5
+2026M09,"(2310.1.36.996) Ph.d., teologi",8
+2026M09,"(2310.1.36.997) Professor, teologi",5
+2026M09,"(2310.1.36.998) Senior forsker, teologi",5
+2026M09,"(2310.1.36.999) Undervisningsassistent, teologi",7
+2026M09,"(2310.1.36.9991) Videnskabelig assistent, teologi",5
+2026M09,"(2310.1.4) Lektor, kunstakademi",5
+2026M09,"(2310.1.4.991) Assistant professor, kunstakademi",5
+2026M09,"(2310.1.4.992) Associate professor, kunstakademi",5
+2026M09,"(2310.1.4.993) Ekstern lektor, kunstakademi",8
+2026M09,"(2310.1.4.994) Forsker, kunstakademi",5
+2026M09,"(2310.1.4.995) Forskningsassistent, kunstakademi",5
+2026M09,"(2310.1.4.996) Ph.d., kunstakademi",6
+2026M09,"(2310.1.4.997) Professor, kunstakademi",5
+2026M09,"(2310.1.4.998) Senior forsker, kunstakademi",5
+2026M09,"(2310.1.4.999) Undervisningsassistent, kunstakademi",5
+2026M09,"(2310.1.4.9991) Videnskabelig assistent, kunstakademi",8
+2026M09,"(2310.1.7.99) Adjunkt, professionshøjskole",109
+2026M09,"(2310.1.7.991) Assistant professor, professionshøjskole",5
+2026M09,"(2310.1.7.992) Associate professor, professionshøjskole",5
+2026M09,"(2310.1.7.993) Ekstern lektor, professionshøjskole",7
+2026M09,"(2310.1.7.994) Forsker, professionshøjskole",21
+2026M09,"(2310.1.7.995) Forskningsassistent, professionshøjskole",5
+2026M09,"(2310.1.7.996) Lektor, professionshøjskole og erhvervsakademi",25
+2026M09,"(2310.1.7.997) Ph.d., professionshøjskole og erhvervsakademi",7
+2026M09,"(2310.1.7.998) Professor, professionshøjskole",5
+2026M09,"(2310.1.7.999) Senior forsker, professionshøjskole",5
+2026M09,"(2310.1.7.9991) Undervisningsassistent, professionshøjskole",5
+2026M09,"(2310.1.7.9992) Videnskabelig assistent, professionshøjskole",5
+2026M09,(2310.1.94) Adjunkt,184
+2026M09,(2310.1.97) Professor,165
+2026M09,"(2310.1.99) Adjunkt, kunstakademi",7
+2026M09,"(2310.51) Post doc., humaniora",31
+2026M09,"(2310.52) Post doc., teologi",6
+2026M09,"(2310.53) Underviser, professionshøjskole",142
+2026M09,(2320.1) Erhvervsskolelærer,205
+2026M09,(2320.1.7) Handelsskolelærer,41
+2026M09,(2330.1) Gymnasielærer,508
+2026M09,(2411.1.12) Skatterevisor,13
+2026M09,(2411.1.7) Revisor,136
+2026M09,(2411.1.8) Økonomicontroller,442
+2026M09,(2411.2) Businesscontroller,142
+2026M09,(2412.5) Investeringsrådgiver,14
+2026M09,(2413.1) Finansanalytiker,52
+2026M09,(2413.1.1) Risikoanalytiker,18
+2026M09,(2413.1.2) Forsikringsanalytiker,5
+2026M09,(2413.1.3) Investeringsanalytiker,5
+2026M09,(2421.2) Rådgivende konsulent,369
+2026M09,(2421.3) Business intelligence manager,51
+2026M09,(2422.1) Fuldmægtig,2385
+2026M09,(2422.10) Politisk medarbejder,20
+2026M09,(2422.11) Politisk konsulent,52
+2026M09,(2422.2) Kommunal planlægger,69
+2026M09,(2422.25) Sundhedsøkonom,16
+2026M09,(2422.7) Efterretningsofficer,29
+2026M09,(2422.95) Projektmedarbejder,366
+2026M09,(2423.3) Personalekonsulent,147
+2026M09,"(2423.7) Researcher, rekruttering",31
+2026M09,(2424.99) Kursusleder,20
+2026M09,(2432.3) Fundraiser,103
+2026M09,(2432.5) SOME-medarbejder,82
+2026M09,(2432.8) Kommunikationskonsulent,310
+2026M09,(2432.9) Pressesekretær,9
+2026M09,"(2511.2) Analytiker, data og analyse",320
+2026M09,"(2511.29) Civilingeniør, IT",8
+2026M09,(2611.1) Advokat,41
+2026M09,(2611.1.2) Politifuldmægtig,5
+2026M09,(2611.99) Advokatfuldmægtig,41
+2026M09,(2612.1) Dommer,37
+2026M09,(2612.1.991) Dommerfuldmægtig,10
+2026M09,(2619.5) Jurist,1397
+2026M09,(2621.1) Arkivar,26
+2026M09,(2621.2) Kunstformidler,36
+2026M09,(2621.4) Konservator,20
+2026M09,(2621.5) Kurator,7
+2026M09,(2621.8) Museumsinspektør,32
+2026M09,(2622.1.991) Dokumentationsmedarbejder,19
+2026M09,(2622.2) Bibliotekar,198
+2026M09,(2622.991) Forskningsbibliotekar,9
+2026M09,(2631.1) Økonom,282
+2026M09,(2631.98) Erhvervsanalytiker,9
+2026M09,(2632.1) Antropolog,10
+2026M09,(2632.2) Arkæolog,27
+2026M09,(2632.4) Kriminolog,6
+2026M09,(2632.5) Geograf,7
+2026M09,(2632.6) Sociolog,5
+2026M09,(2633.1) Historiker,7
+2026M09,(2633.2) Filosof,19
+2026M09,(2633.3) Politolog,8
+2026M09,(2634.2) Psykolog,1063
+2026M09,(2634.2.1) Klinisk psykolog,88
+2026M09,(2635.3.12) HR-konsulent,431
+2026M09,(2636.2) Præst,219
+2026M09,(2643.4) Lingvist,6
+2026M09,(3111.2) Miljøtekniker,35
+2026M09,(3112.1) Bygningsingeniør,117
+2026M09,(3112.7) Energikonsulent,65
+2026M09,(3117.2) Geotekniker,9
+2026M09,(3122.9) Kvalitetsmedarbejder,163
+2026M09,(3212.1) Biomediciner,6
+2026M09,(3214.3) Ortopædiingeniør,5
+2026M09,(3343.1) Administrativ assistent,531
+2026M09,(3411.1) Sagsadministrator,43
+2026M09,(3411.1.99) Byggesagsbehandler,91
+2026M09,"(4224.99) Koordinator, hotel",6
+2026M09,Ledelse,13260
+2026M09,(1111.6) Departementschef,6
+2026M09,(1112.3) Diplomat,9
+2026M09,(1112.6) Leder af offentlig forvaltning,150
+2026M09,(1112.6.992) Sygehusdirektør,5
+2026M09,(1112.7) Generalsekretær,7
+2026M09,(1120.2.1) Regionsdirektør,6
+2026M09,(1120.3) Direktør,385
+2026M09,(1120.3.1) Lufthavnschef,5
+2026M09,(1120.4) Driftsleder,317
+2026M09,(1120.4.991) Teknisk chef,61
+2026M09,"(1120.99.1) Daglig leder, sundhed",104
+2026M09,(1211.1) Økonomichef,180
+2026M09,(1211.1.1) Regnskabschef,72
+2026M09,(1211.1.4) Finanschef,41
+2026M09,(1212.1) Personalechef,46
+2026M09,(1212.1.1) Ligestillings- og inklusionschef,5
+2026M09,(1213.2.3) Turismechef,5
+2026M09,(1213.3) Programchef,18
+2026M09,(1213.95) Sekretariatschef,65
+2026M09,(1219.1) Administrationschef,79
+2026M09,(1219.1.2) Sikkerhedschef,12
+2026M09,(1219.4) Afdelingsleder,1488
+2026M09,"(1219.4.1) Afdelingsleder, offentlig",551
+2026M09,"(1219.4.2) Afdelingsleder, privat",47
+2026M09,(1219.4.95) Områdechef,233
+2026M09,(1219.5) Facility manager,69
+2026M09,(1219.6) Projektleder,2253
+2026M09,(1219.6.99) Projektkoordinator,239
+2026M09,(1219.7) Kvalitetschef,53
+2026M09,(1219.99) Kontorchef,284
+2026M09,(1219.99.1) Kontorleder,88
+2026M09,(1221.3.2.1) Salgschef,271
+2026M09,(1221.3.2.1.1) Produktchef,48
+2026M09,(1221.3.2.1.2) Kontraktchef,14
+2026M09,(1221.3.3) Marketingchef,120
+2026M09,(1221.4) Salgsdirektør,14
+2026M09,(1222.1) Kommunikationschef,45
+2026M09,(1222.1.1) Reklamechef,5
+2026M09,(1223.2) Forskningschef,11
+2026M09,(1223.2.1) Udviklingschef,47
+2026M09,(1311.1) Skovrider,13
+2026M09,(1321.1) Produktionschef,54
+2026M09,(1321.1.3) Driftschef,85
+2026M09,(1321.1.6) Teknisk serviceleder,51
+2026M09,(1324.3.1) Logistikchef,44
+2026M09,(1324.3.1.1) Transportchef,6
+2026M09,(1324.3.2) Import- og eksportchef,5
+2026M09,(1324.3.4.2) Indkøbschef,39
+2026M09,(1324.3.4.3) Ressourceleder,16
+2026M09,(1324.3.5) Lagerchef,82
+2026M09,(1330.1.1) Information- og videnchef IT,13
+2026M09,(1330.2) IT-chef,107
+2026M09,(1330.7) IT-projektleder,262
+2026M09,(1341.2) Dagtilbudsleder,147
+2026M09,(1341.3) Vuggestueleder,66
+2026M09,"(1341.93) Daglig leder, institution for børn og unge",74
+2026M09,"(1341.94) Souschef, institution for børn og unge",22
+2026M09,"(1341.95) Souschef, institution",43
+2026M09,"(1341.96) Institutionsleder, ældre",15
+2026M09,"(1341.97) Institutionsleder, børn og unge",73
+2026M09,"(1341.98) Souschef, institution for ældre",7
+2026M09,"(1341.99) Daglig leder, institution",192
+2026M09,(1343.1) Plejehjemsleder,125
+2026M09,"(1343.98) Daglig leder, institution for ældre",87
+2026M09,(1344.1.2) Leder af børne- og ungdomsklub,21
+2026M09,(1344.1.3) Børne- og ungekoordinator,32
+2026M09,(1344.2) Afdelingschef,250
+2026M09,"(1344.2.4) Afdelingschef, privat",23
+2026M09,"(1344.2.5) Afdelingschef, offentlig",88
+2026M09,(1345.1.2) Viceskoleleder,117
+2026M09,(1345.1.6) Skoleleder,221
+2026M09,(1345.1.6.991) Efterskoleforstander,8
+2026M09,(1345.1.8) Rektor,38
+2026M09,(1345.1.99) Institut- / centerleder,32
+2026M09,(1345.1.991) Uddannelsesleder,131
+2026M09,(1346.1) Bankdirektør,6
+2026M09,(1349.1) Flysikkerhedschef,5
+2026M09,(1349.13) Miljø- og sikkerhedschef,5
+2026M09,(1349.16) Bibliotekschef,9
+2026M09,(1349.17) Laboratorieleder,5
+2026M09,(1349.18) Museumsleder,5
+2026M09,(1349.21) Kundeservicechef,69
+2026M09,(1349.21.1) Juridisk chef,6
+2026M09,"(1349.22) Idrætsleder, kommunal",5
+2026M09,(1349.3) Rigsarkivar,5
+2026M09,(1349.4) Kunstnerisk leder,8
+2026M09,(1349.51) Servicechef,34
+2026M09,(1349.8) Brandchef,5
+2026M09,(1411.1) Hotelchef,10
+2026M09,"(1411.9) Receptionschef, hotel",12
+2026M09,(1412.2) Restaurantchef,147
+2026M09,"(1412.95) Souschef, køkken",64
+2026M09,(1420.4) Butikschef,648
+2026M09,(1420.6) Regionschef,14
+2026M09,(1431.1.1) Centerleder,100
+2026M09,(1431.1.2) Produktionsleder inden for film og teater,6
+2026M09,(1439.1) Campingpladsbestyrer,6
+2026M09,(1439.3) Værkstedsleder,60
+2026M09,(2211.95) Overlæge,662
+2026M09,(2221.4) Ledende sygeplejerske,431
+2026M09,(2262.1) Apoteker,8
+2026M09,(2263.94) Vagtcentralleder,6
+2026M09,(2431.11) Markedsanalytiker,5
+2026M09,(2431.3) Markedsføringsspecialist,7
+2026M09,(2635.3.23) Socialfaglig leder,36
+2026M09,(2641.1) Forlagsredaktør,6
+2026M09,(2642.1.13) Redaktør,36
+2026M09,(2642.1.8) Redaktionschef,8
+2026M09,(3122.4) Produktionsleder,126
+2026M09,(3123.1) Værkfører,156
+2026M09,"(3123.1.29) Arbejdsleder, produktion",13
+2026M09,"(3123.1.30) Arbejdsleder, bygge og anlæg",16
+2026M09,"(3139.99) Formand, drift og produktion",82
+2026M09,(3151.2) Maskinmester,282
+2026M09,(3331.2) Speditionsleder,5
+2026M09,(3332.2.1) Arrangementchef,8
+2026M09,(5120.1.4.99) Kantineleder,62
+2026M09,(5311.1.3.991) Dagplejeleder,10
+2026M09,(6113.2) Chef for gartneriproduktion,5
+2026M09,(6210.1) Skovfoged,9
