@@ -305,13 +305,6 @@
     <h2 data-en="Employment since ChatGPT">Beskæftigelse siden ChatGPT</h2>
   </div>
 
-  <section class="chart" id="aendring">
-    <div class="chart-head"><h2 id="h-yoy" data-en="Change since ChatGPT">Ændring siden ChatGPT</h2></div>
-    <p class="unit" data-en="Change in the number of employees from 2022 to the latest year, %">Ændring i antal lønmodtagere fra 2022 til det seneste år, pct.</p>
-    <div class="plot" style="padding: 10px 16px 12px"><div class="dots" id="c-yoy"></div></div>
-    <dl class="notes" id="src-yoy"></dl>
-  </section>
-
   <section class="chart" id="beskaeftigelse">
     <div class="chart-head">
       <h2 id="h-emp">Lønmodtagere i de mest og mindst AI-eksponerede brancher</h2>
@@ -323,6 +316,13 @@
     </div>
     <dl class="notes" id="src-emp"></dl>
     <details class="table"><summary data-en="Show figures">Vis tal</summary><div class="table-wrap"><table id="t-emp"></table></div></details>
+  </section>
+
+  <section class="chart" id="aendring">
+    <div class="chart-head"><h2 id="h-yoy" data-en="Change since ChatGPT by age">Ændring siden ChatGPT efter alder</h2></div>
+    <p class="unit" data-en="Change in the number of employees from 2022 to the latest year, %">Ændring i antal lønmodtagere fra 2022 til det seneste år, pct.</p>
+    <div class="plot" style="padding: 10px 16px 12px"><div class="dots" id="c-yoy"></div></div>
+    <dl class="notes" id="src-yoy"></dl>
   </section>
 
   <section class="chart" id="sammensaetning">
@@ -641,17 +641,13 @@
       k => { state.age = k; empChart(document.getElementById("c-emp"), k); document.getElementById("emp-age-title").textContent = ageLabels[k]; });
     drawEmp();
 
-    // ---- Stanford-hovedgraf: ændring det seneste år (seneste fire kvartaler mod de fire før), som prikker
-    // Ændring siden ChatGPT: seneste fire kvartaler mod gennemsnittet af 2022 (samme tal som i graferne nedenfor)
+    // Ændring siden ChatGPT efter alder: seneste fire kvartaler mod gennemsnittet af 2022 (samme tal som i graferne ovenfor).
+    // Én række pr. aldersgruppe, så man kan se, om tilbagegangen i de eksponerede brancher kun gælder de unge.
     const yoy = arr => { const v = last(arr); return v == null ? null : v - 100; };
     const ageKeys = ["15-24", "25-34", "35-44", "45-64"];
     const ageColor = { "15-24": "--age1", "25-34": "--age2", "35-44": "--age3", "45-64": "--age4" };
     const ageName = a => L(a.replace("-", "–") + " år", "Ages " + a.replace("-", "–"));
-    const rowsYoy = [
-      { name: L("Alle brancher", "All industries"), pts: ageKeys.map(a => ({ lab: ageName(a), v: yoy(E.serier[a].alle), c: ageColor[a] })) },
-      { name: allAgesName, pts: groups.map(g => ({ lab: g.label, v: yoy(E.serier["15-64"][g.key]), c: g.color })) },
-      { name: ageName("15-24"), pts: groups.map(g => ({ lab: g.label, v: yoy(E.serier["15-24"][g.key]), c: g.color })) }
-    ];
+    const rowsYoy = ageKeys.map(a => ({ name: ageName(a), pts: groups.map(g => ({ lab: g.label, v: yoy(E.serier[a][g.key]), c: g.color })) }));
     (function drawYoy() {
       const host = document.getElementById("c-yoy");
       host.textContent = "";
@@ -695,8 +691,9 @@
     })();
     const dstKilde = L("Danmarks Statistik (LBESK310) og egne beregninger.", "Statistics Denmark (LBESK310) and own calculations.");
     const sidste4 = `${qLabel(E.perioder[E.perioder.length - 4])}–${qLabel(E.perioder[E.perioder.length - 1])}`;
-    notes("src-yoy", L(`Gennemsnittet af 2022 sammenlignet med gennemsnittet af ${sidste4}. Samme tal og gruppering af brancher som i graferne nedenfor. ChatGPT blev lanceret 30. november 2022.`,
-      `Average of 2022 compared with the average of ${sidste4}. Same figures and grouping of industries as in the charts below. ChatGPT was launched on 30 November 2022.`), dstKilde);
+    const alle24 = pct1(yoy(E.serier["15-24"].alle)), alle64 = pct1(yoy(E.serier["15-64"].alle));
+    notes("src-yoy", L(`Gennemsnittet af 2022 sammenlignet med gennemsnittet af ${sidste4}. Samme tal og gruppering af brancher som i graferne ovenfor. På tværs af alle brancher er ændringen ${alle24} for de 15–24-årige og ${alle64} for alle aldre. ChatGPT blev lanceret 30. november 2022.`,
+      `Average of 2022 compared with the average of ${sidste4}. Same figures and grouping of industries as in the charts above. Across all industries the change is ${alle24} for 15–24-year-olds and ${alle64} for all ages. ChatGPT was launched on 30 November 2022.`), dstKilde);
 
     // ---- Sammensætning i 2022
     (function drawComp() {
@@ -807,6 +804,9 @@
     const yM = last(E.serier["15-24"].mest) - 100;
     setH("h-emp", yM < -3 ? L("Færre unge i de mest AI-eksponerede brancher", "Fewer young workers in the most AI-exposed industries")
       : L("Ingen tydelig tilbagegang for unge i de mest AI-eksponerede brancher", "No clear decline for young workers in the most AI-exposed industries"));
+    const kunUnge = yM < -3 && ["25-34", "35-44", "45-64"].every(a => last(E.serier[a].mest) - 100 > 0);
+    setH("h-yoy", kunUnge ? L("Kun de unge er gået tilbage i de mest AI-eksponerede brancher", "Only young workers have declined in the most AI-exposed industries")
+      : L("Ændring siden ChatGPT efter alder", "Change since ChatGPT by age"));
     setH("h-post", last(SG.mest) < last(SG["alle brancher"]) - 5
       ? L("Færre jobopslag i de mest AI-eksponerede stillinger", "Fewer job postings in the most AI-exposed occupations")
       : L("Nye jobopslag", "New job postings"));
